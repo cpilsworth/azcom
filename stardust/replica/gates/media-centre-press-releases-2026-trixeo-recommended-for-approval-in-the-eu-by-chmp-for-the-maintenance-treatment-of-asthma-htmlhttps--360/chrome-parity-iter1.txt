@@ -1,0 +1,127 @@
+[live-session] waiting to pace live navigations to www.astrazeneca.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://
+  build: http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html
+
+■ header: 96 delta(s) — 2 paired of 93/2 texts, 7/1 icons
+  (live has no <header>: auto-detected div.nav.mainnav — pass --region header=<liveSel>|<buildSel> to override)
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+  REGION STYLE position static → relative (fixed/sticky chrome must stay fixed/sticky — seam symmetry)
+  PAIR         "Search"  fontFamily helvetica neue → arial; fontSize 16px → 13.3333px; lineHeight 20px → normal; Δy +2px (19→21)
+  PAIR         "Menu"  fontFamily helvetica neue → arial; fontSize 16px → 13.3333px; lineHeight 20px → normal; Δx +7px (323→330); Δy +10px (20→30)
+  MISSING      "Search"  live <label> "Search" has no build element with the same text
+  MISSING      "Search"  live <span> "Search" has no build element with the same text
+  MISSING      "What science can do"  live <a> "What science can do" has no build element with the same text
+  MISSING      "What science can do"  live <a> "What science can do" has no build element with the same text
+  MISSING      "Stories of impact"  live <a> "Stories of impact" has no build element with the same text
+  MISSING      "Publications"  live <a> "Publications" has no build element with the same text
+  MISSING      "R&D"  live <a> "R&D" has no build element with the same text
+  MISSING      "R&D"  live <a> "R&D" has no build element with the same text
+  MISSING      "Our approach"  live <a> "Our approach" has no build element with the same text
+  MISSING      "Innovation in medicines"  live <a> "Innovation in medicines" has no build element with the same text
+  MISSING      "Science & Technologies"  live <a> "Science & Technologies" has no build element with the same text
+  MISSING      "Patient Commitment"  live <a> "Patient Commitment" has no build element with the same text
+  MISSING      "R&D Collaborations"  live <a> "R&D Collaborations" has no build element with the same text
+  MISSING      "Our R&D centres"  live <a> "Our R&D centres" has no build element with the same text
+  MISSING      "Featured website"  live <span> "Featured website" has no build element with the same text
+  MISSING      "AstraZeneca Clinical Trials"  live <span> "AstraZeneca Clinical Trials" has no build element with the same text
+  MISSING      "Featured website"  live <span> "Featured website" has no build element with the same text
+  MISSING      "Open Innovation"  live <span> "Open Innovation" has no build element with the same text
+  MISSING      "Our therapy areas"  live <a> "Our therapy areas" has no build element with the same text
+  MISSING      "Our therapy areas"  live <a> "Our therapy areas" has no build element with the same text
+  MISSING      "Oncology"  live <a> "Oncology" has no build element with the same text
+  MISSING      "BioPharmaceuticals"  live <a> "BioPharmaceuticals" has no build element with the same text
+  MISSING      "Cardiovascular, Renal and Metabolism"  live <a> "Cardiovascular, Renal and Metabolism" has no build element with the same text
+  MISSING      "Respiratory & Immunology"  live <a> "Respiratory & Immunology" has no build element with the same text
+  MISSING      "Infectious Disease"  live <a> "Infectious Disease" has no build element with the same text
+  MISSING      "Rare Disease"  live <a> "Rare Disease" has no build element with the same text
+  MISSING      "Pipeline"  live <a> "Pipeline" has no build element with the same text
+  MISSING      "All medicines"  live <a> "All medicines" has no build element with the same text
+  MISSING      "Our company"  live <a> "Our company" has no build element with the same text
+  MISSING      "Our company"  live <a> "Our company" has no build element with the same text
+  MISSING      "Our history"  live <a> "Our history" has no build element with the same text
+  MISSING      "Our leadership"  live <a> "Our leadership" has no build element with the same text
+  MISSING      "Cambridge"  live <a> "Cambridge" has no build element with the same text
+  MISSING      "Gothenburg"  live <a> "Gothenburg" has no build element with the same text
+  MISSING      "Gaithersburg"  live <a> "Gaithersburg" has no build element with the same text
+  MISSING      "Careers"  live <a> "Careers" has no build element with the same text
+  MISSING      "Careers"  live <a> "Careers" has no build element with the same text
+  MISSING      "Great place to work"  live <a> "Great place to work" has no build element with the same text
+  MISSING      "Inclusion and diversity"  live <a> "Inclusion and diversity" has no build element with the same text
+  MISSING      "Learning and development"  live <a> "Learning and development" has no build element with the same text
+  MISSING      "Employee resource groups"  live <a> "Employee resource groups" has no build element with the same text
+  MISSING      "Investors"  live <a> "Investors" has no build element with the same text
+  MISSING      "Investor Relations (Global)"  live <a> "Investor Relations (Global)" has no build element with the same text
+  MISSING      "Investor Relations (Sweden)"  live <a> "Investor Relations (Sweden)" has no build element with the same text
+  MISSING      "Resources"  live <a> "Resources" has no build element with the same text
+  MISSING      "Governance"  live <a> "Governance" has no build element with the same text
+  MISSING      "Shareholder information"  live <a> "Shareholder information" has no build element with the same text
+  MISSING      "Dividend policy"  live <a> "Dividend policy" has no build element with the same text
+  MISSING      "Key facts"  live <a> "Key facts" has no build element with the same text
+  MISSING      "FAQs"  live <a> "FAQs" has no build element with the same text
+  MISSING      "Debt Investors"  live <a> "Debt Investors" has no build element with the same text
+  MISSING      "Investor Relations contacts"  live <a> "Investor Relations contacts" has no build element with the same text
+  MISSING      "Annual Report 2025"  live <a> "Annual Report 2025" has no build element with the same text
+  MISSING      "Feature"  live <span> "Feature" has no build element with the same text
+  MISSING      "9M and Q3 2026 results"  live <span> "9M and Q3 2026 results" has no build element with the same text
+  MISSING      "Feature"  live <span> "Feature" has no build element with the same text
+  MISSING      "Results and presentations"  live <span> "Results and presentations" has no build element with the same text
+  MISSING      "Media"  live <a> "Media" has no build element with the same text
+  MISSING      "Media"  live <a> "Media" has no build element with the same text
+  MISSING      "Press Releases"  live <a> "Press Releases" has no build element with the same text
+  MISSING      "Articles"  live <a> "Articles" has no build element with the same text
+  MISSING      "Image library"  live <a> "Image library" has no build element with the same text
+  MISSING      "B-roll videos"  live <a> "B-roll videos" has no build element with the same text
+  MISSING      "Archive"  live <a> "Archive" has no build element with the same text
+  MISSING      "Media contacts"  live <a> "Media contacts" has no build element with the same text
+  MISSING      "Sustainability"  live <a> "Sustainability" has no build element with the same text
+  MISSING      "Sustainability"  live <a> "Sustainability" has no build element with the same text
+  MISSING      "Climate change"  live <a> "Climate change" has no build element with the same text
+  MISSING      "Nature"  live <a> "Nature" has no build element with the same text
+  MISSING      "Health equity"  live <a> "Health equity" has no build element with the same text
+  MISSING      "Health systems resilience"  live <a> "Health systems resilience" has no build element with the same text
+  MISSING      "Ethics and governance"  live <a> "Ethics and governance" has no build element with the same text
+  MISSING      "Our people"  live <a> "Our people" has no build element with the same text
+  MISSING      "Our Values"  live <a> "Our Values" has no build element with the same text
+  MISSING      "Partnerships and alliances"  live <a> "Partnerships and alliances" has no build element with the same text
+  MISSING      "Resources"  live <a> "Resources" has no build element with the same text
+  MISSING      "Feature"  live <span> "Feature" has no build element with the same text
+  MISSING      "Our Sustainability Impact"  live <span> "Our Sustainability Impact" has no build element with the same text
+  MISSING      "Feature"  live <span> "Feature" has no build element with the same text
+  MISSING      "Sustainable science"  live <span> "Sustainable science" has no build element with the same text
+  MISSING      "Partnering"  live <a> "Partnering" has no build element with the same text
+  MISSING      "Partnering"  live <a> "Partnering" has no build element with the same text
+  MISSING      "Our business development teams"  live <a> "Our business development teams" has no build element with the same text
+  MISSING      "Our areas of partnering interest"  live <a> "Our areas of partnering interest" has no build element with the same text
+  MISSING      "Why partner with AstraZeneca?"  live <a> "Why partner with AstraZeneca?" has no build element with the same text
+  MISSING      "Information for Suppliers"  live <a> "Information for Suppliers" has no build element with the same text
+  MISSING      "Supplier Sustainability Hub"  live <a> "Supplier Sustainability Hub" has no build element with the same text
+  MISSING      "Sustainable procurement"  live <a> "Sustainable procurement" has no build element with the same text
+  MISSING      "A Catalyst Network"  live <a> "A Catalyst Network" has no build element with the same text
+  MISSING      "AstraZeneca Websites"  live <a> "AstraZeneca Websites" has no build element with the same text
+  MISSING      "Global site"  live <a> "Global site" has no build element with the same text
+  ICONS        7 live vs 1 build (svg/img) — harvest the live vectors verbatim (recreation-procedure.md § Asset harvest), never approximate
+
+■ footer: 20 delta(s) — 19 paired of 19/19 texts, 0/0 icons
+  REGION BOX   Δy -53px (5618→5565), Δh -15px (713→698)
+  PAIR         "AstraZeneca Websites"  Δy -53px (5642→5589)
+  PAIR         "This website is intended for people seek"  Δy -53px (5679→5626)
+  PAIR         "Veeva ID: Z4-88682 Date of next review: "  Δy -53px (5758→5705)
+  PAIR         "Resources"  Δy -53px (5805→5752)
+  PAIR         "Quick links"  Δy -53px (5864→5811)
+  PAIR         "Social Media"  lineHeight 23.4px → 20px; Δy -53px (5952→5899)
+  PAIR         "LinkedIn"  Δy -53px (5953→5900)
+  PAIR         "Instagram"  Δy -53px (5953→5900)
+  PAIR         "Facebook"  Δy -53px (5953→5900)
+  PAIR         "X"  Δy -53px (5953→5900)
+  PAIR         "YouTube"  Δy -53px (5953→5900)
+  PAIR         "Glassdoor"  Δy -53px (5953→5900)
+  PAIR         "utility links"  Δy -53px (6102→6049)
+  PAIR         "Legal notice and Terms of Use"  Δy -53px (6124→6071)
+  PAIR         "Privacy notice"  Δy -53px (6124→6071)
+  PAIR         "Site map"  Δx -157px (177→20); Δy -33px (6159→6126)
+  PAIR         "Contact us"  Δy -68px (6194→6126)
+  PAIR         "Cookie preferences"  Δy -68px (6229→6161)
+  PAIR         "© AstraZeneca 2026"  Δy -68px (6243→6175)
+
+✗ 116 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

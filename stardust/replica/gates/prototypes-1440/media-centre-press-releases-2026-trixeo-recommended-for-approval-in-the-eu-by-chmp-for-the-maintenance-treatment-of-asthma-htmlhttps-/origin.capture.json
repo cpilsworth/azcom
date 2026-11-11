@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+  "width": 1440,
+  "vh": 900,
+  "height": 3385,
+  "chunks": 4,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 5,
+    "late": 1
+  },
+  "at": "2026-11-10T12:10:59.191Z"
+}

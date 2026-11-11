@@ -1,0 +1,97 @@
+/* therapy-cards — the source's embedded .therapy-grid / .therapy-card */
+.therapy-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  max-width: var(--container);
+  margin: 20px auto;
+  padding: 0 20px;
+  font-family: var(--font-lexia);
+  line-height: 1.25;
+}
+
+.therapy-cards .therapy-cards-card {
+  padding: 22px 24px;
+  border: 1px solid #e2e6ea;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.therapy-cards .therapy-cards-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+
+.therapy-cards .therapy-cards-title {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.therapy-cards .therapy-cards-growth {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.therapy-cards .therapy-cards-growth.is-up {
+  color: rgb(31 138 91);
+}
+
+.therapy-cards .therapy-cards-growth.is-down {
+  color: #c0392b;
+}
+
+.therapy-cards .therapy-cards-value {
+  margin-bottom: 8px;
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.8px;
+  line-height: 1;
+}
+
+.therapy-cards .therapy-cards-description {
+  margin: 0;
+  color: #5a6b78;
+  font: 300 13.5px/1.5 var(--font-lexia);
+  letter-spacing: 0.3px;
+}
+
+.therapy-cards p {
+  margin: 0;
+}
+
+/* the section's default content: question heading + caption above the cards */
+.therapy-cards-container .default-content-wrapper {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 20px 20px 0;
+}
+
+.therapy-cards-container .default-content-wrapper h2 {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 400 21px/26px var(--font-lexia);
+  letter-spacing: 0.03px;
+}
+
+.therapy-cards-container .default-content-wrapper p {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+@media (width >= 600px) {
+  .therapy-cards-container .default-content-wrapper h2 {
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0.6px;
+  }
+}
+
+@media (width >= 769px) {
+  .therapy-cards {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

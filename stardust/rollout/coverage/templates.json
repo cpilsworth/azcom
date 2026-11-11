@@ -1,0 +1,58 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-10T12:42:59.036Z",
+    "readArtifacts": [
+      "stardust/migrated"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-10T16:16:51.596Z",
+  "templates": [
+    {
+      "id": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "representativeSlug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "pages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article-date",
+        "fin-table",
+        "guidance",
+        "hero-feature",
+        "pipeline-cards",
+        "quote",
+        "results-downloads",
+        "section-nav",
+        "stat-grid",
+        "tags",
+        "therapy-cards"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "representativeSlug": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "pages": [
+        "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article-date",
+        "tags"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+/* article.css — press release archetype (Trixeo). Values from the live page
+   (stardust/replica/measure/article-live*.json) and base.min.css. */
+
+.az-hero { margin: 0 0 40px; position: relative; }
+.az-hero__title {
+  margin: 0; padding: 40px 20px; text-align: center; color: var(--az-text);
+  font: italic 300 30px/36px var(--font-lexia); letter-spacing: .9px;
+}
+.az-hero__title .az-constrained { display: block; }
+
+.az-article { max-width: var(--container); margin: 0 auto 40px; padding: 0 20px; }
+.az-date { display: flow-root; margin: 0 0 35px; padding: 0 0 26px; box-shadow: rgb(216 216 216 / 50%) 0 16px 23px -16px; }
+.az-date__region { float: left; padding-right: 16px; border-right: 1px solid #d8dfde; }
+.az-date__title { display: block; padding-bottom: 5px; font: 400 11px/13px var(--font-hn); letter-spacing: .6px; color: var(--az-text); }
+.az-date__date { display: block; font: 200 16px/20px var(--font-lexia); letter-spacing: 1px; color: var(--az-text); }
+
+.az-rich-text { color: var(--az-text); }
+.az-article__body { display: block; }
+.az-tags { margin-top: 15px; }
+.az-tags ul { list-style: none; margin: 0; padding: 0; text-align: center; }
+.az-tags li {
+  display: inline-block; margin: 10px 5px 0; padding: 12px; border: 1px solid var(--az-text); border-radius: 24px;
+  font: 300 11px/13px var(--font-hn); letter-spacing: .6px; color: var(--az-text);
+}
+.az-rich-text h3 {
+  margin: 40px 0 10px; font: 300 18px/22px var(--font-lexia); letter-spacing: 1px; color: var(--az-text);
+}
+.az-article__body > .az-rich-text:first-child > h3:first-child { margin-top: 10px; }
+.az-rich-text .is-center { text-align: center; }
+.az-rich-text p, .az-rich-text li {
+  margin: 10px 0; font: 300 14px/20px var(--font-hn); letter-spacing: .3px; color: var(--az-text);
+}
+.az-rich-text b, .az-rich-text strong { font-weight: 700; }
+.az-rich-text h3 b { font-weight: 400; }
+.az-rich-text a { color: var(--az-link); text-decoration: none; }
+.az-rich-text sup, .az-rich-text sub { font-size: 10.5px; line-height: 0; }
+.az-rich-text ol { margin: 0; padding: 0; list-style-position: inside; }
+.az-rich-text li { margin: 0 0 10px; }
+.az-spacer { height: 0; margin: 0; border: 0; }
+.az-spacer--sml { padding: 10px 0; }
+
+@media only screen and (min-width: 60em) {
+  .az-hero { margin-bottom: 60px; }
+  .az-hero__title { padding: 80px 20px; font-size: 42px; line-height: 48px; letter-spacing: 1.1px; }
+  .az-hero__title .az-constrained { max-width: var(--container); margin: 0 auto; }
+  .az-article { margin-bottom: 60px; }
+  .az-date__date { font-size: 18px; line-height: 22px; letter-spacing: 1.12px; }
+  .az-article__body { display: flow-root; width: 65.96%; margin-left: 17.02%; }
+  .az-rich-text h3 { letter-spacing: .7px; }
+  .az-tags li { margin-top: 0; }
+}

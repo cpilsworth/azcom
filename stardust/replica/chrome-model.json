@@ -1,0 +1,808 @@
+{
+ "_provenance": {
+  "from": "stardust/current/pages/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-.html",
+  "writtenAt": "2026-11-10T12:07:48.609Z"
+ },
+ "skip": [
+  {
+   "label": "Skip to content",
+   "href": "#main"
+  },
+  {
+   "label": "Skip to navigation",
+   "href": "#navigation"
+  },
+  {
+   "label": "Skip to footer",
+   "href": "#footer"
+  }
+ ],
+ "logo": {
+  "href": "https://www.astrazeneca.com/",
+  "alt": "AstraZeneca logo"
+ },
+ "region": [
+  {
+   "label": "AstraZeneca Websites",
+   "href": "/global/en/AstraZeneca-Websites.html",
+   "global": false
+  },
+  {
+   "label": "Global site",
+   "href": "https://www.astrazeneca.com",
+   "global": true
+  }
+ ],
+ "search": {
+  "action": "/search_results.s.html",
+  "name": "q",
+  "placeholder": "Enter your search"
+ },
+ "nav": [
+  {
+   "label": "What science can do",
+   "href": "/what-science-can-do.html",
+   "current": false,
+   "parent": {
+    "label": "What science can do",
+    "href": "/what-science-can-do.html"
+   },
+   "items": [
+    {
+     "label": "Stories of impact",
+     "href": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html?filters=impact,Feature",
+     "children": null
+    },
+    {
+     "label": "Publications",
+     "href": "/publication.html",
+     "children": null
+    }
+   ],
+   "spotlight": []
+  },
+  {
+   "label": "R&D",
+   "href": "/r-d.html",
+   "current": false,
+   "parent": {
+    "label": "R&D",
+    "href": "/r-d.html"
+   },
+   "items": [
+    {
+     "label": "Our approach",
+     "href": "/r-d/rd-approach.html",
+     "children": {
+      "parent": {
+       "label": "Our approach to R&D",
+       "href": "/r-d/rd-approach.html"
+      },
+      "items": [
+       {
+        "label": "Oncology R&D strategy",
+        "href": "/r-d/rd-approach/oncology-research-and-development.html"
+       },
+       {
+        "label": "Rare Disease R&D Strategy",
+        "href": "/r-d/rd-approach/rare-disease-strategy.html"
+       },
+       {
+        "label": "STEM at AstraZeneca",
+        "href": "/r-d/rd-approach/stem-at-astrazeneca.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Innovation in medicines",
+     "href": "/r-d/innovation-in-medicines.html",
+     "children": {
+      "parent": {
+       "label": "Innovation in medicines overview",
+       "href": "/r-d/innovation-in-medicines.html"
+      },
+      "items": [
+       {
+        "label": "Cell therapies",
+        "href": "/r-d/innovation-in-medicines/cell-therapies.html"
+       },
+       {
+        "label": "Oligonucleotide therapeutics",
+        "href": "/r-d/innovation-in-medicines/oligonucleotides.html.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Science & Technologies",
+     "href": "/r-d/science-and-technologies.html",
+     "children": {
+      "parent": {
+       "label": "Science & Technologies overview",
+       "href": "/r-d/science-and-technologies.html"
+      },
+      "items": [
+       {
+        "label": "AI and data",
+        "href": "/r-d/science-and-technologies/ai-data.html"
+       },
+       {
+        "label": "Genomics",
+        "href": "/r-d/science-and-technologies/genomics.html"
+       },
+       {
+        "label": "New Approach Methodologies",
+        "href": "/r-d/science-and-technologies/new-approach-methodologies.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Patient Commitment",
+     "href": "/r-d/patient-commitment.html",
+     "children": null
+    },
+    {
+     "label": "R&D Collaborations",
+     "href": "/r-d/collaborations.html",
+     "children": null
+    },
+    {
+     "label": "Our R&D centres",
+     "href": "/r-d/r-d-centres.html",
+     "children": null
+    }
+   ],
+   "spotlight": [
+    {
+     "href": "https://www.astrazenecaclinicaltrials.com",
+     "target": "_blank",
+     "subTitle": "Featured website",
+     "title": "AstraZeneca Clinical Trials",
+     "img": "AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+     "imgSrc": "/content/dam/az/homepage/AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+     "alt": "Clinical trial website thumbnail"
+    },
+    {
+     "href": "https://openinnovation.astrazeneca.com/",
+     "target": "_blank",
+     "subTitle": "Featured website",
+     "title": "Open Innovation",
+     "img": "OI-helix-hero-450x250.webp",
+     "imgSrc": "/content/dam/az/homepage/OI-helix-hero-450x250.webp",
+     "alt": "OpenInnovation logo"
+    }
+   ]
+  },
+  {
+   "label": "Our therapy areas",
+   "href": "/our-therapy-areas.html",
+   "current": false,
+   "parent": {
+    "label": "Our therapy areas",
+    "href": "/our-therapy-areas.html"
+   },
+   "items": [
+    {
+     "label": "Oncology",
+     "href": "/our-therapy-areas/oncology.html",
+     "children": null
+    },
+    {
+     "label": "BioPharmaceuticals",
+     "href": "/our-therapy-areas/biopharmaceuticals.html",
+     "children": null
+    },
+    {
+     "label": "Cardiovascular, Renal and Metabolism",
+     "href": "/our-therapy-areas/cardiovascular-renal-and-metabolism.html",
+     "children": null
+    },
+    {
+     "label": "Respiratory & Immunology",
+     "href": "/our-therapy-areas/respiratory-and-immunology.html",
+     "children": null
+    },
+    {
+     "label": "Infectious Disease",
+     "href": "/our-therapy-areas/infectious-disease.html",
+     "children": null
+    },
+    {
+     "label": "Rare Disease",
+     "href": "/our-therapy-areas/rare-disease.html",
+     "children": null
+    },
+    {
+     "label": "Pipeline",
+     "href": "/our-therapy-areas/pipeline.html",
+     "children": null
+    },
+    {
+     "label": "All medicines",
+     "href": "/our-therapy-areas/medicines.html",
+     "children": null
+    }
+   ],
+   "spotlight": []
+  },
+  {
+   "label": "Our company",
+   "href": "/our-company.html",
+   "current": false,
+   "parent": {
+    "label": "Our company",
+    "href": "/our-company.html"
+   },
+   "items": [
+    {
+     "label": "Our history",
+     "href": "/our-company/history.html",
+     "children": null
+    },
+    {
+     "label": "Our leadership",
+     "href": "/our-company/leadership.html",
+     "children": null
+    },
+    {
+     "label": "Cambridge",
+     "href": "/our-company/our-locations/cambridge.html",
+     "children": null
+    },
+    {
+     "label": "Gothenburg",
+     "href": "/our-company/our-locations/gothenburg.html",
+     "children": null
+    },
+    {
+     "label": "Gaithersburg",
+     "href": "/our-company/our-locations/gaithersburg.html",
+     "children": null
+    }
+   ],
+   "spotlight": []
+  },
+  {
+   "label": "Careers",
+   "href": "https://careers.astrazeneca.com/",
+   "current": false,
+   "parent": {
+    "label": "Careers",
+    "href": "https://careers.astrazeneca.com/"
+   },
+   "items": [
+    {
+     "label": "Great place to work",
+     "href": "/careers/great-place-to-work.html",
+     "children": null
+    },
+    {
+     "label": "Inclusion and diversity",
+     "href": "/careers/great-place-to-work/inclusion-and-diversity.html",
+     "children": null
+    },
+    {
+     "label": "Learning and development",
+     "href": "/careers/great-place-to-work/learning-development.html",
+     "children": null
+    },
+    {
+     "label": "Employee resource groups",
+     "href": "/careers/great-place-to-work/employee-resource-groups.html",
+     "children": null
+    }
+   ],
+   "spotlight": []
+  },
+  {
+   "label": "Investors",
+   "href": "/investor-relations.html",
+   "current": false,
+   "parent": {
+    "label": "Investor Relations (Global)",
+    "href": "/investor-relations.html"
+   },
+   "items": [
+    {
+     "label": "Investor Relations (Sweden)",
+     "href": "https://www.astrazeneca.se/aktieagare.html",
+     "children": null
+    },
+    {
+     "label": "Resources",
+     "href": "/investor-relations/resources.html",
+     "children": null
+    },
+    {
+     "label": "Governance",
+     "href": "/investor-relations/corporate-governance.html",
+     "children": null
+    },
+    {
+     "label": "Shareholder information",
+     "href": "/investor-relations/shareholder-information.html",
+     "children": null
+    },
+    {
+     "label": "Dividend policy",
+     "href": "/investor-relations/dividend-policy.html",
+     "children": null
+    },
+    {
+     "label": "Key facts",
+     "href": "/investor-relations/key-facts.html",
+     "children": null
+    },
+    {
+     "label": "FAQs",
+     "href": "/investor-relations/faqs.html",
+     "children": null
+    },
+    {
+     "label": "Debt Investors",
+     "href": "/investor-relations/debt-investors.html",
+     "children": null
+    },
+    {
+     "label": "Investor Relations contacts",
+     "href": "/investor-relations/contacts-information.html",
+     "children": null
+    },
+    {
+     "label": "Annual Report 2025",
+     "href": "/investor-relations/annual-reports/annual-report-2025.html",
+     "children": null
+    }
+   ],
+   "spotlight": [
+    {
+     "href": "https://www.astrazeneca.com/investor-relations/9m-and-q3-2026-results-event.html",
+     "target": "_self",
+     "subTitle": "Feature",
+     "title": "9M and Q3 2026 results",
+     "img": "AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+     "imgSrc": "/content/dam/az/Investor_Relations/AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+     "alt": ""
+    },
+    {
+     "href": "https://www.astrazeneca.com/investor-relations/results-and-presentations.html",
+     "target": "_self",
+     "subTitle": "Feature",
+     "title": "Results and presentations",
+     "img": "AZ2045-ipad-450x2501.webp",
+     "imgSrc": "/content/dam/az/homepage/AZ2045-ipad-450x2501.webp",
+     "alt": "ipad image"
+    }
+   ]
+  },
+  {
+   "label": "Media",
+   "href": "/media-centre.html",
+   "current": true,
+   "parent": {
+    "label": "Media",
+    "href": "/media-centre.html"
+   },
+   "items": [
+    {
+     "label": "Press Releases",
+     "href": "/media-centre/press-releases.html",
+     "children": null
+    },
+    {
+     "label": "Articles",
+     "href": "/media-centre/articles.html",
+     "children": null
+    },
+    {
+     "label": "Image library",
+     "href": "/media-centre/image-and-broadcast-library.html",
+     "children": null
+    },
+    {
+     "label": "B-roll videos",
+     "href": "/media-centre/b-roll.html",
+     "children": null
+    },
+    {
+     "label": "Archive",
+     "href": "/media-centre/archive.html",
+     "children": null
+    },
+    {
+     "label": "Media contacts",
+     "href": "/media-centre/contacts.html",
+     "children": null
+    }
+   ],
+   "spotlight": []
+  },
+  {
+   "label": "Sustainability",
+   "href": "/sustainability.html",
+   "current": false,
+   "parent": {
+    "label": "Sustainability",
+    "href": "/sustainability.html"
+   },
+   "items": [
+    {
+     "label": "Climate change",
+     "href": "/sustainability/climate-change.html",
+     "children": {
+      "parent": {
+       "label": "Climate change overview",
+       "href": "/sustainability/climate-change.html"
+      },
+      "items": [
+       {
+        "label": "Renewables",
+        "href": "/sustainability/climate-change/renewable-energy.html"
+       },
+       {
+        "label": "Product sustainability",
+        "href": "/sustainability/climate-change/product-sustainability.html"
+       },
+       {
+        "label": "Electric vehicles and Sustainable transport",
+        "href": "/sustainability/climate-change/accelerating-transition-electric-vehicles.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Nature",
+     "href": "/sustainability/nature.html",
+     "children": {
+      "parent": {
+       "label": "Nature overview",
+       "href": "/sustainability/nature.html"
+      },
+      "items": [
+       {
+        "label": "Water stewardship",
+        "href": "/sustainability/nature/water-stewardship.html"
+       },
+       {
+        "label": "Pharmaceuticals in the environment",
+        "href": "/sustainability/nature/pharmaceuticals-in-the-environment.html"
+       },
+       {
+        "label": "Waste and circularity",
+        "href": "/sustainability/nature/waste-circularity.html"
+       },
+       {
+        "label": "AZ Forest",
+        "href": "/sustainability/climate-change/az-forest.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Health equity",
+     "href": "/sustainability/health-equity.html",
+     "children": {
+      "parent": {
+       "label": "Health equity overview",
+       "href": "/sustainability/health-equity.html"
+      },
+      "items": [
+       {
+        "label": "Science",
+        "href": "/sustainability/health-equity/science.html"
+       },
+       {
+        "label": "Healthcare delivery",
+        "href": "/sustainability/health-equity/healthcare-delivery.html"
+       },
+       {
+        "label": "Community investment",
+        "href": "/sustainability/health-equity/community-investment.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Health systems resilience",
+     "href": "/sustainability/health-systems-resilience.html",
+     "children": {
+      "parent": {
+       "label": "Health systems resilience overview",
+       "href": "/sustainability/health-systems-resilience.html"
+      },
+      "items": [
+       {
+        "label": "Partnership for Health System Sustainability and Resilience (PHSSR)",
+        "href": "/sustainability/health-systems-resilience/PHSSR.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Ethics and governance",
+     "href": "/sustainability/ethics-compliance.html",
+     "children": {
+      "parent": {
+       "label": "Ethics and Compliance",
+       "href": "/sustainability/ethics-compliance.html"
+      },
+      "items": [
+       {
+        "label": "Governance",
+        "href": "/investor-relations/corporate-governance.html"
+       },
+       {
+        "label": "Sustainability governance",
+        "href": "/sustainability/resources/sustainability-governance.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Our people",
+     "href": "/careers/great-place-to-work.html",
+     "children": {
+      "parent": {
+       "label": "Great place to work",
+       "href": "/careers/great-place-to-work.html"
+      },
+      "items": [
+       {
+        "label": "Inclusion and diversity",
+        "href": "/careers/great-place-to-work/inclusion-and-diversity.html"
+       },
+       {
+        "label": "Learning and development",
+        "href": "/careers/great-place-to-work/learning-development.html.html"
+       },
+       {
+        "label": "Workforce safety and health",
+        "href": "/sustainability/workforce-safety-and-health.html"
+       }
+      ]
+     }
+    },
+    {
+     "label": "Our Values",
+     "href": "/our-company.html#values",
+     "children": null
+    },
+    {
+     "label": "Partnerships and alliances",
+     "href": "/sustainability/partnerships-and-alliances.html",
+     "children": null
+    },
+    {
+     "label": "Resources",
+     "href": "/sustainability/resources.html",
+     "children": {
+      "parent": {
+       "label": "Sustainability resources",
+       "href": "/sustainability/resources.html"
+      },
+      "items": [
+       {
+        "label": "Our sustainability impact",
+        "href": "/sustainability/resources/our-impact.html"
+       }
+      ]
+     }
+    }
+   ],
+   "spotlight": [
+    {
+     "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html",
+     "target": "_self",
+     "subTitle": "Feature",
+     "title": "Our Sustainability Impact",
+     "img": "Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+     "imgSrc": "/content/dam/az/Sustainability/2026/Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+     "alt": ""
+    },
+    {
+     "href": "https://www.astrazeneca.com/media-centre/articles/sustainable-science-lab-to-patient.html",
+     "target": "_self",
+     "subTitle": "Feature",
+     "title": "Sustainable science",
+     "img": "AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+     "imgSrc": "/content/dam/az/Sustainability/2026/resources/AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+     "alt": ""
+    }
+   ]
+  },
+  {
+   "label": "Partnering",
+   "href": "/partnering.html",
+   "current": false,
+   "parent": {
+    "label": "Partnering",
+    "href": "/partnering.html"
+   },
+   "items": [
+    {
+     "label": "Our business development teams",
+     "href": "/partnering/our-partnering-teams.html",
+     "children": null
+    },
+    {
+     "label": "Our areas of partnering interest",
+     "href": "/partnering/our-areas-of-partnering-interest.html",
+     "children": null
+    },
+    {
+     "label": "Why partner with AstraZeneca?",
+     "href": "/partnering/why-partner-with-astrazeneca.html",
+     "children": null
+    },
+    {
+     "label": "Information for Suppliers",
+     "href": "/partnering/az-suppliers.html",
+     "children": null
+    },
+    {
+     "label": "Supplier Sustainability Hub",
+     "href": "/partnering/supplier-sustainability-hub.html",
+     "children": null
+    },
+    {
+     "label": "Sustainable procurement",
+     "href": "/partnering/sustainable-procurement.html",
+     "children": null
+    },
+    {
+     "label": "A Catalyst Network",
+     "href": "/partnering/a-catalyst-network.html",
+     "children": null
+    }
+   ],
+   "spotlight": []
+  }
+ ],
+ "footer": {
+  "sites": {
+   "label": "AstraZeneca Websites",
+   "href": "/global/en/AstraZeneca-Websites.html"
+  },
+  "colophon": [
+   "This website is intended for people seeking information on AstraZeneca's worldwide business. Our country sites can be located in the AZ Network.",
+   "Veeva ID: Z4-88682<br>Date of next review: August 2028"
+  ],
+  "columns": [
+   {
+    "title": "Resources",
+    "links": [
+     {
+      "label": "All resources",
+      "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html#resources"
+     },
+     {
+      "label": "Open Innovation",
+      "href": "http://openinnovation.astrazeneca.com"
+     },
+     {
+      "label": "Externally sponsored scientific research",
+      "href": "/partnering/externally-sponsored-scientific-research.html"
+     },
+     {
+      "label": "Medical Information for HCPs",
+      "href": "https://medicalinformation.astrazeneca.com/"
+     },
+     {
+      "label": "US prescription assistance programmes",
+      "href": "http://www.azandme.com"
+     },
+     {
+      "label": "Global clinical trials information",
+      "href": "http://www.astrazenecaclinicaltrials.com/"
+     },
+     {
+      "label": "Medicines",
+      "href": "/our-therapy-areas/medicines.html"
+     },
+     {
+      "label": "Report a possible side effect",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/global/en/amp-form.html"
+     }
+    ]
+   },
+   {
+    "title": "Quick links",
+    "links": [
+     {
+      "label": "Media",
+      "href": "/media-centre.html"
+     },
+     {
+      "label": "Investor Relations",
+      "href": "/investor-relations.html"
+     },
+     {
+      "label": "Partnering",
+      "href": "/partnering.html"
+     },
+     {
+      "label": "Careers",
+      "href": "https://careers.astrazeneca.com"
+     },
+     {
+      "label": "Sustainability",
+      "href": "/sustainability.html"
+     },
+     {
+      "label": "Modern Slavery Statement",
+      "href": "/content/dam/az/PDF/Sustainability/Modern_Slavery_Act_Statement.pdf"
+     },
+     {
+      "label": "AZethics – Report A Concern",
+      "href": "http://www.azethics.com/"
+     },
+     {
+      "label": "Supplier information",
+      "href": "/az-suppliers.html"
+     },
+     {
+      "label": "Social Media Community Guidelines",
+      "href": "/media-centre/social-media-community-guidelines.html"
+     }
+    ]
+   }
+  ],
+  "social": [
+   {
+    "label": "LinkedIn",
+    "href": "https://www.linkedin.com/company/astrazeneca",
+    "kind": "linkedin"
+   },
+   {
+    "label": "Instagram",
+    "href": "https://www.instagram.com/astrazeneca/",
+    "kind": "instagram"
+   },
+   {
+    "label": "Facebook",
+    "href": "https://www.facebook.com/AstraZeneca/",
+    "kind": "fb"
+   },
+   {
+    "label": "X",
+    "href": "https://x.com/AstraZeneca",
+    "kind": "tw"
+   },
+   {
+    "label": "YouTube",
+    "href": "https://www.youtube.com/user/astrazeneca",
+    "kind": "youtube"
+   },
+   {
+    "label": "Glassdoor",
+    "href": "https://www.glassdoor.co.uk/Overview/Working-at-AstraZeneca-EI_IE9214.11,22.htm",
+    "kind": "gd"
+   }
+  ],
+  "utility": [
+   {
+    "label": "Legal notice and Terms of Use",
+    "href": "/legal-notice-and-terms-of-use.html"
+   },
+   {
+    "label": "Privacy notice",
+    "href": "https://www.azprivacy.astrazeneca.com"
+   },
+   {
+    "label": "Site map",
+    "href": "/global/en/sitemap.html"
+   },
+   {
+    "label": "Contact us",
+    "href": "/our-company/Contact-us.html"
+   },
+   {
+    "label": "Cookie preferences",
+    "href": "//policy.cookiereports.com/510df253-en-gb.html"
+   }
+  ],
+  "copyright": "© AstraZeneca 2026"
+ }
+}

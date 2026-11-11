@@ -1,0 +1,10 @@
+{
+  "media-centre-press-releases-2026-h1-and-q2-2026-results-html": {
+    "main": "#main=main",
+    "note": "live content root is section#main (role=main), EDS is <main>; header/footer parity is chrome-parity's job (archetype-unique)"
+  },
+  "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-": {
+    "main": "#main=main",
+    "note": "live content root is section#main (role=main), EDS is <main>; header/footer parity is chrome-parity's job (archetype-article)"
+  }
+}

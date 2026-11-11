@@ -1,0 +1,220 @@
+{
+  "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".navigation__link-list--primary > li:nth-child(2) > a",
+      "frames": [
+        {
+          "t": 16432.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16635.600000000093,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16838.899999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 17041.799999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".navigation__link-list--primary > li > a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".footer__social-channel",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(248, 248, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(248, 248, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "transform",
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link.is-disabled",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "visibility",
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link.is-disabled",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link.is-disabled",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link.is-disabled",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "visibility",
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link.is-disabled",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link.is-disabled",
+        "y": 0,
+        "dur": "0s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-disabled"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 90
+      },
+      {
+        "added": [
+          "is-disabled"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 90
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link.is-disabled",
+        "y": 0
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.navigation__link-wrapper.navigation__link-wrapper--primary.js-navigation__link-wrapper--primary > div.l-constrained > ul.navigation__link-list.navigation__link-list--primary.js-navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > div.navigation__link-list.navigation__link-list--secondary.js-navigation__link-list--secondary",
+        "y": 0
+      },
+      {
+        "added": [
+          "navigation--active"
+        ],
+        "el": "html.js.svg.supports",
+        "y": 0
+      },
+      {
+        "added": [
+          "navigation--active"
+        ],
+        "el": "html.js.svg.supports > body.js.navigation--active",
+        "y": 0
+      }
+    ]
+  }
+}

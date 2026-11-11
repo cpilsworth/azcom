@@ -1,0 +1,299 @@
+{
+  "discovery": {
+    "fetchTechnique": "chrome",
+    "count": 2,
+    "concurrency": 2
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": {
+    "url": "https://www.astrazeneca.com/etc/designs/az/img/favicons/icon-favicon.ico",
+    "file": "assets/favicon.ico"
+  },
+  "crawl": {
+    "failures": [],
+    "pageTimeoutMs": 60000
+  },
+  "captureGaps": {
+    "roots": [],
+    "detail": "uncaptured first-level targets: none (no locale root captured)"
+  },
+  "dynamicSurface": {
+    "pages": 2,
+    "pagesWithSameSiteData": 2,
+    "pagesWithSearchForm": 2,
+    "pagesHydrated": 0,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://dpm.demdex.net/id",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "astrazenecaeurope.d3.sc.omtrdc.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_visid_ver",
+          "mcorgid",
+          "mid",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-javascript",
+        "sameSite": false,
+        "example": "https://astrazenecaeurope.d3.sc.omtrdc.net/id",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "policy.cookiereports.com",
+        "path": "/consent/",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://policy.cookiereports.com/consent/",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "us01.rec.mouseflow.com",
+        "path": "/init",
+        "query": [
+          "dh",
+          "dnt",
+          "dw",
+          "gdpr",
+          "href",
+          "ori",
+          "p",
+          "page",
+          "pxr",
+          "ref",
+          "res",
+          "ret",
+          "s",
+          "time",
+          "title",
+          "to",
+          "tz",
+          "u",
+          "url",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://us01.rec.mouseflow.com/init",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "us01.rec.mouseflow.com",
+        "path": "/html",
+        "query": [
+          "gz",
+          "page",
+          "session",
+          "website"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://us01.rec.mouseflow.com/html",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.astrazeneca.com",
+        "path": "/content/astraz/media-centre/press-releases/{n}/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json",
+        "pages": 1,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.astrazeneca.com",
+        "path": "/content/astraz/media-centre/press-releases/{n}/h1-and-q2-2026-results/jcr:content.darkSite.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/h1-and-q2-2026-results/jcr:content.darkSite.json",
+        "pages": 1,
+        "examples": [
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "us01.rec.mouseflow.com",
+        "path": "/dom",
+        "query": [
+          "gz"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://us01.rec.mouseflow.com/dom",
+        "pages": 1,
+        "examples": [
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "connect.facebook.net",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "code.jquery.com",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "cdnjs.cloudflare.com",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "rum.hlx.page",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "snap.licdn.com",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      },
+      {
+        "host": "documentcloud.adobe.com",
+        "pages": 1,
+        "examples": [
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      }
+    ],
+    "frameworkHints": [],
+    "globalState": [],
+    "formTargets": [
+      {
+        "action": "https://www.astrazeneca.com/search_results.s.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": true,
+        "fieldNames": [
+          "q"
+        ],
+        "pages": 2,
+        "examples": [
+          "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+          "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        ]
+      }
+    ]
+  }
+}

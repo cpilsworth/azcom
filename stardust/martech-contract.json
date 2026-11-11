@@ -1,0 +1,64 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-10T12:03:14.548Z",
+  "input": "stardust/current/_dynamics.json",
+  "martech": "stardust/martech"
+ },
+ "productionHosts": [
+  "www.astrazeneca.com"
+ ],
+ "consent": {
+  "cmp": {
+   "vendor": "CookieReports",
+   "src": "https://policy.cookiereports.com/510df253_panel-en-gb.js",
+   "attrs": {},
+   "groups": null,
+   "event": null,
+   "enabled": false
+  },
+  "model": "owner-decision",
+  "categories": [],
+  "ruleSets": 0,
+  "consentMode": null
+ },
+ "routes": [
+  {
+   "id": "tealium",
+   "vendor": "Tealium",
+   "src": "https://tags.tiqcdn.com/utag/astrazeneca/global-az-com/prod/utag.js",
+   "boot": null,
+   "category": null,
+   "cmpGroups": [],
+   "enabled": false
+  }
+ ],
+ "otherTags": [],
+ "tagManagers": [
+  "Tealium"
+ ],
+ "dataLayers": [
+  "utag_data"
+ ],
+ "tagNotes": {
+  "Tealium": {
+   "rules": [],
+   "dataElements": [],
+   "notes": [
+    {
+     "text": "Tealium profile astrazeneca/global-az-com/prod; utag.sync.js is a version header only (ut4.0.202609251405); the load rules live in utag.js and utag.<n>.js (16, 20, 46, 57 observed) and were not parsed — the owner tagging plan supplies triggers.",
+     "from": "stardust/martech/tags/tags.tiqcdn.com-utag.sync.js; stardust/current/pages/*.html script src list"
+    }
+   ]
+  }
+ },
+ "rewrite": {
+  "library": null,
+  "rules": [],
+  "dataElements": [],
+  "dataLayer": [],
+  "dataLayerPaths": []
+ },
+ "aemMartech": null,
+ "target": null
+}

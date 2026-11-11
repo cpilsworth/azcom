@@ -1,0 +1,137 @@
+{
+  "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [
+    {
+      "sel": "a[href*=\"thelancet\"]",
+      "frames": [
+        {
+          "t": 16961.700000001118,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 17170.200000001118,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 17374,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        },
+        {
+          "t": 17577.900000000373,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": 0,
+          "boxTransform": "none",
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-disabled"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 90
+      },
+      {
+        "added": [
+          "is-disabled"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 90
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 791
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 791
+      },
+      {
+        "added": [
+          "has-overlay"
+        ],
+        "el": "html.js.svg.supports",
+        "y": 791
+      },
+      {
+        "added": [
+          "has-overlay"
+        ],
+        "el": "html.js.svg.supports",
+        "y": 791
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "html.js.svg.supports > body.js > section.modal-window.modal-window--show.js-modal-window--show",
+        "y": 791
+      }
+    ]
+  }
+}

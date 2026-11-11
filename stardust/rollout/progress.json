@@ -1,0 +1,142 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "article",
+        "unique"
+      ],
+      "startedAt": "2026-11-10T12:43:44.004Z",
+      "endedAt": "2026-11-10T13:53:35.971Z",
+      "gates": {
+        "chrome": "chrome-compare replica: 0 panel-visual errors after r1; 10 panel-content errors are a source-record artifact (empty link text), contract re-record pending",
+        "shell": "404 shell 1440+390: header/footer loaded, 0 pageerror, fonts loaded"
+      },
+      "verdict": "foundation: nav+footer live, header controls 12/12, lint ok, martech.js ok, commit 397c1b0"
+    },
+    "archetype-unique": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "unique"
+      ],
+      "pages": 1,
+      "blocks": 11,
+      "startedAt": "2026-11-10T13:53:52.153Z",
+      "endedAt": "2026-11-10T14:17:28.044Z",
+      "gates": {
+        "360": {
+          "pixel": "3.7%",
+          "dh": -14,
+          "clip": 0,
+          "content": 0
+        },
+        "1440": {
+          "pixel": "3.78%",
+          "dh": 21,
+          "clip": 0,
+          "content": 0
+        },
+        "crop": "hdr 1.96%/0.00%, ftr 0.07%/0.05%",
+        "chrome": "15 deltas @1440 / 12 @360 (nav text width −5..−6px, font-file; rest noise)",
+        "note": "row flagged FAIL(fonts): lexia-fallback local() face errors on gate host — foundation request 1, applied at C-final"
+      },
+      "verdict": "archetype-unique: pages 1/1 live, blocks 11, gate 1440 3.78% Δh +21 / 360 3.7% Δh −14 (clip 0, content 0), ai-readability 100, fix rounds 0, commit 043570c"
+    },
+    "archetype-article": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "article"
+      ],
+      "pages": 1,
+      "blocks": 3,
+      "startedAt": "2026-11-10T14:19:10.318Z",
+      "endedAt": "2026-11-10T14:30:35.915Z",
+      "gates": {
+        "360": {
+          "pixel": "0.47%",
+          "dh": 0,
+          "clip": 0,
+          "content": 0
+        },
+        "1440": {
+          "pixel": "0.37%",
+          "dh": 0,
+          "clip": 0,
+          "content": 0
+        },
+        "fonts": "lexia-fallback face error on gate browsers (foundation request queued by archetype-unique, applied at C-final)",
+        "chrome": "shared foundation chrome, gated in foundation + archetype-unique"
+      },
+      "verdict": "article archetype (Trixeo) live + published: new article-hero block + article-body section style, reuses article-date + tags; published-origin gate 1440 0.37% / 360 0.47%, Δh 0, clip 0, content MISSING 0 (2 rounds); full verdict waits only on the queued lexia-fallback foundation request"
+    },
+    "cluster-unique": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "unique"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-10T14:30:46.266Z",
+      "endedAt": "2026-11-10T14:30:46.266Z",
+      "gates": {},
+      "verdict": "cluster unique: 0 siblings in scope (site plan has 1 results page = the archetype) — nothing to render or deliver"
+    },
+    "cluster-article": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "article"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-10T14:30:53.827Z",
+      "endedAt": "2026-11-10T14:30:53.827Z",
+      "gates": {},
+      "verdict": "cluster article: 0 siblings in scope (site plan has 1 news release = the archetype) — nothing to render or deliver"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-10T14:31:06.929Z",
+      "endedAt": "2026-11-10T14:32:46.136Z",
+      "pages": 2,
+      "gates": {
+        "360": {
+          "trixeo": "0.47% Δh 0",
+          "results": "3.7% Δh -14",
+          "clip": 0,
+          "content": 0
+        },
+        "1440": {
+          "trixeo": "0.37% Δh 0",
+          "results": "3.78% Δh 21",
+          "clip": 0,
+          "content": 0
+        },
+        "fonts": "lexia-fallback not loaded on both rows"
+      },
+      "verdict": "roster gate 2 pages × 1440/360: pixel, height, clip and content pass on both; full verdict 0/2 only on the lexia-fallback font face — the queued foundation request, applied and re-gated in final"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "startedAt": "2026-11-10T14:32:53.347Z",
+      "endedAt": "2026-11-10T15:22:11.620Z",
+      "pages": 2,
+      "gates": {
+        "360": {
+          "trixeo": "0.47% Δh 0",
+          "results": "3.7% Δh -14"
+        },
+        "1440": {
+          "trixeo": "0.37% Δh 0",
+          "results": "3.78% Δh 21"
+        },
+        "full": "2/2 PASS at 1440 and 360 (pixel, height, clip, content, fonts)"
+      },
+      "verdict": "C-final: foundation requests applied once (lexia-fallback resolvable on Linux; nav lexia width residual logged), foundation re-frozen, roster re-gated 2/2 full PASS at 1440 + 360, coverage updated from both summaries"
+    }
+  }
+}

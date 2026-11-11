@@ -1,0 +1,51 @@
+/* tags — the source's .tags / .az-tags pill list (results + article templates) */
+.tags {
+  max-width: var(--container);
+  margin: 35px auto 40px;
+  padding: 0 20px;
+}
+
+.tags .tags-list :is(ul, ol) {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.tags .tags-list li {
+  display: inline-block;
+  margin: 10px 5px 0;
+  padding: 12px;
+  border: 1px solid var(--az-text);
+  border-radius: 24px;
+  color: var(--az-text);
+  font: 400 11px/13px var(--font-hn);
+  letter-spacing: 0.6px;
+}
+
+.tags .tags-list p {
+  display: inline-block;
+  margin: 10px 5px 0;
+}
+
+.tags .tags-list a:any-link {
+  color: inherit;
+}
+
+/* variant: flush — no own container (the host layout already constrains it) */
+.tags.flush {
+  max-width: none;
+  padding: 0;
+}
+
+@media (width >= 600px) {
+  .tags {
+    margin-bottom: 60px;
+  }
+}
+
+@media (width >= 960px) {
+  .tags .tags-list li {
+    margin-top: 0;
+  }
+}

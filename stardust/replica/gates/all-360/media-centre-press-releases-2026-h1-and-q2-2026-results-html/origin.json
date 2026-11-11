@@ -1,0 +1,9 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+  "log": [
+    "stitched stardust/replica/gates/all-360/media-centre-press-releases-2026-h1-and-q2-2026-results-html/origin.png: 360x6856 from 8 chunks"
+  ],
+  "fontsFailed": [],
+  "at": "2026-11-10T14:09:13.453Z"
+}

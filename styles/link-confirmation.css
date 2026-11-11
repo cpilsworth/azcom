@@ -1,0 +1,104 @@
+/* leaving-site confirmation — the source's .modal-window#modal-link-confirmation */
+html.has-overlay {
+  overflow: hidden;
+}
+
+dialog.link-confirmation {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  overflow: hidden;
+}
+
+dialog.link-confirmation::backdrop {
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAEUlEQVQoz2NgeEYAjioYSQoAzOTmAXhPhyoAAAAASUVORK5CYII=');
+  opacity: 0.8;
+}
+
+.link-confirmation-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  overflow-y: auto;
+}
+
+.link-confirmation-content {
+  padding: 35px 40px 40px;
+}
+
+.link-confirmation-content p {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+.link-confirmation-content p strong {
+  font-weight: 700;
+}
+
+.link-confirmation-content p.link-confirmation-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 4px;
+  margin: 0;
+}
+
+.link-confirmation-content .link-confirmation-actions a.button {
+  margin-top: 20px;
+}
+
+.link-confirmation-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+  padding: 2px 8px;
+  border: 0;
+  border-radius: 0;
+  background: var(--az-text);
+  color: #fff;
+  font: 400 26px/33.8px var(--font-hn);
+  text-align: center;
+  cursor: pointer;
+}
+
+.link-confirmation-close::after {
+  content: '\00d7';
+}
+
+@media (width >= 752px) {
+  .link-confirmation-inner {
+    top: 60px;
+    left: 50%;
+    width: 640px;
+    max-width: 100%;
+    height: auto;
+    max-height: calc(100% - 60px);
+    margin-left: -320px;
+  }
+
+  .link-confirmation-close {
+    top: 60px;
+    right: auto;
+    left: calc(50% + 260px);
+    width: 60px;
+    height: 60px;
+    font-size: 38px;
+    line-height: 49.4px;
+  }
+}

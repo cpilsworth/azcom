@@ -1,0 +1,533 @@
+[live-session] waiting to pace live navigations to www.astrazeneca.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/media-centre-press-releases-2026-h1-and-q2-2026-results-html-360/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 6082,
+  "textLen": 3803,
+  "images": [
+   {
+    "src": "logo-az-condensed.png",
+    "natural": "36x46",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-az-condensed-white.png",
+    "natural": "36x46",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-az.png",
+    "natural": "216x52",
+    "rendered": "108x26",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-az-white.png",
+    "natural": "216x52",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+    "natural": "450x250",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "OI-helix-hero-450x250.webp",
+    "natural": "450x250",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+    "natural": "900x500",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2045-ipad-450x2501.webp",
+    "natural": "450x250",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+    "natural": "900x497",
+    "rendered": "320x177",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+    "natural": "900x500",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "H1 and Q2 2026 results",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "30px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Growth momentum continues. On tr",
+    "color": "rgb(131, 0, 81)",
+    "fontSize": "26px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Downloads",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Announcement",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Presentation",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Clinical trials appendix",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Key performance elements for H1 ",
+    "color": "rgb(131, 0, 81)",
+    "fontSize": "26px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "How did AstraZeneca perform fina",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Which Therapy Areas drove growth",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "What were the pipeline highlight",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "183",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "116",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "21",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "4",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "tags",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "18.72px",
+    "family": "Helvetica Neue",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero-feature__wrapper",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "quote__wrapper",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 5982,
+  "textLen": 3781,
+  "images": [
+   {
+    "src": "logo-az.png",
+    "natural": "216x52",
+    "rendered": "108x26",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+    "natural": "450x250",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "OI-helix-hero-450x250.webp",
+    "natural": "450x250",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+    "natural": "900x500",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2045-ipad-450x2501.webp",
+    "natural": "450x250",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+    "natural": "900x497",
+    "rendered": "320x177",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+    "natural": "900x500",
+    "rendered": "320x178",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "H1 and Q2 2026 results",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "30px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Growth momentum continues. On tr",
+    "color": "rgb(131, 0, 81)",
+    "fontSize": "26px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Downloads",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Announcement",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Presentation",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Clinical trials appendix",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Key performance elements for H1 ",
+    "color": "rgb(131, 0, 81)",
+    "fontSize": "26px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "How did AstraZeneca perform fina",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Which Therapy Areas drove growth",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "What were the pipeline highlight",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "21px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "183",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "116",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "21",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "4",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "40px",
+    "family": "Lexia",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "tags",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "18.72px",
+    "family": "Helvetica Neue",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero-feature",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "quote__wrapper",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "rich-text",
+    "width": 320,
+    "left": 20
+   }
+  ]
+ }
+}

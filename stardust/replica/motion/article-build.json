@@ -1,0 +1,344 @@
+{
+  "url": "http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1385,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "az-header",
+      "position": "static",
+      "height": "94px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".az-nav__item:nth-child(2) > .az-nav__top",
+      "frames": [
+        {
+          "t": 9175.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 9377.19999999972,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 9580.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 9783.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".az-nav__top",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".az-footer__social a",
+      "changed": [
+        "self.color",
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(248, 248, 248)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(27, 27, 27)",
+          "background": "rgb(248, 248, 248)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "transform",
+        "el": "header.az-header > nav.az-nav > ul.az-nav__list > li.az-nav__item > a.az-nav__top",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "visibility",
+        "el": "header.az-header > nav.az-nav > ul.az-nav__list > li.az-nav__item > a.az-nav__top",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "opacity",
+        "el": "header.az-header > nav.az-nav > ul.az-nav__list > li.az-nav__item > a.az-nav__top",
+        "y": 0,
+        "dur": "0s"
+      },
+      {
+        "prop": "transform",
+        "el": "header.az-header > nav.az-nav > ul.az-nav__list > li.az-nav__item > a.az-nav__top",
+        "y": 2485,
+        "dur": "0s"
+      },
+      {
+        "prop": "visibility",
+        "el": "header.az-header > nav.az-nav > ul.az-nav__list > li.az-nav__item > a.az-nav__top",
+        "y": 2485,
+        "dur": "0s"
+      },
+      {
+        "prop": "opacity",
+        "el": "header.az-header > nav.az-nav > ul.az-nav__list > li.az-nav__item > a.az-nav__top",
+        "y": 2485,
+        "dur": "0s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-open"
+        ],
+        "el": "body > header.az-header > nav.az-nav > ul.az-nav__list > li.az-nav__item.is-open",
+        "y": 0
+      }
+    ]
+  }
+}

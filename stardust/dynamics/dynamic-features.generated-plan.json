@@ -1,0 +1,275 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-11-10T12:40:43.300Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": "https://main--919093c1--aemcoder.aem.live",
+  "migrated": null,
+  "knowledge": null,
+  "chrome": null
+ },
+ "rows": [
+  {
+   "id": "a-cms-app-settings-object-utag-data",
+   "class": "A",
+   "feature": "CMS / app settings object utag_data",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "campaign_source",
+    "campaign_medium",
+    "campaign_publisher",
+    "campaign_id"
+   ],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "cr-client-rendered-slot-container-js-vis-grid",
+   "class": "CR",
+   "feature": "client-rendered slot container js-vis-grid",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "AstraZeneca Websites Global site Search Menu Search Search S"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-modal-window-modal-window-show-js-mo",
+   "class": "CR",
+   "feature": "client-rendered slot modal-window modal-window--show js-modal-window--show",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "You are now leaving AstraZeneca.com You have selected a link",
+    "Important notice for users You are about to access AstraZene"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "cr-client-rendered-slot-cmp-pdfviewer-js-cmp-pdfviewer",
+   "class": "CR",
+   "feature": "client-rendered slot cmp-pdfviewer js-cmp-pdfviewer",
+   "pages": 1,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "data-api-error=API call to Adobe SDK resulted in error"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "d-first-party-data-file-get-content-astraz-media-centre-pres",
+   "class": "D",
+   "feature": "first-party data file GET /content/astraz/media-centre/press-releases/{n}/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json",
+   "pages": 1,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "GET /content/astraz/media-centre/press-releases/{n}/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-content-astraz-media-centre-pres",
+   "class": "D",
+   "feature": "first-party data file GET /content/astraz/media-centre/press-releases/{n}/h1-and-q2-2026-results/jcr:content.darkSite.json",
+   "pages": 1,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "GET /content/astraz/media-centre/press-releases/{n}/h1-and-q2-2026-results/jcr:content.darkSite.json → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "target": "content",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "i18n-locale-variants-en-us-en-gb-en-us",
+   "class": "I18N",
+   "feature": "locale variants en-us,en-gb,en-US",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "m-modal-trigger-js-modal-disagree-target-outside-dom-at-capt",
+   "class": "M",
+   "feature": "modal trigger js-modal-disagree → target outside DOM at capture",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "m-modal-trigger-js-modal-agree-target-outside-dom-at-capture",
+   "class": "M",
+   "feature": "modal trigger js-modal-agree → target outside DOM at capture",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "target": "runtime",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "s-site-search-form-search-results-s-html",
+   "class": "S",
+   "feature": "site search form → /search_results.s.html",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "text:q"
+   ],
+   "pattern": "search-index-backed",
+   "disposition": "index-backed",
+   "target": "widget",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "search",
+   "decision": "none (corpus = the migrated pages; second corpora stay out)"
+  },
+  {
+   "id": "t-unknown-third-party-host-rum-hlx-page",
+   "class": "T",
+   "feature": "unknown third-party host rum.hlx.page",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "rum.hlx.page"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-tealium",
+   "class": "T",
+   "feature": "tag manager: Tealium",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "tags.tiqcdn.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-policy-cookiereports-com",
+   "class": "T",
+   "feature": "unknown third-party host policy.cookiereports.com",
+   "pages": 2,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "policy.cookiereports.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-documentcloud-adobe-com",
+   "class": "T",
+   "feature": "unknown third-party host documentcloud.adobe.com",
+   "pages": 1,
+   "probed": 2,
+   "reach": null,
+   "evidence": [
+    "documentcloud.adobe.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "target": "embed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  }
+ ]
+}

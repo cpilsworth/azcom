@@ -1,0 +1,237 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-10T12:39:58.571Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-10T14:07:06.316Z",
+  "blocks": [
+    {
+      "id": "article-date",
+      "label": "article-date",
+      "kind": "module",
+      "signature": "module:article-date",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+        "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+        "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "article-date",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:05.898Z"
+      }
+    },
+    {
+      "id": "fin-table",
+      "label": "fin-table",
+      "kind": "module",
+      "signature": "module:fin-table",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "fin-table",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:06.133Z"
+      }
+    },
+    {
+      "id": "guidance",
+      "label": "guidance",
+      "kind": "module",
+      "signature": "module:guidance",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "guidance",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:06.176Z"
+      }
+    },
+    {
+      "id": "hero-feature",
+      "label": "hero-feature",
+      "kind": "module",
+      "signature": "module:hero-feature",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "hero-feature",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:05.853Z"
+      }
+    },
+    {
+      "id": "pipeline-cards",
+      "label": "pipeline-cards",
+      "kind": "module",
+      "signature": "module:pipeline-cards",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "pipeline-cards",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:06.269Z"
+      }
+    },
+    {
+      "id": "quote",
+      "label": "quote",
+      "kind": "module",
+      "signature": "module:quote",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "quote",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:05.994Z"
+      }
+    },
+    {
+      "id": "results-downloads",
+      "label": "results-downloads",
+      "kind": "module",
+      "signature": "module:results-downloads",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "results-downloads",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:06.042Z"
+      }
+    },
+    {
+      "id": "section-nav",
+      "label": "section-nav",
+      "kind": "module",
+      "signature": "module:section-nav",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "section-nav",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:05.943Z"
+      }
+    },
+    {
+      "id": "stat-grid",
+      "label": "stat-grid",
+      "kind": "module",
+      "signature": "module:stat-grid",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "stat-grid",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:06.089Z"
+      }
+    },
+    {
+      "id": "tags",
+      "label": "tags",
+      "kind": "module",
+      "signature": "module:tags",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+        "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+        "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "tags",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:06.316Z"
+      }
+    },
+    {
+      "id": "therapy-cards",
+      "label": "therapy-cards",
+      "kind": "module",
+      "signature": "module:therapy-cards",
+      "source": null,
+      "usedByTemplates": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "usedByPages": [
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "converted",
+        "edsBlockName": "therapy-cards",
+        "blockPath": null,
+        "convertedAt": "2026-11-10T14:07:06.221Z"
+      }
+    }
+  ]
+}

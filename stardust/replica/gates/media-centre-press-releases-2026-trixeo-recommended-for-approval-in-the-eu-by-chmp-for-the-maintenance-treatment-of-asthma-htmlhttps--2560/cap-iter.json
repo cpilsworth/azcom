@@ -1,0 +1,271 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-10T12:22:46.369Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+      "http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main",
+      "isBody": false,
+      "leaves": 89,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "section.container > div.heroFeature > section.hero-feature.hero-feature--no-background > div.hero-feature__wrapper",
+        "tier": 5,
+        "share": 0.01,
+        "section": 0,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "shell",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "#main > article > section.container > div.l-constrained",
+        "tier": 3,
+        "share": 0.99,
+        "section": 1,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "content",
+        "px": 818,
+        "via": "fixed",
+        "selector": "section.container > div.l-constrained > div.block-wrapper.pt-article__body > div.block.l-three-block-c2",
+        "tier": 5,
+        "share": 0.97,
+        "section": 1,
+        "w1": 818,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 797,
+        "via": "fixed",
+        "selector": "div.text.parbase > div.rich-text > h3 > b",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 797,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 799,
+        "via": "fixed",
+        "selector": "div.text.parbase > div.rich-text > p > a",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 799,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 804,
+        "via": "fixed",
+        "selector": "div > ol > li > i",
+        "tier": 12,
+        "share": 0.01,
+        "section": 1,
+        "w1": 804,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 649,
+        "via": "fixed",
+        "selector": "div > ol > li > a",
+        "tier": 12,
+        "share": 0.01,
+        "section": 1,
+        "w1": 649,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main > article > section.container",
+        "px": 1280,
+        "capSelector": "section.container > div.heroFeature > section.hero-feature.hero-feature--no-background > div.hero-feature__wrapper"
+      },
+      {
+        "index": 1,
+        "selector": "#main > article > section.container",
+        "px": 804,
+        "capSelector": "div > ol > li > i"
+      }
+    ],
+    "shellMaxWidth": 1280,
+    "contentMaxWidth": 818,
+    "contentFrom": "content",
+    "maxCap": 1280,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 99
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main",
+      "isBody": false,
+      "leaves": 89,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "article > section.az-hero > h1.az-hero__title > span.az-constrained",
+        "tier": 4,
+        "share": 0.01,
+        "section": 0,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "shell",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "#main > article > section.az-article",
+        "tier": 2,
+        "share": 0.99,
+        "section": 1,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "content",
+        "px": 818,
+        "via": "fixed",
+        "selector": "#main > article > section.az-article > div.az-article__body",
+        "tier": 3,
+        "share": 0.97,
+        "section": 1,
+        "w1": 818,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 797,
+        "via": "fixed",
+        "selector": "div.az-article__body > div.az-rich-text > h3.is-center > b",
+        "tier": 6,
+        "share": 0.01,
+        "section": 1,
+        "w1": 797,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 799,
+        "via": "fixed",
+        "selector": "div.az-article__body > div.az-rich-text > p > a",
+        "tier": 6,
+        "share": 0.01,
+        "section": 1,
+        "w1": 799,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 804,
+        "via": "fixed",
+        "selector": "div.az-rich-text > ol > li > i",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 804,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 649,
+        "via": "fixed",
+        "selector": "div.az-rich-text > ol > li > a",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 649,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main > article > section.az-hero",
+        "px": 1280,
+        "capSelector": "article > section.az-hero > h1.az-hero__title > span.az-constrained"
+      },
+      {
+        "index": 1,
+        "selector": "#main > article > section.az-article",
+        "px": 804,
+        "capSelector": "div.az-rich-text > ol > li > i"
+      }
+    ],
+    "shellMaxWidth": 1280,
+    "contentMaxWidth": 818,
+    "contentFrom": "content",
+    "maxCap": 1280,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 75
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 818px = build 818px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "outer shell",
+        "detail": "live 1280px (#main > article > section.container > div.l-constrained) encloses the 818px wrapper cap — informational, no content bound of its own",
+        "advisory": true
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "1280px = 1280px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "804px = 804px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--2560/cap-iter.json"
+}

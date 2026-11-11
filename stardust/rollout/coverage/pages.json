@@ -1,0 +1,108 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-10T12:42:59.036Z",
+    "readArtifacts": [
+      "stardust/migrated"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-10T16:16:51.596Z",
+  "pages": [
+    {
+      "slug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "path": "/media-centre/press-releases/2026/h1-and-q2-2026-results",
+      "title": "H1 and Q2 2026 results",
+      "templateId": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "source": {
+        "migratedHtml": "stardust/migrated/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+        "metaJson": "stardust/migrated/media-centre/press-releases/2026/h1-and-q2-2026-results._meta.json",
+        "sourceHash": "sha256:1ac2293aa374c8c741a8eccca39096846adf613f2b7c39879fd539b63378e71a",
+        "sourceUrl": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+      },
+      "blocks": [
+        "hero-feature",
+        "article-date",
+        "section-nav",
+        "quote",
+        "results-downloads",
+        "stat-grid",
+        "fin-table",
+        "guidance",
+        "therapy-cards",
+        "pipeline-cards",
+        "tags"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results",
+        "deployedAt": "2026-11-10T14:07:05.808Z",
+        "verifiedAt": "2026-11-10T16:16:51.596Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.7,
+          "heightDelta": -14,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 1,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-10T16:16:51.554Z"
+        }
+      }
+    },
+    {
+      "slug": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+      "title": "Trixeo recommended for approval in the EU by CHMP for the maintenance treatment of asthma",
+      "templateId": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "source": {
+        "migratedHtml": "stardust/migrated/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.html",
+        "metaJson": "stardust/migrated/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma._meta.json",
+        "sourceHash": "sha256:473655d292fc514d240c415ef7e22f81c907eba968baddf87789414e48097092",
+        "sourceUrl": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+      },
+      "blocks": [
+        "article-date",
+        "tags"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+        "deployedAt": "2026-11-10T14:22:02.815Z",
+        "verifiedAt": "2026-11-10T16:16:51.596Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.47,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-10T16:16:51.554Z"
+        }
+      }
+    }
+  ]
+}

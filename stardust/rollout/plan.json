@@ -1,0 +1,92 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-10T12:43:05.814Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-10T12:43:05.814Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+    "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-"
+  ],
+  "steps": [
+    {
+      "slug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "path": "/media-centre/press-releases/2026/h1-and-q2-2026-results",
+      "templateId": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "hero-feature",
+          "edsBlockName": "hero-feature"
+        },
+        {
+          "id": "article-date",
+          "edsBlockName": "article-date"
+        },
+        {
+          "id": "section-nav",
+          "edsBlockName": "section-nav"
+        },
+        {
+          "id": "quote",
+          "edsBlockName": "quote"
+        },
+        {
+          "id": "results-downloads",
+          "edsBlockName": "results-downloads"
+        },
+        {
+          "id": "stat-grid",
+          "edsBlockName": "stat-grid"
+        },
+        {
+          "id": "fin-table",
+          "edsBlockName": "fin-table"
+        },
+        {
+          "id": "guidance",
+          "edsBlockName": "guidance"
+        },
+        {
+          "id": "therapy-cards",
+          "edsBlockName": "therapy-cards"
+        },
+        {
+          "id": "pipeline-cards",
+          "edsBlockName": "pipeline-cards"
+        },
+        {
+          "id": "tags",
+          "edsBlockName": "tags"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+      "templateId": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "status": "pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": [
+        {
+          "id": "article-date",
+          "edsBlockName": "article-date",
+          "convertedBy": "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        },
+        {
+          "id": "tags",
+          "edsBlockName": "tags",
+          "convertedBy": "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "runtime": "vanilla-eds",
+  "probedFrom": ["scripts/scripts.js", "scripts/aem.js"],
+  "blockWrapperClass": "block",
+  "blockDom": "div.<name>.block[data-block-name] inside div.<name>-wrapper; section gains .<name>-container",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "cellNormalization": "wrapTextNodes (aem.js decorateBlock)",
+  "sectionMetadata": "pipeline-rendered (no client section-metadata decorator in aem.js)",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "chrome": {
+    "header": "blocks/header — loads /nav (metadata `nav` overrides), template-slotted into .az-header#navigation",
+    "footer": "blocks/footer — loads /footer (metadata `footer` overrides), template-slotted into .az-footer#footer",
+    "hostDom": "body > header.header-wrapper > div.header.block (no inner wrapper div)",
+    "navHeight": { "base": "61px", "width >= 960px": "94px" }
+  },
+  "breakpoints": ["600px (37.5em, source)", "960px (60em, source)"],
+  "martech": "scripts/martech.js via martech-scaffold.mjs — every part disabled"
+}

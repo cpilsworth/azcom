@@ -1,0 +1,49 @@
+/* stat-grid — the source's embedded .statgrid key-figure panel */
+.stat-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  margin: 20px 0;
+  overflow: hidden;
+  border: 1px solid rgb(226 230 234);
+  border-radius: 8px;
+  background: rgb(226 230 234);
+  font-family: var(--font-lexia);
+  line-height: 1.25;
+}
+
+.stat-grid .stat-grid-cell {
+  padding: 22px 20px;
+  background: #fff;
+}
+
+.stat-grid .stat-grid-label {
+  margin-bottom: 8px;
+  color: rgb(90 107 120);
+  font-size: 12px;
+}
+
+.stat-grid .stat-grid-figure {
+  font-size: 30px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.stat-grid .stat-grid-change {
+  margin-top: 4px;
+  color: rgb(31 138 91);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.stat-grid p {
+  margin: 0;
+}
+
+.stat-grid sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}

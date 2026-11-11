@@ -1,0 +1,47 @@
+/* guidance — the source's embedded .az-guidance call-out */
+.guidance {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.guidance .guidance-panel {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 22px;
+  align-items: center;
+  margin: 24px 0 20px;
+  padding: 22px 26px;
+  border-radius: 8px;
+  background: #f6eef3;
+  color: var(--az-text);
+  font-family: var(--font-lexia);
+  line-height: 1.25;
+}
+
+.guidance .guidance-panel.no-label {
+  grid-template-columns: 1fr;
+}
+
+.guidance .guidance-label {
+  padding-right: 22px;
+  border-right: 1px solid rgb(42 71 99);
+  font-size: 11px;
+  letter-spacing: 1px;
+}
+
+.guidance strong {
+  font-weight: 700;
+}
+
+.guidance p {
+  margin: 0;
+}
+
+.guidance sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}

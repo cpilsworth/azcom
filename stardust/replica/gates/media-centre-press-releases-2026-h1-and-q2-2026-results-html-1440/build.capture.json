@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html",
+  "width": 1440,
+  "vh": 900,
+  "height": 3945,
+  "chunks": 5,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 1,
+    "late": 0
+  },
+  "at": "2026-11-10T12:36:08.879Z"
+}

@@ -1,0 +1,40 @@
+{
+  "units": {
+    "plan": {
+      "status": "done",
+      "kind": "plan",
+      "templates": [
+        "article",
+        "unique"
+      ],
+      "pages": 2,
+      "startedAt": "2026-11-10T12:38:28Z",
+      "endedAt": "2026-11-10T12:38:28Z",
+      "verdict": "plan: 2 archetypes rendered through branch A (fidelityTier archetype); 0 siblings \u2014 no variance probe, no sibling render clusters"
+    },
+    "render-archetypes": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article",
+        "unique"
+      ],
+      "pages": 2,
+      "startedAt": "2026-11-10T12:39:14Z",
+      "endedAt": "2026-11-10T12:39:14Z",
+      "verdict": "rendered 2, unchanged 0, refused 0, passthrough 0"
+    },
+    "report": {
+      "status": "done",
+      "kind": "report",
+      "templates": [
+        "article",
+        "unique"
+      ],
+      "pages": 2,
+      "startedAt": "2026-11-10T12:39:22Z",
+      "endedAt": "2026-11-10T12:39:22Z",
+      "verdict": "2 pages migrated (archetype tier); pixel gates from prototype tables; delivery gates earned in C-deliver"
+    }
+  }
+}

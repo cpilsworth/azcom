@@ -1,0 +1,63 @@
+[live-session] waiting to pace live navigations to www.astrazeneca.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://
+  build: http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html
+
+■ header: 15 delta(s) — 12 paired of 15/12 texts, 1/1 icons
+  (live has no <header>: auto-detected div.nav.mainnav — pass --region header=<liveSel>|<buildSel> to override)
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+  REGION STYLE position static → relative (fixed/sticky chrome must stay fixed/sticky — seam symmetry)
+  PAIR         "Search"  fontFamily helvetica neue → arial; fontSize 16px → 13.3333px; lineHeight 20px → normal; Δx -7px (1338→1331); Δy -8px (21→13)
+  PAIR         "What science can do"  Δw -6px (187→181)
+  PAIR         "R&D"  Δx -6px (309→303); Δw -5px (55→50)
+  PAIR         "Our therapy areas"  Δx -11px (389→378); Δw -5px (164→159)
+  PAIR         "Our company"  Δx -16px (578→562); Δw -6px (127→121)
+  PAIR         "Careers"  Δx -21px (730→709); Δw -6px (80→74)
+  PAIR         "Investors"  Δx -27px (835→808); Δw -5px (93→88)
+  PAIR         "Media"  Δx -32px (953→921); Δw -5px (68→63)
+  PAIR         "Sustainability"  Δx -37px (1046→1009); Δw -5px (133→128)
+  PAIR         "Partnering"  Δx -43px (1204→1161); Δw -5px (104→99)
+  MISSING      "Search"  live <label> "Search" has no build element with the same text
+  MISSING      "Search"  live <span> "Search" has no build element with the same text
+  MISSING      "Close"  live <span> "Close" has no build element with the same text
+
+■ footer: 37 delta(s) — 36 paired of 36/36 texts, 0/0 icons
+  REGION BOX   Δy -93px (3015→2922), Δh +10px (370→380)
+  PAIR         "AstraZeneca Websites"  Δy -93px (3055→2962)
+  PAIR         "This website is intended for people seek"  Δy -93px (3095→3002)
+  PAIR         "Veeva ID: Z4-88682 Date of next review: "  Δy -93px (3194→3101)
+  PAIR         "Resources"  Δy -93px (3055→2962)
+  PAIR         "All resources"  Δy -93px (3095→3002)
+  PAIR         "Open Innovation"  Δy -93px (3118→3025)
+  PAIR         "Externally sponsored scientific research"  Δy -93px (3141→3048)
+  PAIR         "Medical Information for HCPs"  Δy -93px (3164→3071)
+  PAIR         "US prescription assistance programmes"  Δy -93px (3187→3094)
+  PAIR         "Global clinical trials information"  Δy -93px (3210→3117)
+  PAIR         "Medicines"  Δy -93px (3233→3140)
+  PAIR         "Report a possible side effect"  Δy -93px (3256→3163)
+  PAIR         "Quick links"  Δy -93px (3055→2962)
+  PAIR         "Media"  Δy -93px (3095→3002)
+  PAIR         "Investor Relations"  Δy -93px (3118→3025)
+  PAIR         "Partnering"  Δy -93px (3141→3048)
+  PAIR         "Careers"  Δy -93px (3164→3071)
+  PAIR         "Sustainability"  Δy -93px (3187→3094)
+  PAIR         "Modern Slavery Statement"  Δy -93px (3210→3117)
+  PAIR         "AZethics – Report A Concern"  Δy -93px (3233→3140)
+  PAIR         "Supplier information"  Δy -93px (3256→3163)
+  PAIR         "Social Media Community Guidelines"  Δy -93px (3279→3186)
+  PAIR         "Social Media"  lineHeight 23.4px → 20px; Δy -93px (3054→2961)
+  PAIR         "LinkedIn"  Δy -93px (3055→2962)
+  PAIR         "Instagram"  Δy -93px (3055→2962)
+  PAIR         "Facebook"  Δy -93px (3055→2962)
+  PAIR         "X"  Δy -93px (3055→2962)
+  PAIR         "YouTube"  Δy -93px (3055→2962)
+  PAIR         "Glassdoor"  Δy -93px (3107→3014)
+  PAIR         "utility links"  Δy -83px (3321→3238)
+  PAIR         "Legal notice and Terms of Use"  Δx -27px (417→390); Δy -103px (3343→3240)
+  PAIR         "Privacy notice"  Δx -27px (595→568); Δy -103px (3343→3240)
+  PAIR         "Site map"  Δx -26px (688→662); Δy -103px (3343→3240)
+  PAIR         "Contact us"  Δx -26px (754→728); Δy -103px (3343→3240)
+  PAIR         "Cookie preferences"  Δx -27px (830→803); Δy -103px (3343→3240)
+  PAIR         "© AstraZeneca 2026"  Δy -83px (3322→3239)
+
+✗ 52 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

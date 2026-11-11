@@ -1,0 +1,160 @@
+{
+  "types": {
+    "article": {
+      "pageType": "article",
+      "archetype": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "liveUrl": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+      "prototype": "stardust/prototypes/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html",
+      "iterations": {
+        "360": 8,
+        "1440": 8
+      },
+      "iterationNote": "3 measured fix rounds + chrome-alignment confirmation rounds (iter4–8 changed chrome only; pixel unchanged after iter4)",
+      "gates": {
+        "360": {
+          "round": "iter8",
+          "pixelPct": 0.14,
+          "heightDelta": 0,
+          "contentDiffRed": 0,
+          "nothingLostYellow": 0,
+          "visualDiffFlags": 0,
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "2 deltas (region background as 1440; visually-hidden submit label 2px offset)",
+          "verdict": "PASS"
+        },
+        "1440": {
+          "round": "iter8",
+          "pixelPct": 0.15,
+          "heightDelta": 0,
+          "contentDiffRed": 0,
+          "nothingLostYellow": 0,
+          "visualDiffFlags": 0,
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "1 delta (region background: instrument auto-detected live div.nav.mainnav vs build header — no visual effect)",
+          "verdict": "PASS"
+        },
+        "capProbe": {
+          "width": 2560,
+          "verdict": "PASS",
+          "rows": "0 of 4 failed"
+        }
+      },
+      "residuals": [
+        "chrome-parity REGION STYLE background (instrument region pick)",
+        "mobile search submit hidden label Δy 2px"
+      ],
+      "motion": {
+        "observed": "stardust/replica/motion/article.json",
+        "build": "stardust/replica/motion/article-build.json",
+        "implemented": [
+          "primary nav click → tray (one at a time, Escape/Close/outside close)",
+          "second-level parent → third column",
+          "nav underline hover transition (opacity/transform/visibility parity)",
+          "mobile drawer + accordion",
+          "search tray slide",
+          "footer accordion < 960px"
+        ],
+        "dead": [
+          "header scroll-morph (none on live)",
+          "primary-link hover diff (none measured)"
+        ],
+        "classMap": {
+          "is-active/is-disabled/navigation--active (live)": "is-open + aria-expanded (build)"
+        }
+      },
+      "fonts": {
+        "lexia": "owner Adobe Fonts kit ddz3ptv (register R-01)",
+        "icons": "az-webfont self-hosted (site-owned)"
+      },
+      "status": "gated",
+      "gatedAt": "2026-11-10T12:23:49.955Z"
+    },
+    "unique": {
+      "pageType": "unique",
+      "archetype": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "liveUrl": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "prototype": "stardust/prototypes/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/results.css"
+      ],
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "iterationNote": "iter1 --full (role swap on the PDF triggers + mobile viewer-slot line), iter2 --full confirmation, iter3 pixel re-check after the hover motion fix",
+      "gates": {
+        "360": {
+          "round": "iter2+iter3",
+          "pixelPct": 0.02,
+          "heightDelta": 0,
+          "contentDiffRed": 0,
+          "nothingLostYellow": 0,
+          "visualDiffFlags": 0,
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "3 deltas — region background ×2 (instrument) + mobile search submit hidden label Δy 2px (article residual)",
+          "verdict": "PASS"
+        },
+        "1440": {
+          "round": "iter2+iter3",
+          "pixelPct": 0.02,
+          "heightDelta": 0,
+          "contentDiffRed": 0,
+          "nothingLostYellow": 0,
+          "visualDiffFlags": 0,
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "2 deltas — region background (instrument: live chrome root is transparent div.nav, same residual as article)",
+          "verdict": "PASS"
+        },
+        "capProbe": {
+          "width": 2560,
+          "verdict": "PASS",
+          "rows": "0 of 3 failed"
+        }
+      },
+      "residuals": [
+        "chrome-parity REGION STYLE background (instrument; shared with article)",
+        "mobile search submit hidden label Δy 2px (shared chrome)",
+        "PDF viewer slot left empty — owner decision D3; triggers open the PDF directly"
+      ],
+      "motion": {
+        "observed": "stardust/replica/motion/unique.json",
+        "build": "stardust/replica/motion/unique-build.json",
+        "implemented": [
+          "in-page section bar sticky (top 40px ≥769px, 0 below) + link hover invert",
+          "button hover underline (border-bottom 3px, .2s) + border fade",
+          "PDF trigger click → document"
+        ],
+        "dead": [
+          "call-to-action self hover (no measured diff)",
+          "therapy card hover (no measured diff)",
+          "header scroll-morph (none on live)"
+        ],
+        "classMap": {
+          "is-active/is-disabled (live header nav)": "is-open + aria-expanded (build, shared chrome)"
+        }
+      },
+      "status": "gated",
+      "gatedAt": "2026-11-10T12:37:10.000Z"
+    }
+  },
+  "siblings": {},
+  "migrate": {
+    "at": "2026-11-10T12:39:04.732Z",
+    "pages": 2,
+    "archetypes": 2,
+    "siblings": 0,
+    "thin": 0,
+    "gates": {
+      "content-fidelity": 2,
+      "pixel-gate-1440": 2,
+      "pixel-gate-360": 2,
+      "content-count": 2
+    },
+    "missing": {}
+  }
+}

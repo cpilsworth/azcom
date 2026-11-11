@@ -1,0 +1,102 @@
+/* pipeline-cards — the source's embedded .pipeline-grid / .pipeline-card */
+.pipeline-cards {
+  display: flow-root;
+  max-width: var(--container);
+  margin: 10px auto 20px;
+  padding: 0 20px;
+  font-family: var(--font-lexia);
+  line-height: 1.5;
+}
+
+.pipeline-cards .pipeline-cards-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 19.2px 0 32px;
+}
+
+.pipeline-cards .pipeline-cards-card {
+  flex: 1 1 200px;
+  padding: 16px;
+  border-radius: 6px;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+.pipeline-cards .pipeline-cards-figure :is(h2, h3, h4) {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.pipeline-cards .pipeline-cards-caption {
+  margin: 20px 0;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  letter-spacing: 0.3px;
+}
+
+.pipeline-cards .pipeline-cards-caption p {
+  margin: 0;
+}
+
+/* the section's default content: heading above; CTA, signature, references below */
+.pipeline-cards-container .default-content-wrapper {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.pipeline-cards-container .default-content-wrapper:has(h2) {
+  padding-top: 20px;
+}
+
+.pipeline-cards-container .default-content-wrapper h2 {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 400 21px/26px var(--font-lexia);
+  letter-spacing: 0.03px;
+}
+
+.pipeline-cards-container .default-content-wrapper p {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+.pipeline-cards-container .default-content-wrapper :is(b, strong) {
+  font-weight: 700;
+}
+
+.pipeline-cards-container .default-content-wrapper a:any-link:not(.button) {
+  color: var(--az-link);
+  text-decoration: none;
+}
+
+/* the centred CTA, then the rule that closes the release body (the source's hr.hr) */
+.pipeline-cards-container .default-content-wrapper p.button-wrapper {
+  margin: 0 0 36px;
+  padding-bottom: 26px;
+  border-bottom: 3px solid var(--az-rule);
+  text-align: center;
+}
+
+/* the signature block after the rule */
+.pipeline-cards-container .default-content-wrapper p.button-wrapper + p {
+  margin-bottom: 40px;
+}
+
+@media (width >= 600px) {
+  .pipeline-cards-container .default-content-wrapper h2 {
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0.6px;
+  }
+
+  .pipeline-cards-container .default-content-wrapper p.button-wrapper + p {
+    margin-bottom: 60px;
+  }
+}

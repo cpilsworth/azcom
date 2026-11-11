@@ -1,0 +1,610 @@
+{
+  "slug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+  "type": "unique",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "hero-feature",
+    "article-date",
+    "section-nav",
+    "quote",
+    "results-downloads",
+    "stat-grid",
+    "fin-table",
+    "guidance",
+    "therapy-cards",
+    "pipeline-cards",
+    "tags"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "article"
+  ],
+  "canonShas": {
+    "header": "76acb2c9f29d",
+    "footer": "c24a3eb666e4",
+    "css": "7a31aa47b9e3"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "H1 and Q2 2026 results",
+    "description": null,
+    "canonical": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "H1 and Q2 2026 results",
+    "url": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+  },
+  "migratedAt": "2026-11-10T12:38:28Z",
+  "designMdSha": "61f48ecc732d",
+  "designJsonSha": "b556a28b333d",
+  "sourceCurrentSha": "103ffe5ff649",
+  "sourceProposedSha": "564d4cf4661e",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [
+    "content-fidelity",
+    "pixel-gate-1440",
+    "pixel-gate-360",
+    "content-count"
+  ],
+  "gateEvidence": {
+    "content-fidelity": "archetype prototype gated: content-diff 0 🔴 / 0 nothing-lost 🟡 at 1440+360 (iter2)",
+    "pixel-gate-1440": "0.02%, height delta 0px, clipped 0, content n/a (stardust/replica/gates/prototypes-1440/summary.md) [prototype regime]",
+    "pixel-gate-360": "0.02%, height delta 0px, clipped 0, content n/a (stardust/replica/gates/prototypes-360/summary.md) [prototype regime]",
+    "content-count": "content-diff: 139 (0 structural 🔴) — looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 139 (res-360-iter2.log)",
+    "media-reconcile": "n/a: no delivered content file yet (content/media-centre/press-releases/2026/h1-and-q2-2026-results.html) — media-reconcile runs in the delivery chain (row C)",
+    "delivery-lint": "FAIL: 0 P0 · 1 P1 · 1 P2 (delivery-lint --path /media-centre/press-releases/2026/h1-and-q2-2026-results)"
+  },
+  "contentDeviations": [],
+  "assetsBundled": 14,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://www.astrazeneca.com/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/what-science-can-do.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/what-science-can-do.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html?filters=impact,Feature",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/publication.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/rd-approach.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/rd-approach.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/rd-approach/oncology-research-and-development.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/rd-approach/rare-disease-strategy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/rd-approach/stem-at-astrazeneca.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines/cell-therapies.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines/oligonucleotides.html.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/science-and-technologies/ai-data.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/science-and-technologies/genomics.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/science-and-technologies/new-approach-methodologies.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/patient-commitment.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/collaborations.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/r-d/r-d-centres.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/oncology.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/biopharmaceuticals.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/infectious-disease.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/rare-disease.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/medicines.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company/history.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company/leadership.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company/our-locations/cambridge.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company/our-locations/gothenburg.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company/our-locations/gaithersburg.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work/employee-resource-groups.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/resources.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/shareholder-information.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/dividend-policy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/key-facts.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/faqs.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/debt-investors.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/contacts-information.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2025.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/9m-and-q3-2026-results-event.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/results-and-presentations.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/press-releases.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/articles.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/b-roll.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/archive.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/contacts.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/climate-change.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/climate-change.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/climate-change/renewable-energy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/climate-change/product-sustainability.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/climate-change/accelerating-transition-electric-vehicles.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/nature.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/nature.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/nature/water-stewardship.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/nature/pharmaceuticals-in-the-environment.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/nature/waste-circularity.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/climate-change/az-forest.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-equity.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-equity.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-equity/science.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-equity/healthcare-delivery.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-equity/community-investment.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience/PHSSR.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/resources/sustainability-governance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/workforce-safety-and-health.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company.html#values",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/partnerships-and-alliances.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/resources.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/resources.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/articles/sustainable-science-lab-to-patient.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/our-partnering-teams.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/our-areas-of-partnering-interest.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/why-partner-with-astrazeneca.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/az-suppliers.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/supplier-sustainability-hub.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/sustainable-procurement.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/a-catalyst-network.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/investor-relations/clinical-trials-appendix.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/our-therapy-areas/pipeline.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html#resources",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering/externally-sponsored-scientific-research.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-therapy-areas/medicines.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/investor-relations.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/partnering.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/sustainability.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/content/dam/az/PDF/Sustainability/Modern_Slavery_Act_Statement.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/az-suppliers.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/media-centre/social-media-community-guidelines.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/legal-notice-and-terms-of-use.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/global/en/sitemap.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.astrazeneca.com/our-company/Contact-us.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+  "outputPathDefault": null,
+  "sidecar": "media-centre/press-releases/2026/h1-and-q2-2026-results._meta.json",
+  "driverVersion": "1"
+}

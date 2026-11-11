@@ -1,0 +1,162 @@
+[live-session] waiting to pace live navigations to www.astrazeneca.com (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 859 ms
+
+Content diff @ 1440px (profile "generic", roots: #main, header, footer)
+root "#main"
+  source: 89 text nodes — 1 headings, 0 eyebrows, 12 CTAs, 76 body; 0 img
+  build: 89 text nodes — 1 headings, 0 eyebrows, 12 CTAs, 76 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 24 / build 24
+  attributes (placeholder/aria-label/title): source 0 / build 0; icons: source 0 / build 0
+root "header" — source: absent (no <header> / [role="banner"] outside the main root(s)) — measured as empty
+  source: 0 text nodes — 0 headings, 0 eyebrows, 0 CTAs, 0 body; 0 img
+  build: 135 text nodes — 0 headings, 0 eyebrows, 120 CTAs, 15 body; 7 img
+  editable texts (outermost h*/p/ul/ol): source 0 / build 3
+  attributes (placeholder/aria-label/title): source 0 / build 3; icons: source 0 / build 0
+root "footer"
+  source: 36 text nodes — 4 headings, 0 eyebrows, 29 CTAs, 3 body; 0 img
+  build: 36 text nodes — 4 headings, 0 eyebrows, 29 CTAs, 3 body; 0 img
+  editable texts (outermost h*/p/ul/ol): source 12 / build 12
+  attributes (placeholder/aria-label/title): source 0 / build 1; icons: source 0 / build 2
+
+Findings: 141 (0 structural 🔴)
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 141
+  🟠 EXTRA [header]: build cta "AstraZeneca Websites" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Global site" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "What science can do" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "What science can do" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Stories of impact" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Publications" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "R&D" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "R&D" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our approach" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our approach to R&D" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Oncology R&D strategy" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Rare Disease R&D Strategy" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "STEM at AstraZeneca" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Innovation in medicines" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Innovation in medicines overview" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Cell therapies" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Oligonucleotide therapeutics" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Science & Technologies" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Science & Technologies overview" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "AI and data" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Genomics" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "New Approach Methodologies" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Patient Commitment" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "R&D Collaborations" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our R&D centres" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Featured website AstraZeneca Clinical Trials" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Featured website Open Innovation" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our therapy areas" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our therapy areas" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Oncology" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "BioPharmaceuticals" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Cardiovascular, Renal and Metabolism" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Respiratory & Immunology" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Infectious Disease" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Rare Disease" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Pipeline" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "All medicines" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our company" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our company" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our history" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our leadership" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Cambridge" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Gothenburg" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Gaithersburg" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Careers" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Careers" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Great place to work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Inclusion and diversity" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Learning and development" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Employee resource groups" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Investors" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Investor Relations (Global)" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Investor Relations (Sweden)" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Resources" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Governance" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Shareholder information" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Dividend policy" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Key facts" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "FAQs" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Debt Investors" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Investor Relations contacts" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Annual Report 2025" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Feature 9M and Q3 2026 results" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Feature Results and presentations" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Media" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Media" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Press Releases" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Articles" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Image library" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "B-roll videos" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Archive" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Media contacts" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Sustainability" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Sustainability" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Climate change" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Climate change overview" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Renewables" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Product sustainability" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Electric vehicles and Sustainable transport" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Nature" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Nature overview" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Water stewardship" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Pharmaceuticals in the environment" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Waste and circularity" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "AZ Forest" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Health equity" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Health equity overview" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Science" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Healthcare delivery" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Community investment" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Health systems resilience" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Health systems resilience overview" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Partnership for Health System Sustainability and" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Ethics and governance" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Ethics and Compliance" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Governance" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Sustainability governance" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our people" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Great place to work" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Inclusion and diversity" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Learning and development" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Workforce safety and health" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our Values" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Partnerships and alliances" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Resources" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Sustainability resources" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our sustainability impact" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Feature Our Sustainability Impact" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Feature Sustainable science" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Partnering" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Partnering" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our business development teams" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Our areas of partnering interest" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Why partner with AstraZeneca?" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Information for Suppliers" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Supplier Sustainability Hub" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Sustainable procurement" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "A Catalyst Network" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "AstraZeneca Websites" has no source source — Unexpected node with no source.
+  🟠 EXTRA [header]: build cta "Global site" has no source source — Unexpected node with no source.
+  🟡 EXTRA [header]: build body "Search" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Menu" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Search" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Search" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Search" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA [header]: build body "Close" has no source source — Build copy with no source — invented/placeholder; confirm intended.
+  🟡 EXTRA PLACEHOLDER [header]: build <input> placeholder="Enter your search" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <input> aria-label="Search" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [header]: build <nav> aria-label="Main" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ARIA-LABEL [footer]: build <span> aria-label="AstraZeneca" has no source source. Build-only attribute — confirm it is intended (an unregistered change is a fidelity bug).
+  🟡 EXTRA ICON [footer]: build icon-font glyph U+E90E (az-webfont, 0×0) at "resources" has no source source. Build-only icon — confirm it is intended.
+  🟡 EXTRA ICON [footer]: build icon-font glyph U+E90E (az-webfont, 0×0) at "quick links" has no source source. Build-only icon — confirm it is intended.

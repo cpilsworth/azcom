@@ -1,0 +1,497 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-10T12:17:04.498Z",
+    "urls": [
+      "http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      ".az-tags",
+      ".az-tags ul",
+      ".az-tags li",
+      ".az-footer__top",
+      ".az-footer__bottom",
+      ".az-footer__utility",
+      ".az-footer__copyright",
+      ".az-footer__social",
+      ".az-footer__columns",
+      ".az-footer__sites"
+    ],
+    "props": [
+      "height",
+      "margin",
+      "padding",
+      "fontSize",
+      "lineHeight"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    ".az-tags",
+    ".az-tags ul",
+    ".az-tags li",
+    ".az-footer__top",
+    ".az-footer__bottom",
+    ".az-footer__utility",
+    ".az-footer__copyright",
+    ".az-footer__social",
+    ".az-footer__columns",
+    ".az-footer__sites"
+  ],
+  "root": {
+    "http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 6300,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 3395,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html": {
+      "360": {
+        ".az-tags": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 5533,
+              "w": 320,
+              "h": 49
+            },
+            "visible": true,
+            "text": "tags Corporate and financial",
+            "props": {
+              "height": "49px",
+              "margin": "15px 0px 0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-tags ul": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 5533,
+              "w": 320,
+              "h": 49
+            },
+            "visible": true,
+            "text": "Corporate and financial",
+            "props": {
+              "height": "49px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-tags li": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 103,
+              "y": 5543,
+              "w": 154,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Corporate and financial",
+            "props": {
+              "height": "39px",
+              "margin": "10px 5px 0px",
+              "padding": "12px",
+              "fontSize": "11px",
+              "lineHeight": "13px"
+            }
+          }
+        ],
+        ".az-footer__top": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5647,
+              "w": 360,
+              "h": 382
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "height": "382px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__bottom": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6029,
+              "w": 360,
+              "h": 236
+            },
+            "visible": true,
+            "text": "utility links Legal notice and Terms of…",
+            "props": {
+              "height": "236px",
+              "margin": "0px",
+              "padding": "30px 20px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__utility": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 6107,
+              "w": 320,
+              "h": 105
+            },
+            "visible": true,
+            "text": "Legal notice and Terms of Use Privacy n…",
+            "props": {
+              "height": "105px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__copyright": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 6212,
+              "w": 320,
+              "h": 53
+            },
+            "visible": true,
+            "text": "© AstraZeneca 2026",
+            "props": {
+              "height": "53px",
+              "margin": "0px",
+              "padding": "20px 0px",
+              "fontSize": "10px",
+              "lineHeight": "13px"
+            }
+          }
+        ],
+        ".az-footer__social": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5927,
+              "w": 360,
+              "h": 102
+            },
+            "visible": true,
+            "text": "Social Media LinkedIn Instagram Faceboo…",
+            "props": {
+              "height": "102px",
+              "margin": "0px",
+              "padding": "30px 20px 20px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__columns": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5809,
+              "w": 360,
+              "h": 118
+            },
+            "visible": true,
+            "text": "Resources Quick links",
+            "props": {
+              "height": "118px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__sites": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5647,
+              "w": 360,
+              "h": 162
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "height": "162px",
+              "margin": "0px",
+              "padding": "0px 20px 10px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".az-tags": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 311,
+              "y": 2916,
+              "w": 818,
+              "h": 49
+            },
+            "visible": true,
+            "text": "tags Corporate and financial",
+            "props": {
+              "height": "49px",
+              "margin": "15px 0px 0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-tags ul": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 311,
+              "y": 2916,
+              "w": 818,
+              "h": 49
+            },
+            "visible": true,
+            "text": "Corporate and financial",
+            "props": {
+              "height": "49px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-tags li": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 643,
+              "y": 2926,
+              "w": 154,
+              "h": 39
+            },
+            "visible": true,
+            "text": "Corporate and financial",
+            "props": {
+              "height": "39px",
+              "margin": "10px 5px 0px",
+              "padding": "12px",
+              "fontSize": "11px",
+              "lineHeight": "13px"
+            }
+          }
+        ],
+        ".az-footer__top": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 3065,
+              "w": 1280,
+              "h": 237
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "height": "237px",
+              "margin": "0px",
+              "padding": "0px 20px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__bottom": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 3302,
+              "w": 1280,
+              "h": 83
+            },
+            "visible": true,
+            "text": "utility links Legal notice and Terms of…",
+            "props": {
+              "height": "83px",
+              "margin": "0px",
+              "padding": "30px 20px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__utility": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 390,
+              "y": 3332,
+              "w": 607,
+              "h": 13
+            },
+            "visible": true,
+            "text": "Legal notice and Terms of Use Privacy n…",
+            "props": {
+              "height": "13px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__copyright": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 1050,
+              "y": 3332,
+              "w": 290,
+              "h": 53
+            },
+            "visible": true,
+            "text": "© AstraZeneca 2026",
+            "props": {
+              "height": "53px",
+              "margin": "0px",
+              "padding": "20px 0px",
+              "fontSize": "10px",
+              "lineHeight": "13px"
+            }
+          }
+        ],
+        ".az-footer__social": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 1050,
+              "y": 3065,
+              "w": 290,
+              "h": 104
+            },
+            "visible": true,
+            "text": "Social Media LinkedIn Instagram Faceboo…",
+            "props": {
+              "height": "104px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__columns": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 417,
+              "y": 3065,
+              "w": 607,
+              "h": 237
+            },
+            "visible": true,
+            "text": "Resources All resources Open Innovation…",
+            "props": {
+              "height": "237px",
+              "margin": "0px 0px 0px 26.4062px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ],
+        ".az-footer__sites": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 3065,
+              "w": 290,
+              "h": 175
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "height": "175px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

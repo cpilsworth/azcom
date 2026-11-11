@@ -1,0 +1,14 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps:// (live side from cache stardust/replica/gates/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--360/chrome-live.json, probed 2026-11-10T12:11:31.106Z — delete the file to re-probe)
+  build: http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html
+
+■ header: 4 delta(s) — 93 paired of 93/93 texts, 7/7 icons
+  (live has no <header>: auto-detected div.nav.mainnav — pass --region header=<liveSel>|<buildSel> to override)
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+  PAIR         "Search"  Δx +36px (263→299); Δy +10px (19→29)
+  PAIR         "Menu"  Δx +7px (323→330); Δy +10px (20→30)
+  PAIR         "Search"  Δx -5px (321→316); Δy +2px (80→82); <button> box 60×60 → 65×60; <button> backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255); <button> paddingLeft 6px → 32px
+
+■ footer: ✓ parity — 19 paired of 19/19 texts, 0/0 icons
+
+✗ 4 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

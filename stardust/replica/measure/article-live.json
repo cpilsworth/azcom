@@ -1,0 +1,2546 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-10T12:04:52.077Z",
+    "urls": [
+      "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      "#navigation",
+      ".navigation__header-group",
+      ".navigation__header",
+      ".navigation__logo",
+      ".navigation__logo img",
+      ".navigation__link-wrapper--primary",
+      ".navigation__link-list--primary > li > a",
+      ".navigation__search",
+      "#main",
+      ".hero-feature",
+      ".hero-feature__header",
+      ".hero-feature__header .l-constrained",
+      ".pt-article__body",
+      ".l-three-block-c0",
+      ".date",
+      ".date__title",
+      ".date__date",
+      ".l-three-block-c2",
+      ".rich-text h3",
+      ".rich-text p",
+      ".rich-text a",
+      "#footer",
+      ".footer__top-region",
+      ".footer__title",
+      ".footer__colophon",
+      ".footer__accordion-panel",
+      ".footer__social-links",
+      ".footer__bottom-region",
+      ".footer__utility-links a",
+      ".footer__copyright"
+    ],
+    "props": [
+      "display",
+      "position",
+      "boxSizing",
+      "width",
+      "height",
+      "maxWidth",
+      "margin",
+      "padding",
+      "gap",
+      "backgroundColor",
+      "backgroundImage",
+      "color",
+      "fontFamily",
+      "fontSize",
+      "fontWeight",
+      "lineHeight",
+      "letterSpacing",
+      "textTransform",
+      "textAlign",
+      "borderRadius",
+      "border",
+      "boxShadow",
+      "opacity",
+      "objectFit"
+    ],
+    "allMatches": false,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    "#navigation",
+    ".navigation__header-group",
+    ".navigation__header",
+    ".navigation__logo",
+    ".navigation__logo img",
+    ".navigation__link-wrapper--primary",
+    ".navigation__link-list--primary > li > a",
+    ".navigation__search",
+    "#main",
+    ".hero-feature",
+    ".hero-feature__header",
+    ".hero-feature__header .l-constrained",
+    ".pt-article__body",
+    ".l-three-block-c0",
+    ".date",
+    ".date__title",
+    ".date__date",
+    ".l-three-block-c2",
+    ".rich-text h3",
+    ".rich-text p",
+    ".rich-text a",
+    "#footer",
+    ".footer__top-region",
+    ".footer__title",
+    ".footer__colophon",
+    ".footer__accordion-panel",
+    ".footer__social-links",
+    ".footer__bottom-region",
+    ".footer__utility-links a",
+    ".footer__copyright"
+  ],
+  "root": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 6331,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 3385,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://": {
+      "360": {
+        "#navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 61
+            },
+            "visible": true,
+            "text": "Search Menu Search Search What science …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "61px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__header-group": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "display": "none",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "auto",
+              "height": "auto",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__header": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 360,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Search Menu",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__logo": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 128,
+              "h": 60
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "display": "inline-block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "128px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 0px 0px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__logo img": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 20,
+              "y": 20,
+              "w": 108,
+              "h": 26
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "108px",
+              "height": "26px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 238)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 238)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            },
+            "img": {
+              "naturalWidth": 216,
+              "naturalHeight": 52,
+              "currentSrc": "https://www.astrazeneca.com/etc/designs/az/img/logo-az.png"
+            }
+          }
+        ],
+        ".navigation__link-wrapper--primary": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 61,
+              "w": 360,
+              "h": 0
+            },
+            "visible": true,
+            "text": "What science can do What science can do…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "0px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__link-list--primary > li > a": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 0,
+              "y": 61,
+              "w": 360,
+              "h": 58
+            },
+            "visible": true,
+            "text": "What science can do",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "58px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "20px 50px 17px 17px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__search": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 60,
+              "w": 360,
+              "h": 1
+            },
+            "visible": true,
+            "text": "Search Search",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "1px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        "#main": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 61,
+              "w": 360,
+              "h": 5557
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "5557px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".hero-feature": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 61,
+              "w": 360,
+              "h": 260
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "260px",
+              "maxWidth": "none",
+              "margin": "0px 0px 40px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".hero-feature__header": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 61,
+              "w": 360,
+              "h": 260
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "260px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "40px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "30px",
+              "fontWeight": "300",
+              "lineHeight": "36px",
+              "letterSpacing": "0.9px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".hero-feature__header .l-constrained": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 101,
+              "w": 320,
+              "h": 180
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "180px",
+              "maxWidth": "1280px",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "30px",
+              "fontWeight": "300",
+              "lineHeight": "36px",
+              "letterSpacing": "0.9px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".pt-article__body": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 361,
+              "w": 360,
+              "h": 5217
+            },
+            "visible": true,
+            "text": "PUBLISHED 24 July 2026 Recommendation b…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "5217px",
+              "maxWidth": "none",
+              "margin": "0px 0px 40px",
+              "padding": "0px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-three-block-c0": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 361,
+              "w": 320,
+              "h": 64
+            },
+            "visible": true,
+            "text": "PUBLISHED 24 July 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "64px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".date": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 361,
+              "w": 320,
+              "h": 64
+            },
+            "visible": true,
+            "text": "PUBLISHED 24 July 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "64px",
+              "maxWidth": "none",
+              "margin": "0px 0px 35px",
+              "padding": "0px 0px 26px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "rgba(216, 216, 216, 0.5) 0px 16px 23px -16px",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".date__title": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 361,
+              "w": 101,
+              "h": 18
+            },
+            "visible": true,
+            "text": "PUBLISHED",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "101.219px",
+              "height": "18px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 0px 5px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "11px",
+              "fontWeight": "400",
+              "lineHeight": "13px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".date__date": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 379,
+              "w": 101,
+              "h": 20
+            },
+            "visible": true,
+            "text": "24 July 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "101.219px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "200",
+              "lineHeight": "20px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-three-block-c2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 460,
+              "w": 320,
+              "h": 5118
+            },
+            "visible": true,
+            "text": "Recommendation based on KALOS and LOGOS…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "5118px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text h3": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 20,
+              "y": 460,
+              "w": 320,
+              "h": 176
+            },
+            "visible": true,
+            "text": "Recommendation based on KALOS and LOGOS…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "176px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text p": [
+          {
+            "index": 0,
+            "of": 23,
+            "rect": {
+              "x": 20,
+              "y": 774,
+              "w": 320,
+              "h": 300
+            },
+            "visible": true,
+            "text": "AstraZeneca’s fixed-dose triple-combina…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "300px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text a": [
+          {
+            "index": 0,
+            "of": 16,
+            "rect": {
+              "x": 20,
+              "y": 2096,
+              "w": 299,
+              "h": 36
+            },
+            "visible": true,
+            "text": "KALOS and LOGOS",
+            "props": {
+              "display": "inline",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "auto",
+              "height": "auto",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 16, 83)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 16, 83)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        "#footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5618,
+              "w": 360,
+              "h": 713
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "713px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "25px 0px 35px",
+              "gap": "normal",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__top-region": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 5643,
+              "w": 360,
+              "h": 382
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "382px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__title": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 5643,
+              "w": 320,
+              "h": 26
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "26px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "21px",
+              "fontWeight": "400",
+              "lineHeight": "26px",
+              "letterSpacing": "0.9px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__colophon": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 5679,
+              "w": 320,
+              "h": 105
+            },
+            "visible": true,
+            "text": "This website is intended for people see…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "105px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__accordion-panel": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 0,
+              "y": 5805,
+              "w": 360,
+              "h": 59
+            },
+            "visible": true,
+            "text": "Resources",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "59px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__social-links": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 5953,
+              "w": 320,
+              "h": 52
+            },
+            "visible": true,
+            "text": "LinkedIn Instagram Facebook X YouTube G…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__bottom-region": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 6025,
+              "w": 360,
+              "h": 271
+            },
+            "visible": true,
+            "text": "utility links Legal notice and Terms of…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "360px",
+              "height": "271px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "30px 20px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__utility-links a": [
+          {
+            "index": 0,
+            "of": 5,
+            "rect": {
+              "x": 20,
+              "y": 6124,
+              "w": 134,
+              "h": 31
+            },
+            "visible": true,
+            "text": "Legal notice and Terms of Use",
+            "props": {
+              "display": "inline",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "auto",
+              "height": "auto",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(210, 210, 210)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "lineHeight": "13px",
+              "letterSpacing": "0.8px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(210, 210, 210)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__copyright": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 6243,
+              "w": 320,
+              "h": 53
+            },
+            "visible": true,
+            "text": "© AstraZeneca 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "53px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "20px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "10px",
+              "fontWeight": "300",
+              "lineHeight": "13px",
+              "letterSpacing": "0.8px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      },
+      "1440": {
+        "#navigation": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1440,
+              "h": 94
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites Global site Search…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "94px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__header-group": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visible": false,
+            "text": "",
+            "props": {
+              "display": "none",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "auto",
+              "height": "45px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__header": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 0,
+              "w": 1280,
+              "h": 44
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites Global site",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "1280px",
+              "height": "44px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__logo": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 0,
+              "w": 108,
+              "h": 44
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "display": "inline-block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "108px",
+              "height": "44px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 0px 0px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__logo img": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 100,
+              "y": 11,
+              "w": 88,
+              "h": 23
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "88px",
+              "height": "23px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 238)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 238)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            },
+            "img": {
+              "naturalWidth": 216,
+              "naturalHeight": 52,
+              "currentSrc": "https://www.astrazeneca.com/etc/designs/az/img/logo-az.png"
+            }
+          }
+        ],
+        ".navigation__link-wrapper--primary": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 44,
+              "w": 1440,
+              "h": 50
+            },
+            "visible": true,
+            "text": "What science can do R&D Our therapy are…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "50px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__link-list--primary > li > a": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 97,
+              "y": 47,
+              "w": 187,
+              "h": 44
+            },
+            "visible": true,
+            "text": "What science can do",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "186.766px",
+              "height": "44px",
+              "maxWidth": "none",
+              "margin": "2px 8px 2px 17px",
+              "padding": "15px 0px 5px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".navigation__search": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 1316,
+              "y": -1,
+              "w": 1280,
+              "h": 45
+            },
+            "visible": true,
+            "text": "Search Search Search Close",
+            "props": {
+              "display": "block",
+              "position": "absolute",
+              "boxSizing": "border-box",
+              "width": "1280px",
+              "height": "45px",
+              "maxWidth": "none",
+              "margin": "0px 44px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        "#main": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "w": 1440,
+              "h": 2921
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "2921px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".hero-feature": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 94,
+              "w": 1440,
+              "h": 256
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "256px",
+              "maxWidth": "none",
+              "margin": "0px 0px 60px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".hero-feature__header": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 94,
+              "w": 1280,
+              "h": 256
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1280px",
+              "height": "256px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "80px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "42px",
+              "fontWeight": "300",
+              "lineHeight": "48px",
+              "letterSpacing": "1.1px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".hero-feature__header .l-constrained": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 174,
+              "w": 1240,
+              "h": 96
+            },
+            "visible": true,
+            "text": "Trixeo recommended for approval in the …",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "96px",
+              "maxWidth": "1280px",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "42px",
+              "fontWeight": "300",
+              "lineHeight": "48px",
+              "letterSpacing": "1.1px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".pt-article__body": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 410,
+              "w": 1280,
+              "h": 2545
+            },
+            "visible": true,
+            "text": "PUBLISHED 24 July 2026 Recommendation b…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1280px",
+              "height": "2545px",
+              "maxWidth": "none",
+              "margin": "0px 0px 60px",
+              "padding": "0px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-three-block-c0": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 410,
+              "w": 1240,
+              "h": 66
+            },
+            "visible": true,
+            "text": "PUBLISHED 24 July 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "66px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".date": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 410,
+              "w": 1240,
+              "h": 66
+            },
+            "visible": true,
+            "text": "PUBLISHED 24 July 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "66px",
+              "maxWidth": "none",
+              "margin": "0px 0px 35px",
+              "padding": "0px 0px 26px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "rgba(216, 216, 216, 0.5) 0px 16px 23px -16px",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".date__title": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 410,
+              "w": 114,
+              "h": 18
+            },
+            "visible": true,
+            "text": "PUBLISHED",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "113.812px",
+              "height": "18px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 0px 5px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "11px",
+              "fontWeight": "400",
+              "lineHeight": "13px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".date__date": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 428,
+              "w": 114,
+              "h": 22
+            },
+            "visible": true,
+            "text": "24 July 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "113.812px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "200",
+              "lineHeight": "22px",
+              "letterSpacing": "1.12px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-three-block-c2": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 311,
+              "y": 511,
+              "w": 818,
+              "h": 2444
+            },
+            "visible": true,
+            "text": "Recommendation based on KALOS and LOGOS…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "817.859px",
+              "height": "2444px",
+              "maxWidth": "none",
+              "margin": "0px -1240px 0px 211.062px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text h3": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 311,
+              "y": 521,
+              "w": 818,
+              "h": 66
+            },
+            "visible": true,
+            "text": "Recommendation based on KALOS and LOGOS…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "817.859px",
+              "height": "66px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "0.7px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text p": [
+          {
+            "index": 0,
+            "of": 23,
+            "rect": {
+              "x": 311,
+              "y": 681,
+              "w": 818,
+              "h": 100
+            },
+            "visible": true,
+            "text": "AstraZeneca’s fixed-dose triple-combina…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "817.859px",
+              "height": "100px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text a": [
+          {
+            "index": 0,
+            "of": 16,
+            "rect": {
+              "x": 704,
+              "y": 1223,
+              "w": 132,
+              "h": 16
+            },
+            "visible": true,
+            "text": "KALOS and LOGOS",
+            "props": {
+              "display": "inline",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "auto",
+              "height": "auto",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 16, 83)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 16, 83)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        "#footer": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 0,
+              "y": 3015,
+              "w": 1440,
+              "h": 370
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1440px",
+              "height": "370px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "40px 0px 10px",
+              "gap": "normal",
+              "backgroundColor": "rgb(27, 27, 27)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__top-region": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 3055,
+              "w": 1280,
+              "h": 237
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites This website is in…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1280px",
+              "height": "237px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px 20px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__title": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 3055,
+              "w": 290,
+              "h": 30
+            },
+            "visible": true,
+            "text": "AstraZeneca Websites",
+            "props": {
+              "display": "block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "290.203px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "23px",
+              "fontWeight": "400",
+              "lineHeight": "30px",
+              "letterSpacing": "1.05px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__colophon": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 3095,
+              "w": 290,
+              "h": 125
+            },
+            "visible": true,
+            "text": "This website is intended for people see…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "290.203px",
+              "height": "125px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__accordion-panel": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 417,
+              "y": 3055,
+              "w": 297,
+              "h": 214
+            },
+            "visible": true,
+            "text": "Resources All resources Open Innovation…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "296.938px",
+              "height": "214px",
+              "maxWidth": "none",
+              "margin": "0px -606.797px 0px 0px",
+              "padding": "0px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__social-links": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 1050,
+              "y": 3055,
+              "w": 290,
+              "h": 104
+            },
+            "visible": true,
+            "text": "LinkedIn Instagram Facebook X YouTube G…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "290.203px",
+              "height": "104px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__bottom-region": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 80,
+              "y": 3292,
+              "w": 1280,
+              "h": 83
+            },
+            "visible": true,
+            "text": "utility links Legal notice and Terms of…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1280px",
+              "height": "83px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "30px 20px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__utility-links a": [
+          {
+            "index": 0,
+            "of": 5,
+            "rect": {
+              "x": 417,
+              "y": 3343,
+              "w": 158,
+              "h": 11
+            },
+            "visible": true,
+            "text": "Legal notice and Terms of Use",
+            "props": {
+              "display": "inline",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "auto",
+              "height": "auto",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(210, 210, 210)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "10px",
+              "fontWeight": "400",
+              "lineHeight": "13px",
+              "letterSpacing": "0.8px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(210, 210, 210)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".footer__copyright": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 1050,
+              "y": 3322,
+              "w": 290,
+              "h": 53
+            },
+            "visible": true,
+            "text": "© AstraZeneca 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "290.203px",
+              "height": "53px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "20px 0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(255, 255, 255)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "10px",
+              "fontWeight": "300",
+              "lineHeight": "13px",
+              "letterSpacing": "0.8px",
+              "textTransform": "none",
+              "textAlign": "right",
+              "borderRadius": "0px",
+              "border": "0px none rgb(255, 255, 255)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,5700 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-10T14:34:52.479Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+  "at": "2026-11-10T14:34:35.189Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3385,
+  "root": "section#main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#skip-shortcuts > li > a",
+    "x": 0,
+    "y": -500,
+    "w": 1440,
+    "h": 40,
+    "text": "skip to content",
+    "href": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#skip-shortcuts > li > a",
+    "x": 0,
+    "y": -500,
+    "w": 1440,
+    "h": 40,
+    "text": "skip to navigation",
+    "href": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#skip-shortcuts > li > a",
+    "x": 0,
+    "y": -500,
+    "w": 1440,
+    "h": 40,
+    "text": "skip to footer",
+    "href": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation__header.js-navigation__header > div.navigation__logo > a.navigation__logo-link",
+    "x": 100,
+    "y": 0,
+    "w": 88,
+    "h": 44,
+    "text": "astrazeneca logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation__logo > a.navigation__logo-link > img.navigation__logo--color",
+    "x": 100,
+    "y": 11,
+    "w": 88,
+    "h": 23,
+    "text": "astrazeneca logo",
+    "file": "logo-az"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--region > li.navigation__link-list-item.navigation__link-list-item--region > a.navigation__region-link",
+    "x": 1094,
+    "y": 18,
+    "w": 116,
+    "h": 11,
+    "text": "astrazeneca websites",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--region > li.navigation__link-list-item.navigation__link-list-item--region > a.navigation__region-link.navigation__region-link--global",
+    "x": 1230,
+    "y": 18,
+    "w": 70,
+    "h": 11,
+    "text": "global site",
+    "href": "/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.l-constrained > div.navigation__search.js-navigation__search > button.navigation__search-tray-open.js-navigation__search-tray-open",
+    "x": 1317,
+    "y": 0,
+    "w": 44,
+    "h": 44,
+    "text": ""
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 97,
+    "y": 47,
+    "w": 187,
+    "h": 44,
+    "text": "what science can do",
+    "href": "/what-science-can-do.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 309,
+    "y": 47,
+    "w": 55,
+    "h": 44,
+    "text": "r&d",
+    "href": "/r-d.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 389,
+    "y": 47,
+    "w": 164,
+    "h": 44,
+    "text": "our therapy areas",
+    "href": "/our-therapy-areas.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 578,
+    "y": 47,
+    "w": 127,
+    "h": 44,
+    "text": "our company",
+    "href": "/our-company.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 730,
+    "y": 47,
+    "w": 80,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 835,
+    "y": 47,
+    "w": 93,
+    "h": 44,
+    "text": "investors",
+    "href": "/investor-relations.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 953,
+    "y": 47,
+    "w": 68,
+    "h": 44,
+    "text": "media",
+    "href": "/media-centre.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 1046,
+    "y": 47,
+    "w": 133,
+    "h": 44,
+    "text": "sustainability",
+    "href": "/sustainability.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "ul.navigation__link-list.navigation__link-list--primary > li.navigation__link-list-item.js-navigation__link-list-item--primary > a.navigation__primary-link.js-navigation__primary-link",
+    "x": 1204,
+    "y": 47,
+    "w": 104,
+    "h": 44,
+    "text": "partnering",
+    "href": "/partnering.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.hero-feature.hero-feature--no-background > div.hero-feature__wrapper > h1.hero-feature__header",
+    "x": 80,
+    "y": 94,
+    "w": 1280,
+    "h": 256,
+    "level": 1,
+    "text": "trixeo recommended for approval in the eu by chmp for the maintenance treatment of asthma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-feature__wrapper > h1.hero-feature__header > div.l-constrained",
+    "x": 100,
+    "y": 174,
+    "w": 1240,
+    "h": 96,
+    "text": "Trixeo recommended for approval in the EU by CHMP for the maintenance treatment "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.publishedDate > time.date__date-region > span.date__title",
+    "x": 100,
+    "y": 410,
+    "w": 114,
+    "h": 18,
+    "text": "PUBLISHED"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.publishedDate > time.date__date-region > span.date__date",
+    "x": 100,
+    "y": 428,
+    "w": 114,
+    "h": 22,
+    "text": "24 July 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h3",
+    "x": 311,
+    "y": 521,
+    "w": 818,
+    "h": 66,
+    "level": 3,
+    "text": "recommendation based on kalos and logos phase iii trials demonstrating statistically significant and clinically meaningf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3 > b > i",
+    "x": 322,
+    "y": 520,
+    "w": 797,
+    "h": 67,
+    "text": "Recommendation based on KALOS and LOGOS Phase III trials demonstrating statistic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h3",
+    "x": 311,
+    "y": 627,
+    "w": 818,
+    "h": 44,
+    "level": 3,
+    "text": "approval would add second indication for trixeo beyond copd in europe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3 > b > i",
+    "x": 406,
+    "y": 626,
+    "w": 627,
+    "h": 23,
+    "text": "Approval would add second indication for Trixeo beyond COPD in Europe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 681,
+    "w": 818,
+    "h": 100,
+    "text": "AstraZeneca’s fixed-dose triple-combination (budesonide/glycopyrronium/formotero"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 791,
+    "w": 818,
+    "h": 120,
+    "text": "The Committee for Medicinal Products for Human Use (CHMP) of the European Medici"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 921,
+    "w": 818,
+    "h": 120,
+    "text": "Alberto Papi, Professor and Chair of Respiratory Medicine at the University of F"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1051,
+    "w": 818,
+    "h": 120,
+    "text": "Ruud Dobber, Executive Vice President, BioPharmaceuticals Business Unit, AstraZe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1181,
+    "w": 818,
+    "h": 80,
+    "text": "In a key secondary endpoint, demonstrated a rapid onset of action with a signifi"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 704,
+    "y": 1223,
+    "w": 132,
+    "h": 16,
+    "text": "kalos and logos",
+    "href": "/media-centre/press-releases/2026/positive-and-clinically-meaningful-results-from-the-phase-iii-kalos-and-logos-trials-for-breztri.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 311,
+    "y": 1223,
+    "w": 799,
+    "h": 36,
+    "text": "the lancet respiratory medicine",
+    "href": "/journals/lanres/article/PIIS2213-2600(25)00457-6/abstract"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1271,
+    "w": 818,
+    "h": 60,
+    "text": "In Europe, there are nearly 43 million people living with asthma, and every year"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1341,
+    "w": 818,
+    "h": 60,
+    "text": "is approved in the for treatment of asthma, with regulatory filings currently un"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 526,
+    "y": 1343,
+    "w": 20,
+    "h": 16,
+    "text": "us",
+    "href": "/media-centre/press-releases/2026/breztri-approved-in-the-us-for-asthma.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > u > b",
+    "x": 311,
+    "y": 1413,
+    "w": 40,
+    "h": 16,
+    "text": "Notes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1441,
+    "w": 818,
+    "h": 120,
+    "text": "Asthma is a prevalent, chronic respiratory disease affecting as many as 363 mill"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1571,
+    "w": 818,
+    "h": 120,
+    "text": "KALOS and LOGOS were replicate confirmatory, randomised, double-blind, double-du"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1701,
+    "w": 818,
+    "h": 120,
+    "text": "In the data package submitted to the EMA, in the individual trials, the primary "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 1831,
+    "w": 818,
+    "h": 160,
+    "text": "Budesonide/glycopyrronium/formoterol fumarate or budesonide/glycopyrrolate/formo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 2001,
+    "w": 818,
+    "h": 40,
+    "text": "Respiratory & Immunology, part of AstraZeneca BioPharmaceuticals, is a key disea"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 2051,
+    "w": 818,
+    "h": 100,
+    "text": "AstraZeneca is an established leader in respiratory care with a 50-year heritage"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 311,
+    "y": 2163,
+    "w": 87,
+    "h": 16,
+    "text": "astrazeneca",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 2191,
+    "w": 818,
+    "h": 100,
+    "text": "AstraZeneca (LSE/STO/NYSE: AZN) is a global, science-led biopharmaceutical compa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 976,
+    "y": 2253,
+    "w": 111,
+    "h": 16,
+    "text": "astrazeneca.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 552,
+    "y": 2273,
+    "w": 97,
+    "h": 16,
+    "text": "@astrazeneca",
+    "href": "/company/astrazeneca"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 311,
+    "y": 2301,
+    "w": 818,
+    "h": 40,
+    "text": "For details on how to contact the Investor Relations Team, please click . For Me"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 773,
+    "y": 2323,
+    "w": 29,
+    "h": 16,
+    "text": "here",
+    "href": "/investor-relations.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > a",
+    "x": 976,
+    "y": 2323,
+    "w": 29,
+    "h": 16,
+    "text": "here",
+    "href": "/media-centre/contacts.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > b",
+    "x": 311,
+    "y": 2383,
+    "w": 79,
+    "h": 16,
+    "text": "References"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2411,
+    "w": 818,
+    "h": 60,
+    "text": "Papi A, Wise R, Jackson D et al. Budesonide–glycopyrronium–formoterol fumarate d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2481,
+    "w": 818,
+    "h": 40,
+    "text": "International Respiratory Coalition. Asthma. [Online]. Available at: . [Last acc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 311,
+    "y": 2483,
+    "w": 649,
+    "h": 36,
+    "text": "https://international-respiratory-coalition.org/diseases/asthma/",
+    "href": "/diseases/asthma/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2531,
+    "w": 818,
+    "h": 20,
+    "text": "Fernandes AG, et al. Risk factors for death in patients with severe asthma. . 20"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2561,
+    "w": 818,
+    "h": 40,
+    "text": "Davis J, et al. Burden of asthma among patients adherent to ICS/LABA: A real-wor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2611,
+    "w": 818,
+    "h": 40,
+    "text": "Buhl R, et al. One-year follow up of asthmatic patients newly initiated on treat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2661,
+    "w": 818,
+    "h": 40,
+    "text": "World Health Organization. Asthma. [Online]. Available at: . [Last accessed: Jul"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 707,
+    "y": 2663,
+    "w": 369,
+    "h": 16,
+    "text": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+    "href": "/news-room/fact-sheets/detail/asthma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2711,
+    "w": 818,
+    "h": 60,
+    "text": "Clinicaltrials.gov. Study to Assess PT010 in Adult and Adolescent Participants w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 516,
+    "y": 2733,
+    "w": 495,
+    "h": 16,
+    "text": "https://clinicaltrials.gov/study/nct04609878?limit=25&term=kalos&rank=1",
+    "href": "/study/NCT04609878"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2781,
+    "w": 818,
+    "h": 60,
+    "text": "Clinicaltrials.gov. Study to Assess PT010 in Adult and Adolescent Participants w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 519,
+    "y": 2803,
+    "w": 498,
+    "h": 16,
+    "text": "https://clinicaltrials.gov/study/nct04609904?limit=25&term=logos&rank=4",
+    "href": "/study/NCT04609904"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > ol > li",
+    "x": 311,
+    "y": 2851,
+    "w": 818,
+    "h": 20,
+    "text": "AstraZeneca. Data On File. REF-325003."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags > ul.tags__list > li.tags__list-item",
+    "x": 643,
+    "y": 2916,
+    "w": 154,
+    "h": 39,
+    "text": "Corporate and financial"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.block-wrapper.footer__top-region > div.footer__global-sites-block.col-1 > h3.footer__title",
+    "x": 100,
+    "y": 3055,
+    "w": 290,
+    "h": 30,
+    "level": 3,
+    "text": "astrazeneca websites"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__global-sites-block.col-1 > h3.footer__title > a.footer__global-sites",
+    "x": 100,
+    "y": 3055,
+    "w": 252,
+    "h": 29,
+    "text": "astrazeneca websites",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__global-sites-block.col-1 > div.footer__colophon > p",
+    "x": 100,
+    "y": 3095,
+    "w": 290,
+    "h": 39,
+    "text": "This website is intended for people seeking information on AstraZeneca's worldwi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__global-sites-block.col-1 > div.footer__colophon > p",
+    "x": 100,
+    "y": 3194,
+    "w": 290,
+    "h": 26,
+    "text": "Veeva ID: Z4-88682 Date of next review: August 2028"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#js-footer__accordion > div.footer__accordion-panel.col-2-col-1 > h3.footer__title.footer__accordion-title",
+    "x": 433,
+    "y": 3055,
+    "w": 266,
+    "h": 30,
+    "level": 3,
+    "text": "resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3095,
+    "w": 266,
+    "h": 13,
+    "text": "all resources",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3118,
+    "w": 266,
+    "h": 13,
+    "text": "open innovation",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3141,
+    "w": 266,
+    "h": 13,
+    "text": "externally sponsored scientific research",
+    "href": "/partnering/externally-sponsored-scientific-research.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3164,
+    "w": 266,
+    "h": 13,
+    "text": "medical information for hcps",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3187,
+    "w": 266,
+    "h": 13,
+    "text": "us prescription assistance programmes",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3210,
+    "w": 266,
+    "h": 13,
+    "text": "global clinical trials information",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3233,
+    "w": 266,
+    "h": 13,
+    "text": "medicines",
+    "href": "/our-therapy-areas/medicines.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 433,
+    "y": 3256,
+    "w": 266,
+    "h": 13,
+    "text": "report a possible side effect",
+    "href": "/content/astrazeneca-champion/global/en/amp-form.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#js-footer__accordion > div.footer__accordion-panel.col-2-col-2 > h3.footer__title.footer__accordion-title",
+    "x": 742,
+    "y": 3055,
+    "w": 266,
+    "h": 30,
+    "level": 3,
+    "text": "quick links"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3095,
+    "w": 266,
+    "h": 13,
+    "text": "media",
+    "href": "/media-centre.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3118,
+    "w": 266,
+    "h": 13,
+    "text": "investor relations",
+    "href": "/investor-relations.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3141,
+    "w": 266,
+    "h": 13,
+    "text": "partnering",
+    "href": "/partnering.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3164,
+    "w": 266,
+    "h": 13,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3187,
+    "w": 266,
+    "h": 13,
+    "text": "sustainability",
+    "href": "/sustainability.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3210,
+    "w": 266,
+    "h": 13,
+    "text": "modern slavery statement",
+    "href": "/content/dam/az/PDF/Sustainability/Modern_Slavery_Act_Statement.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3233,
+    "w": 266,
+    "h": 13,
+    "text": "azethics – report a concern",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3256,
+    "w": 266,
+    "h": 13,
+    "text": "supplier information",
+    "href": "/az-suppliers.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__links > li.footer__link > a.footer__tagging",
+    "x": 742,
+    "y": 3279,
+    "w": 266,
+    "h": 13,
+    "text": "social media community guidelines",
+    "href": "/media-centre/social-media-community-guidelines.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--linkedin-link",
+    "x": 1050,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/company/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--instagram-link",
+    "x": 1102,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/astrazeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--fb-link",
+    "x": 1154,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--tw-link",
+    "x": 1206,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--youtube-link",
+    "x": 1258,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/user/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--gd-link",
+    "x": 1050,
+    "y": 3107,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/Overview/Working-at-AstraZeneca-EI_IE9214.11,22.htm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 417,
+    "y": 3343,
+    "w": 158,
+    "h": 11,
+    "text": "legal notice and terms of use",
+    "href": "/legal-notice-and-terms-of-use.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 595,
+    "y": 3343,
+    "w": 73,
+    "h": 11,
+    "text": "privacy notice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 688,
+    "y": 3343,
+    "w": 46,
+    "h": 11,
+    "text": "site map",
+    "href": "/global/en/sitemap.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 754,
+    "y": 3343,
+    "w": 56,
+    "h": 11,
+    "text": "contact us",
+    "href": "/our-company/Contact-us.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a.CookieReportsLink",
+    "x": 830,
+    "y": 3343,
+    "w": 101,
+    "h": 11,
+    "text": "cookie preferences",
+    "href": "/510df253-en-gb.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.l-constrained > div.block-wrapper.footer__bottom-region > p.footer__copyright.col-3",
+    "x": 1050,
+    "y": 3322,
+    "w": 290,
+    "h": 53,
+    "text": "© AstraZeneca 2026"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 3,
+    "textNodes": 174,
+    "controls": 59,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+  "at": "2026-11-10T14:34:52.363Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 3385,
+  "root": "main#main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-header-logo > a",
+    "x": 100,
+    "y": 0,
+    "w": 88,
+    "h": 44,
+    "text": "astrazeneca logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 100,
+    "y": 11,
+    "w": 88,
+    "h": 23,
+    "text": "astrazeneca logo",
+    "file": "media_166cbec2552f90bc73b6f7be2e8432ba92"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-header-region > li > a",
+    "x": 1094,
+    "y": 18,
+    "w": 116,
+    "h": 11,
+    "text": "astrazeneca websites",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-header-region > li > a.is-global",
+    "x": 1230,
+    "y": 18,
+    "w": 70,
+    "h": 11,
+    "text": "global site",
+    "href": "/"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-search > button.az-search-open",
+    "x": 1316,
+    "y": -1,
+    "w": 44,
+    "h": 45,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-search > button.az-search-open",
+    "x": 1316,
+    "y": -1,
+    "w": 44,
+    "h": 45,
+    "label": "trigger",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 97,
+    "y": 47,
+    "w": 181,
+    "h": 44,
+    "text": "what science can do",
+    "href": "/what-science-can-do.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 303,
+    "y": 47,
+    "w": 50,
+    "h": 44,
+    "text": "r&d",
+    "href": "/r-d.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 378,
+    "y": 47,
+    "w": 159,
+    "h": 44,
+    "text": "our therapy areas",
+    "href": "/our-therapy-areas.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 562,
+    "y": 47,
+    "w": 121,
+    "h": 44,
+    "text": "our company",
+    "href": "/our-company.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 709,
+    "y": 47,
+    "w": 74,
+    "h": 44,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 808,
+    "y": 47,
+    "w": 88,
+    "h": 44,
+    "text": "investors",
+    "href": "/investor-relations.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top.is-current",
+    "x": 921,
+    "y": 47,
+    "w": 63,
+    "h": 44,
+    "text": "media",
+    "href": "/media-centre.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 1009,
+    "y": 47,
+    "w": 128,
+    "h": 44,
+    "text": "sustainability",
+    "href": "/sustainability.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-nav-list > li.az-nav-item > a.az-nav-top",
+    "x": 1161,
+    "y": 47,
+    "w": 99,
+    "h": 44,
+    "text": "partnering",
+    "href": "/partnering.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-hero.block > div.article-hero-title > h1#trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+    "x": 80,
+    "y": 174,
+    "w": 1280,
+    "h": 96,
+    "level": 1,
+    "text": "trixeo recommended for approval in the eu by chmp for the maintenance treatment of asthma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-date-region > div.article-date-title > p",
+    "x": 100,
+    "y": 410,
+    "w": 114,
+    "h": 13,
+    "text": "PUBLISHED"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-date-region > div.article-date-date > p",
+    "x": 100,
+    "y": 428,
+    "w": 114,
+    "h": 22,
+    "text": "24 July 2026"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#recommendation-based-on-kalos-and-logos-phase-iii-trials-demonstrating-statistically-significant-and-clinically-meaningful-benefits-of-astrazenecas-single-inhaler-fixed-dose-triple-therapy-compared-with-inhaled-dual-therapy",
+    "x": 311,
+    "y": 521,
+    "w": 818,
+    "h": 66,
+    "level": 3,
+    "text": "recommendation based on kalos and logos phase iii trials demonstrating statistically significant and clinically meaningf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#recommendation-based-on-kalos-and-logos-phase-iii-trials-demonstrating-statistically-significant-and-clinically-meaningful-benefits-of-astrazenecas-single-inhaler-fixed-dose-triple-therapy-compared-with-inhaled-dual-therapy > em > strong",
+    "x": 322,
+    "y": 520,
+    "w": 797,
+    "h": 67,
+    "text": "Recommendation based on KALOS and LOGOS Phase III trials demonstrating statistic"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > h3#approval-would-add-second-indication-for-trixeo-beyond-copd-in-europe",
+    "x": 311,
+    "y": 627,
+    "w": 818,
+    "h": 22,
+    "level": 3,
+    "text": "approval would add second indication for trixeo beyond copd in europe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "h3#approval-would-add-second-indication-for-trixeo-beyond-copd-in-europe > em > strong",
+    "x": 406,
+    "y": 626,
+    "w": 627,
+    "h": 23,
+    "text": "Approval would add second indication for Trixeo beyond COPD in Europe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 681,
+    "w": 818,
+    "h": 100,
+    "text": "AstraZeneca’s fixed-dose triple-combination (budesonide/glycopyrronium/formotero"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 791,
+    "w": 818,
+    "h": 120,
+    "text": "The Committee for Medicinal Products for Human Use (CHMP) of the European Medici"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 921,
+    "w": 818,
+    "h": 120,
+    "text": "Alberto Papi, Professor and Chair of Respiratory Medicine at the University of F"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1051,
+    "w": 818,
+    "h": 120,
+    "text": "Ruud Dobber, Executive Vice President, BioPharmaceuticals Business Unit, AstraZe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1181,
+    "w": 818,
+    "h": 80,
+    "text": "In a key secondary endpoint, demonstrated a rapid onset of action with a signifi"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 704,
+    "y": 1223,
+    "w": 132,
+    "h": 16,
+    "text": "kalos and logos",
+    "href": "/media-centre/press-releases/2026/positive-and-clinically-meaningful-results-from-the-phase-iii-kalos-and-logos-trials-for-breztri.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > em > a",
+    "x": 311,
+    "y": 1223,
+    "w": 799,
+    "h": 36,
+    "text": "the lancet respiratory medicine",
+    "href": "/journals/lanres/article/PIIS2213-2600(25)00457-6/abstract"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1271,
+    "w": 818,
+    "h": 60,
+    "text": "In Europe, there are nearly 43 million people living with asthma, and every year"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1341,
+    "w": 818,
+    "h": 60,
+    "text": "is approved in the for treatment of asthma, with regulatory filings currently un"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 526,
+    "y": 1343,
+    "w": 20,
+    "h": 16,
+    "text": "us",
+    "href": "/media-centre/press-releases/2026/breztri-approved-in-the-us-for-asthma.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > strong > u",
+    "x": 311,
+    "y": 1413,
+    "w": 40,
+    "h": 16,
+    "text": "Notes"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1441,
+    "w": 818,
+    "h": 120,
+    "text": "Asthma is a prevalent, chronic respiratory disease affecting as many as 363 mill"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1571,
+    "w": 818,
+    "h": 120,
+    "text": "KALOS and LOGOS were replicate confirmatory, randomised, double-blind, double-du"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1701,
+    "w": 818,
+    "h": 120,
+    "text": "In the data package submitted to the EMA, in the individual trials, the primary "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 1831,
+    "w": 818,
+    "h": 160,
+    "text": "Budesonide/glycopyrronium/formoterol fumarate or budesonide/glycopyrrolate/formo"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 2001,
+    "w": 818,
+    "h": 40,
+    "text": "Respiratory & Immunology, part of AstraZeneca BioPharmaceuticals, is a key disea"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 2051,
+    "w": 818,
+    "h": 100,
+    "text": "AstraZeneca is an established leader in respiratory care with a 50-year heritage"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.button-wrapper > a.button.primary",
+    "x": 311,
+    "y": 2163,
+    "w": 87,
+    "h": 16,
+    "text": "astrazeneca",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 2191,
+    "w": 818,
+    "h": 100,
+    "text": "AstraZeneca (LSE/STO/NYSE: AZN) is a global, science-led biopharmaceutical compa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 976,
+    "y": 2253,
+    "w": 111,
+    "h": 16,
+    "text": "astrazeneca.com",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 552,
+    "y": 2273,
+    "w": 97,
+    "h": 16,
+    "text": "@astrazeneca",
+    "href": "/company/astrazeneca"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-body.section > div.default-content-wrapper > p",
+    "x": 311,
+    "y": 2301,
+    "w": 818,
+    "h": 40,
+    "text": "For details on how to contact the Investor Relations Team, please click . For Me"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 773,
+    "y": 2323,
+    "w": 29,
+    "h": 16,
+    "text": "here",
+    "href": "/investor-relations.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 976,
+    "y": 2323,
+    "w": 29,
+    "h": 16,
+    "text": "here",
+    "href": "/media-centre/contacts.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 311,
+    "y": 2383,
+    "w": 79,
+    "h": 16,
+    "text": "References"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2411,
+    "w": 818,
+    "h": 60,
+    "text": "Papi A, Wise R, Jackson D et al. Budesonide–glycopyrronium–formoterol fumarate d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2481,
+    "w": 818,
+    "h": 40,
+    "text": "International Respiratory Coalition. Asthma. [Online]. Available at: . [Last acc"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 311,
+    "y": 2483,
+    "w": 649,
+    "h": 36,
+    "text": "https://international-respiratory-coalition.org/diseases/asthma/",
+    "href": "/diseases/asthma/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2531,
+    "w": 818,
+    "h": 20,
+    "text": "Fernandes AG, et al. Risk factors for death in patients with severe asthma. . 20"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2561,
+    "w": 818,
+    "h": 40,
+    "text": "Davis J, et al. Burden of asthma among patients adherent to ICS/LABA: A real-wor"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2611,
+    "w": 818,
+    "h": 40,
+    "text": "Buhl R, et al. One-year follow up of asthmatic patients newly initiated on treat"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2661,
+    "w": 818,
+    "h": 40,
+    "text": "World Health Organization. Asthma. [Online]. Available at: . [Last accessed: Jul"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 707,
+    "y": 2663,
+    "w": 369,
+    "h": 16,
+    "text": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+    "href": "/news-room/fact-sheets/detail/asthma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2711,
+    "w": 818,
+    "h": 60,
+    "text": "Clinicaltrials.gov. Study to Assess PT010 in Adult and Adolescent Participants w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 516,
+    "y": 2733,
+    "w": 495,
+    "h": 16,
+    "text": "https://clinicaltrials.gov/study/nct04609878?limit=25&term=kalos&rank=1",
+    "href": "/study/NCT04609878"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2781,
+    "w": 818,
+    "h": 60,
+    "text": "Clinicaltrials.gov. Study to Assess PT010 in Adult and Adolescent Participants w"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ol > li > a",
+    "x": 519,
+    "y": 2803,
+    "w": 498,
+    "h": 16,
+    "text": "https://clinicaltrials.gov/study/nct04609904?limit=25&term=logos&rank=4",
+    "href": "/study/NCT04609904"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ol > li",
+    "x": 311,
+    "y": 2851,
+    "w": 818,
+    "h": 20,
+    "text": "AstraZeneca. Data On File. REF-325003."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-list > ul > li",
+    "x": 643,
+    "y": 2916,
+    "w": 154,
+    "h": 39,
+    "text": "Corporate and financial"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-top > div.az-footer-sites > h3#astrazeneca-websites",
+    "x": 100,
+    "y": 3055,
+    "w": 290,
+    "h": 30,
+    "level": 3,
+    "text": "astrazeneca websites"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-sites > h3#astrazeneca-websites > a",
+    "x": 100,
+    "y": 3055,
+    "w": 252,
+    "h": 29,
+    "text": "astrazeneca websites",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-sites > div.az-footer-colophon > p",
+    "x": 100,
+    "y": 3095,
+    "w": 290,
+    "h": 39,
+    "text": "This website is intended for people seeking information on AstraZeneca's worldwi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-sites > div.az-footer-colophon > p",
+    "x": 100,
+    "y": 3194,
+    "w": 290,
+    "h": 26,
+    "text": "Veeva ID: Z4-88682 Date of next review: August 2028"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-columns > div.az-footer-panel > h3#resources",
+    "x": 433,
+    "y": 3055,
+    "w": 266,
+    "h": 30,
+    "level": 3,
+    "text": "resources"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3095,
+    "w": 266,
+    "h": 13,
+    "text": "all resources",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3118,
+    "w": 266,
+    "h": 13,
+    "text": "open innovation",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3141,
+    "w": 266,
+    "h": 13,
+    "text": "externally sponsored scientific research",
+    "href": "/partnering/externally-sponsored-scientific-research.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3164,
+    "w": 266,
+    "h": 13,
+    "text": "medical information for hcps",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3187,
+    "w": 266,
+    "h": 13,
+    "text": "us prescription assistance programmes",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3210,
+    "w": 266,
+    "h": 13,
+    "text": "global clinical trials information",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3233,
+    "w": 266,
+    "h": 13,
+    "text": "medicines",
+    "href": "/our-therapy-areas/medicines.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-0 > li > a",
+    "x": 433,
+    "y": 3256,
+    "w": 266,
+    "h": 13,
+    "text": "report a possible side effect",
+    "href": "/content/astrazeneca-champion/global/en/amp-form.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-columns > div.az-footer-panel > h3#quick-links",
+    "x": 742,
+    "y": 3055,
+    "w": 266,
+    "h": 30,
+    "level": 3,
+    "text": "quick links"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3095,
+    "w": 266,
+    "h": 13,
+    "text": "media",
+    "href": "/media-centre.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3118,
+    "w": 266,
+    "h": 13,
+    "text": "investor relations",
+    "href": "/investor-relations.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3141,
+    "w": 266,
+    "h": 13,
+    "text": "partnering",
+    "href": "/partnering.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3164,
+    "w": 266,
+    "h": 13,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3187,
+    "w": 266,
+    "h": 13,
+    "text": "sustainability",
+    "href": "/sustainability.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3210,
+    "w": 266,
+    "h": 13,
+    "text": "modern slavery statement",
+    "href": "/content/dam/az/PDF/Sustainability/Modern_Slavery_Act_Statement.pdf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3233,
+    "w": 266,
+    "h": 13,
+    "text": "azethics – report a concern",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3256,
+    "w": 266,
+    "h": 13,
+    "text": "supplier information",
+    "href": "/az-suppliers.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#footer-links-1 > li > a",
+    "x": 742,
+    "y": 3279,
+    "w": 266,
+    "h": 13,
+    "text": "social media community guidelines",
+    "href": "/media-centre/social-media-community-guidelines.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-linkedin",
+    "x": 1050,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/company/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-instagram",
+    "x": 1102,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/astrazeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-fb",
+    "x": 1154,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-tw",
+    "x": 1206,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-youtube",
+    "x": 1258,
+    "y": 3055,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/user/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-gd",
+    "x": 1050,
+    "y": 3107,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/Overview/Working-at-AstraZeneca-EI_IE9214.11,22.htm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 417,
+    "y": 3343,
+    "w": 158,
+    "h": 11,
+    "text": "legal notice and terms of use",
+    "href": "/legal-notice-and-terms-of-use.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 595,
+    "y": 3343,
+    "w": 73,
+    "h": 11,
+    "text": "privacy notice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 688,
+    "y": 3343,
+    "w": 46,
+    "h": 11,
+    "text": "site map",
+    "href": "/global/en/sitemap.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 754,
+    "y": 3343,
+    "w": 56,
+    "h": 11,
+    "text": "contact us",
+    "href": "/our-company/Contact-us.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 830,
+    "y": 3343,
+    "w": 101,
+    "h": 11,
+    "text": "cookie preferences",
+    "href": "/510df253-en-gb.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-inner > div.az-footer-bottom > p.az-footer-copyright",
+    "x": 1050,
+    "y": 3322,
+    "w": 290,
+    "h": 53,
+    "text": "© AstraZeneca 2026"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 6,
+    "textNodes": 173,
+    "controls": 59,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "trixeo recommended for approval in the eu by chmp for the maintenance treatment of asthma",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "recommendation based on kalos and logos phase iii trials demonstrating statistically significant and clinically meaningf",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "approval would add second indication for trixeo beyond copd in europe",
+   "variable": false,
+   "origin": {
+    "link": 12,
+    "button": 0,
+    "text": 27,
+    "image": 0
+   },
+   "eds": {
+    "link": 12,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 27,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 666,
+    "y": -489,
+    "w": 109,
+    "h": 18
+   },
+   {
+    "x": 655,
+    "y": -489,
+    "w": 131,
+    "h": 18
+   },
+   {
+    "x": 671,
+    "y": -489,
+    "w": 97,
+    "h": 18
+   },
+   {
+    "x": 1094,
+    "y": 18,
+    "w": 116,
+    "h": 11
+   },
+   {
+    "x": 1244,
+    "y": 18,
+    "w": 56,
+    "h": 11
+   },
+   {
+    "x": 97,
+    "y": 61,
+    "w": 174,
+    "h": 21
+   },
+   {
+    "x": 309,
+    "y": 61,
+    "w": 42,
+    "h": 21
+   },
+   {
+    "x": 389,
+    "y": 61,
+    "w": 151,
+    "h": 21
+   },
+   {
+    "x": 578,
+    "y": 61,
+    "w": 114,
+    "h": 21
+   },
+   {
+    "x": 730,
+    "y": 61,
+    "w": 67,
+    "h": 21
+   },
+   {
+    "x": 835,
+    "y": 61,
+    "w": 80,
+    "h": 21
+   },
+   {
+    "x": 953,
+    "y": 61,
+    "w": 55,
+    "h": 21
+   },
+   {
+    "x": 1046,
+    "y": 61,
+    "w": 120,
+    "h": 21
+   },
+   {
+    "x": 1204,
+    "y": 61,
+    "w": 91,
+    "h": 21
+   },
+   {
+    "x": 138,
+    "y": 171,
+    "w": 1164,
+    "h": 54
+   },
+   {
+    "x": 399,
+    "y": 219,
+    "w": 642,
+    "h": 54
+   },
+   {
+    "x": 100,
+    "y": 410,
+    "w": 68,
+    "h": 12
+   },
+   {
+    "x": 100,
+    "y": 427,
+    "w": 114,
+    "h": 23
+   },
+   {
+    "x": 335,
+    "y": 520,
+    "w": 769,
+    "h": 23
+   },
+   {
+    "x": 322,
+    "y": 542,
+    "w": 797,
+    "h": 23
+   },
+   {
+    "x": 532,
+    "y": 564,
+    "w": 376,
+    "h": 23
+   },
+   {
+    "x": 406,
+    "y": 626,
+    "w": 627,
+    "h": 23
+   },
+   {
+    "x": 311,
+    "y": 683,
+    "w": 289,
+    "h": 16
+   },
+   {
+    "x": 600,
+    "y": 683,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 719,
+    "y": 683,
+    "w": 371,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 703,
+    "w": 808,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 723,
+    "w": 748,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 743,
+    "w": 383,
+    "h": 16
+   },
+   {
+    "x": 694,
+    "y": 743,
+    "w": 127,
+    "h": 16
+   },
+   {
+    "x": 821,
+    "y": 743,
+    "w": 85,
+    "h": 16
+   },
+   {
+    "x": 905,
+    "y": 743,
+    "w": 122,
+    "h": 16
+   },
+   {
+    "x": 1027,
+    "y": 743,
+    "w": 69,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 763,
+    "w": 115,
+    "h": 16
+   },
+   {
+    "x": 430,
+    "y": 763,
+    "w": 695,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 793,
+    "w": 800,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 813,
+    "w": 473,
+    "h": 16
+   },
+   {
+    "x": 784,
+    "y": 813,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 823,
+    "y": 813,
+    "w": 239,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 833,
+    "w": 519,
+    "h": 16
+   },
+   {
+    "x": 831,
+    "y": 831,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 837,
+    "y": 833,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 853,
+    "w": 60,
+    "h": 16
+   },
+   {
+    "x": 371,
+    "y": 853,
+    "w": 44,
+    "h": 16
+   },
+   {
+    "x": 415,
+    "y": 853,
+    "w": 668,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 873,
+    "w": 793,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 893,
+    "w": 116,
+    "h": 16
+   },
+   {
+    "x": 427,
+    "y": 891,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 923,
+    "w": 798,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 943,
+    "w": 787,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 963,
+    "w": 778,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 983,
+    "w": 532,
+    "h": 16
+   },
+   {
+    "x": 843,
+    "y": 983,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 883,
+    "y": 983,
+    "w": 191,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1003,
+    "w": 772,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1023,
+    "w": 483,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1053,
+    "w": 800,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1073,
+    "w": 82,
+    "h": 16
+   },
+   {
+    "x": 393,
+    "y": 1073,
+    "w": 91,
+    "h": 16
+   },
+   {
+    "x": 483,
+    "y": 1073,
+    "w": 643,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1093,
+    "w": 750,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1113,
+    "w": 332,
+    "h": 16
+   },
+   {
+    "x": 644,
+    "y": 1113,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 683,
+    "y": 1113,
+    "w": 391,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1133,
+    "w": 723,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1153,
+    "w": 177,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1183,
+    "w": 192,
+    "h": 16
+   },
+   {
+    "x": 503,
+    "y": 1183,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 542,
+    "y": 1183,
+    "w": 583,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1203,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 613,
+    "y": 1201,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 624,
+    "y": 1203,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 663,
+    "y": 1203,
+    "w": 453,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1223,
+    "w": 393,
+    "h": 16
+   },
+   {
+    "x": 704,
+    "y": 1223,
+    "w": 132,
+    "h": 16
+   },
+   {
+    "x": 836,
+    "y": 1223,
+    "w": 122,
+    "h": 16
+   },
+   {
+    "x": 958,
+    "y": 1223,
+    "w": 152,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1243,
+    "w": 58,
+    "h": 16
+   },
+   {
+    "x": 370,
+    "y": 1243,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 489,
+    "y": 1241,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 495,
+    "y": 1243,
+    "w": 399,
+    "h": 16
+   },
+   {
+    "x": 894,
+    "y": 1243,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 933,
+    "y": 1243,
+    "w": 80,
+    "h": 16
+   },
+   {
+    "x": 1013,
+    "y": 1241,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1273,
+    "w": 786,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1293,
+    "w": 72,
+    "h": 16
+   },
+   {
+    "x": 383,
+    "y": 1291,
+    "w": 9,
+    "h": 12
+   },
+   {
+    "x": 392,
+    "y": 1293,
+    "w": 644,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1313,
+    "w": 370,
+    "h": 16
+   },
+   {
+    "x": 681,
+    "y": 1311,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1343,
+    "w": 95,
+    "h": 16
+   },
+   {
+    "x": 406,
+    "y": 1343,
+    "w": 120,
+    "h": 16
+   },
+   {
+    "x": 526,
+    "y": 1343,
+    "w": 20,
+    "h": 16
+   },
+   {
+    "x": 546,
+    "y": 1343,
+    "w": 544,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1363,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 548,
+    "y": 1363,
+    "w": 91,
+    "h": 16
+   },
+   {
+    "x": 639,
+    "y": 1363,
+    "w": 440,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1383,
+    "w": 327,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1413,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1443,
+    "w": 53,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1463,
+    "w": 659,
+    "h": 16
+   },
+   {
+    "x": 973,
+    "y": 1463,
+    "w": 122,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1483,
+    "w": 161,
+    "h": 16
+   },
+   {
+    "x": 472,
+    "y": 1481,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 487,
+    "y": 1483,
+    "w": 635,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1503,
+    "w": 760,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1523,
+    "w": 200,
+    "h": 16
+   },
+   {
+    "x": 511,
+    "y": 1521,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 527,
+    "y": 1523,
+    "w": 601,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1543,
+    "w": 571,
+    "h": 16
+   },
+   {
+    "x": 882,
+    "y": 1541,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1573,
+    "w": 240,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1593,
+    "w": 817,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1613,
+    "w": 489,
+    "h": 16
+   },
+   {
+    "x": 800,
+    "y": 1613,
+    "w": 86,
+    "h": 16
+   },
+   {
+    "x": 891,
+    "y": 1613,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 966,
+    "y": 1613,
+    "w": 126,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1633,
+    "w": 632,
+    "h": 16
+   },
+   {
+    "x": 943,
+    "y": 1633,
+    "w": 69,
+    "h": 16
+   },
+   {
+    "x": 1012,
+    "y": 1633,
+    "w": 76,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1653,
+    "w": 468,
+    "h": 16
+   },
+   {
+    "x": 779,
+    "y": 1651,
+    "w": 25,
+    "h": 12
+   },
+   {
+    "x": 804,
+    "y": 1653,
+    "w": 290,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1673,
+    "w": 177,
+    "h": 16
+   },
+   {
+    "x": 488,
+    "y": 1671,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1703,
+    "w": 763,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1723,
+    "w": 267,
+    "h": 16
+   },
+   {
+    "x": 578,
+    "y": 1729,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 584,
+    "y": 1723,
+    "w": 504,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1743,
+    "w": 28,
+    "h": 16
+   },
+   {
+    "x": 339,
+    "y": 1749,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 345,
+    "y": 1743,
+    "w": 34,
+    "h": 16
+   },
+   {
+    "x": 379,
+    "y": 1749,
+    "w": 19,
+    "h": 12
+   },
+   {
+    "x": 399,
+    "y": 1743,
+    "w": 520,
+    "h": 16
+   },
+   {
+    "x": 919,
+    "y": 1741,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 925,
+    "y": 1743,
+    "w": 190,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1763,
+    "w": 769,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1783,
+    "w": 489,
+    "h": 16
+   },
+   {
+    "x": 800,
+    "y": 1781,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 806,
+    "y": 1783,
+    "w": 278,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1803,
+    "w": 729,
+    "h": 16
+   },
+   {
+    "x": 1040,
+    "y": 1801,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1833,
+    "w": 179,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1853,
+    "w": 787,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1873,
+    "w": 805,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1893,
+    "w": 813,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1913,
+    "w": 803,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1933,
+    "w": 810,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1953,
+    "w": 801,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1973,
+    "w": 498,
+    "h": 16
+   },
+   {
+    "x": 809,
+    "y": 1971,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 2003,
+    "w": 295,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2023,
+    "w": 815,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2053,
+    "w": 771,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2073,
+    "w": 749,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2093,
+    "w": 782,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2113,
+    "w": 808,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2133,
+    "w": 624,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2163,
+    "w": 87,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2193,
+    "w": 774,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2213,
+    "w": 813,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2233,
+    "w": 784,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2253,
+    "w": 665,
+    "h": 16
+   },
+   {
+    "x": 976,
+    "y": 2253,
+    "w": 111,
+    "h": 16
+   },
+   {
+    "x": 1087,
+    "y": 2253,
+    "w": 28,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2273,
+    "w": 241,
+    "h": 16
+   },
+   {
+    "x": 552,
+    "y": 2273,
+    "w": 97,
+    "h": 16
+   },
+   {
+    "x": 649,
+    "y": 2273,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2303,
+    "w": 62,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2323,
+    "w": 462,
+    "h": 16
+   },
+   {
+    "x": 773,
+    "y": 2323,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 802,
+    "y": 2323,
+    "w": 174,
+    "h": 16
+   },
+   {
+    "x": 976,
+    "y": 2323,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 1005,
+    "y": 2323,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2383,
+    "w": 79,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2413,
+    "w": 751,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2433,
+    "w": 731,
+    "h": 16
+   },
+   {
+    "x": 1042,
+    "y": 2433,
+    "w": 73,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2453,
+    "w": 138,
+    "h": 16
+   },
+   {
+    "x": 449,
+    "y": 2453,
+    "w": 123,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2483,
+    "w": 429,
+    "h": 16
+   },
+   {
+    "x": 757,
+    "y": 2483,
+    "w": 204,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2503,
+    "w": 197,
+    "h": 16
+   },
+   {
+    "x": 508,
+    "y": 2503,
+    "w": 185,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2533,
+    "w": 487,
+    "h": 16
+   },
+   {
+    "x": 815,
+    "y": 2533,
+    "w": 103,
+    "h": 16
+   },
+   {
+    "x": 918,
+    "y": 2533,
+    "w": 141,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2563,
+    "w": 592,
+    "h": 16
+   },
+   {
+    "x": 919,
+    "y": 2563,
+    "w": 60,
+    "h": 16
+   },
+   {
+    "x": 979,
+    "y": 2563,
+    "w": 142,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2583,
+    "w": 28,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2613,
+    "w": 761,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2633,
+    "w": 426,
+    "h": 16
+   },
+   {
+    "x": 737,
+    "y": 2633,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 811,
+    "y": 2633,
+    "w": 155,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2663,
+    "w": 379,
+    "h": 16
+   },
+   {
+    "x": 707,
+    "y": 2663,
+    "w": 369,
+    "h": 16
+   },
+   {
+    "x": 1076,
+    "y": 2663,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2683,
+    "w": 141,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2713,
+    "w": 744,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2733,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 516,
+    "y": 2733,
+    "w": 495,
+    "h": 16
+   },
+   {
+    "x": 1011,
+    "y": 2733,
+    "w": 110,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2753,
+    "w": 71,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2783,
+    "w": 744,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2803,
+    "w": 208,
+    "h": 16
+   },
+   {
+    "x": 519,
+    "y": 2803,
+    "w": 498,
+    "h": 16
+   },
+   {
+    "x": 1017,
+    "y": 2803,
+    "w": 110,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2823,
+    "w": 71,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2853,
+    "w": 268,
+    "h": 16
+   },
+   {
+    "x": 656,
+    "y": 2929,
+    "w": 128,
+    "h": 12
+   },
+   {
+    "x": 100,
+    "y": 3055,
+    "w": 252,
+    "h": 29
+   },
+   {
+    "x": 100,
+    "y": 3096,
+    "w": 287,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3109,
+    "w": 263,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3122,
+    "w": 204,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3195,
+    "w": 103,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3208,
+    "w": 172,
+    "h": 11
+   },
+   {
+    "x": 433,
+    "y": 3055,
+    "w": 116,
+    "h": 29
+   },
+   {
+    "x": 433,
+    "y": 3095,
+    "w": 71,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3118,
+    "w": 90,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3141,
+    "w": 218,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3164,
+    "w": 160,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3187,
+    "w": 217,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3210,
+    "w": 172,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3233,
+    "w": 55,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3256,
+    "w": 156,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3055,
+    "w": 131,
+    "h": 29
+   },
+   {
+    "x": 742,
+    "y": 3095,
+    "w": 33,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3118,
+    "w": 99,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3141,
+    "w": 57,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3164,
+    "w": 43,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3187,
+    "w": 73,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3210,
+    "w": 145,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3233,
+    "w": 158,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3256,
+    "w": 110,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3279,
+    "w": 197,
+    "h": 12
+   },
+   {
+    "x": 417,
+    "y": 3343,
+    "w": 158,
+    "h": 11
+   },
+   {
+    "x": 595,
+    "y": 3343,
+    "w": 73,
+    "h": 11
+   },
+   {
+    "x": 688,
+    "y": 3343,
+    "w": 46,
+    "h": 11
+   },
+   {
+    "x": 754,
+    "y": 3343,
+    "w": 56,
+    "h": 11
+   },
+   {
+    "x": 830,
+    "y": 3343,
+    "w": 101,
+    "h": 11
+   },
+   {
+    "x": 1234,
+    "y": 3343,
+    "w": 106,
+    "h": 11
+   }
+  ],
+  "eds": [
+   {
+    "x": 1094,
+    "y": 18,
+    "w": 116,
+    "h": 11
+   },
+   {
+    "x": 1244,
+    "y": 18,
+    "w": 56,
+    "h": 11
+   },
+   {
+    "x": 97,
+    "y": 61,
+    "w": 168,
+    "h": 21
+   },
+   {
+    "x": 303,
+    "y": 61,
+    "w": 37,
+    "h": 21
+   },
+   {
+    "x": 378,
+    "y": 61,
+    "w": 146,
+    "h": 21
+   },
+   {
+    "x": 562,
+    "y": 61,
+    "w": 108,
+    "h": 21
+   },
+   {
+    "x": 709,
+    "y": 61,
+    "w": 61,
+    "h": 21
+   },
+   {
+    "x": 808,
+    "y": 61,
+    "w": 75,
+    "h": 21
+   },
+   {
+    "x": 921,
+    "y": 61,
+    "w": 50,
+    "h": 21
+   },
+   {
+    "x": 1009,
+    "y": 61,
+    "w": 115,
+    "h": 21
+   },
+   {
+    "x": 1161,
+    "y": 61,
+    "w": 86,
+    "h": 21
+   },
+   {
+    "x": 138,
+    "y": 171,
+    "w": 1164,
+    "h": 54
+   },
+   {
+    "x": 399,
+    "y": 219,
+    "w": 642,
+    "h": 54
+   },
+   {
+    "x": 100,
+    "y": 410,
+    "w": 68,
+    "h": 12
+   },
+   {
+    "x": 100,
+    "y": 427,
+    "w": 114,
+    "h": 23
+   },
+   {
+    "x": 335,
+    "y": 520,
+    "w": 769,
+    "h": 23
+   },
+   {
+    "x": 322,
+    "y": 542,
+    "w": 797,
+    "h": 23
+   },
+   {
+    "x": 532,
+    "y": 564,
+    "w": 376,
+    "h": 23
+   },
+   {
+    "x": 406,
+    "y": 626,
+    "w": 627,
+    "h": 23
+   },
+   {
+    "x": 311,
+    "y": 683,
+    "w": 289,
+    "h": 16
+   },
+   {
+    "x": 600,
+    "y": 683,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 719,
+    "y": 683,
+    "w": 371,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 703,
+    "w": 808,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 723,
+    "w": 748,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 743,
+    "w": 383,
+    "h": 16
+   },
+   {
+    "x": 694,
+    "y": 743,
+    "w": 123,
+    "h": 16
+   },
+   {
+    "x": 817,
+    "y": 743,
+    "w": 89,
+    "h": 16
+   },
+   {
+    "x": 905,
+    "y": 743,
+    "w": 122,
+    "h": 16
+   },
+   {
+    "x": 1027,
+    "y": 743,
+    "w": 69,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 763,
+    "w": 814,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 793,
+    "w": 800,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 813,
+    "w": 477,
+    "h": 16
+   },
+   {
+    "x": 788,
+    "y": 813,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 828,
+    "y": 813,
+    "w": 243,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 833,
+    "w": 519,
+    "h": 16
+   },
+   {
+    "x": 831,
+    "y": 830,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 837,
+    "y": 833,
+    "w": 244,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 853,
+    "w": 64,
+    "h": 16
+   },
+   {
+    "x": 375,
+    "y": 853,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 415,
+    "y": 853,
+    "w": 676,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 873,
+    "w": 793,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 893,
+    "w": 116,
+    "h": 16
+   },
+   {
+    "x": 427,
+    "y": 890,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 923,
+    "w": 798,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 943,
+    "w": 787,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 963,
+    "w": 778,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 983,
+    "w": 532,
+    "h": 16
+   },
+   {
+    "x": 843,
+    "y": 983,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 883,
+    "y": 983,
+    "w": 191,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1003,
+    "w": 772,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1023,
+    "w": 483,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1053,
+    "w": 800,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1073,
+    "w": 82,
+    "h": 16
+   },
+   {
+    "x": 393,
+    "y": 1073,
+    "w": 86,
+    "h": 16
+   },
+   {
+    "x": 479,
+    "y": 1073,
+    "w": 647,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1093,
+    "w": 750,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1113,
+    "w": 332,
+    "h": 16
+   },
+   {
+    "x": 644,
+    "y": 1113,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 683,
+    "y": 1113,
+    "w": 391,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1133,
+    "w": 723,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1153,
+    "w": 177,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1183,
+    "w": 192,
+    "h": 16
+   },
+   {
+    "x": 503,
+    "y": 1183,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 542,
+    "y": 1183,
+    "w": 583,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1203,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 613,
+    "y": 1200,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 624,
+    "y": 1203,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 663,
+    "y": 1203,
+    "w": 453,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1223,
+    "w": 393,
+    "h": 16
+   },
+   {
+    "x": 704,
+    "y": 1223,
+    "w": 132,
+    "h": 16
+   },
+   {
+    "x": 836,
+    "y": 1223,
+    "w": 122,
+    "h": 16
+   },
+   {
+    "x": 958,
+    "y": 1223,
+    "w": 152,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1243,
+    "w": 58,
+    "h": 16
+   },
+   {
+    "x": 369,
+    "y": 1243,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 489,
+    "y": 1240,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 495,
+    "y": 1243,
+    "w": 399,
+    "h": 16
+   },
+   {
+    "x": 894,
+    "y": 1243,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 933,
+    "y": 1243,
+    "w": 80,
+    "h": 16
+   },
+   {
+    "x": 1013,
+    "y": 1240,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1273,
+    "w": 786,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1293,
+    "w": 72,
+    "h": 16
+   },
+   {
+    "x": 383,
+    "y": 1290,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 389,
+    "y": 1293,
+    "w": 649,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1313,
+    "w": 370,
+    "h": 16
+   },
+   {
+    "x": 681,
+    "y": 1310,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1343,
+    "w": 91,
+    "h": 16
+   },
+   {
+    "x": 402,
+    "y": 1343,
+    "w": 124,
+    "h": 16
+   },
+   {
+    "x": 526,
+    "y": 1343,
+    "w": 20,
+    "h": 16
+   },
+   {
+    "x": 546,
+    "y": 1343,
+    "w": 544,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1363,
+    "w": 237,
+    "h": 16
+   },
+   {
+    "x": 548,
+    "y": 1363,
+    "w": 86,
+    "h": 16
+   },
+   {
+    "x": 635,
+    "y": 1363,
+    "w": 444,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1383,
+    "w": 327,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1413,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1443,
+    "w": 53,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1463,
+    "w": 785,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1483,
+    "w": 161,
+    "h": 16
+   },
+   {
+    "x": 472,
+    "y": 1480,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 487,
+    "y": 1483,
+    "w": 635,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1503,
+    "w": 760,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1523,
+    "w": 200,
+    "h": 16
+   },
+   {
+    "x": 511,
+    "y": 1520,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 527,
+    "y": 1523,
+    "w": 601,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1543,
+    "w": 571,
+    "h": 16
+   },
+   {
+    "x": 882,
+    "y": 1540,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1573,
+    "w": 240,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1593,
+    "w": 817,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1613,
+    "w": 493,
+    "h": 16
+   },
+   {
+    "x": 805,
+    "y": 1613,
+    "w": 86,
+    "h": 16
+   },
+   {
+    "x": 904,
+    "y": 1613,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 979,
+    "y": 1613,
+    "w": 130,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1633,
+    "w": 636,
+    "h": 16
+   },
+   {
+    "x": 947,
+    "y": 1633,
+    "w": 65,
+    "h": 16
+   },
+   {
+    "x": 1012,
+    "y": 1633,
+    "w": 84,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1653,
+    "w": 468,
+    "h": 16
+   },
+   {
+    "x": 779,
+    "y": 1650,
+    "w": 25,
+    "h": 12
+   },
+   {
+    "x": 804,
+    "y": 1653,
+    "w": 290,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1673,
+    "w": 177,
+    "h": 16
+   },
+   {
+    "x": 488,
+    "y": 1670,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1703,
+    "w": 763,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1723,
+    "w": 267,
+    "h": 16
+   },
+   {
+    "x": 578,
+    "y": 1730,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 584,
+    "y": 1723,
+    "w": 504,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1743,
+    "w": 28,
+    "h": 16
+   },
+   {
+    "x": 339,
+    "y": 1750,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 345,
+    "y": 1743,
+    "w": 34,
+    "h": 16
+   },
+   {
+    "x": 379,
+    "y": 1750,
+    "w": 16,
+    "h": 12
+   },
+   {
+    "x": 395,
+    "y": 1743,
+    "w": 524,
+    "h": 16
+   },
+   {
+    "x": 920,
+    "y": 1740,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 926,
+    "y": 1743,
+    "w": 190,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1763,
+    "w": 769,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1783,
+    "w": 489,
+    "h": 16
+   },
+   {
+    "x": 800,
+    "y": 1780,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 806,
+    "y": 1783,
+    "w": 278,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1803,
+    "w": 729,
+    "h": 16
+   },
+   {
+    "x": 1040,
+    "y": 1800,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 1833,
+    "w": 178,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1853,
+    "w": 787,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1873,
+    "w": 805,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1893,
+    "w": 813,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1913,
+    "w": 803,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1933,
+    "w": 810,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1953,
+    "w": 801,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 1973,
+    "w": 498,
+    "h": 16
+   },
+   {
+    "x": 809,
+    "y": 1970,
+    "w": 6,
+    "h": 12
+   },
+   {
+    "x": 311,
+    "y": 2003,
+    "w": 295,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2023,
+    "w": 815,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2053,
+    "w": 771,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2073,
+    "w": 749,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2093,
+    "w": 782,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2113,
+    "w": 808,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2133,
+    "w": 624,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2163,
+    "w": 87,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2193,
+    "w": 774,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2213,
+    "w": 813,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2233,
+    "w": 784,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2253,
+    "w": 665,
+    "h": 16
+   },
+   {
+    "x": 976,
+    "y": 2253,
+    "w": 111,
+    "h": 16
+   },
+   {
+    "x": 1087,
+    "y": 2253,
+    "w": 28,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2273,
+    "w": 241,
+    "h": 16
+   },
+   {
+    "x": 552,
+    "y": 2273,
+    "w": 97,
+    "h": 16
+   },
+   {
+    "x": 649,
+    "y": 2273,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2303,
+    "w": 62,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2323,
+    "w": 462,
+    "h": 16
+   },
+   {
+    "x": 773,
+    "y": 2323,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 802,
+    "y": 2323,
+    "w": 174,
+    "h": 16
+   },
+   {
+    "x": 976,
+    "y": 2323,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 1005,
+    "y": 2323,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2383,
+    "w": 79,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2413,
+    "w": 751,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2433,
+    "w": 731,
+    "h": 16
+   },
+   {
+    "x": 1042,
+    "y": 2433,
+    "w": 73,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2453,
+    "w": 138,
+    "h": 16
+   },
+   {
+    "x": 449,
+    "y": 2453,
+    "w": 123,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2483,
+    "w": 429,
+    "h": 16
+   },
+   {
+    "x": 757,
+    "y": 2483,
+    "w": 204,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2503,
+    "w": 197,
+    "h": 16
+   },
+   {
+    "x": 508,
+    "y": 2503,
+    "w": 185,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2533,
+    "w": 487,
+    "h": 16
+   },
+   {
+    "x": 815,
+    "y": 2533,
+    "w": 103,
+    "h": 16
+   },
+   {
+    "x": 918,
+    "y": 2533,
+    "w": 141,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2563,
+    "w": 592,
+    "h": 16
+   },
+   {
+    "x": 919,
+    "y": 2563,
+    "w": 60,
+    "h": 16
+   },
+   {
+    "x": 979,
+    "y": 2563,
+    "w": 142,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2583,
+    "w": 28,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2613,
+    "w": 761,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2633,
+    "w": 426,
+    "h": 16
+   },
+   {
+    "x": 737,
+    "y": 2633,
+    "w": 75,
+    "h": 16
+   },
+   {
+    "x": 811,
+    "y": 2633,
+    "w": 155,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2663,
+    "w": 379,
+    "h": 16
+   },
+   {
+    "x": 707,
+    "y": 2663,
+    "w": 369,
+    "h": 16
+   },
+   {
+    "x": 1076,
+    "y": 2663,
+    "w": 40,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2683,
+    "w": 141,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2713,
+    "w": 744,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2733,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 516,
+    "y": 2733,
+    "w": 495,
+    "h": 16
+   },
+   {
+    "x": 1011,
+    "y": 2733,
+    "w": 110,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2753,
+    "w": 71,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2783,
+    "w": 744,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2803,
+    "w": 208,
+    "h": 16
+   },
+   {
+    "x": 519,
+    "y": 2803,
+    "w": 498,
+    "h": 16
+   },
+   {
+    "x": 1017,
+    "y": 2803,
+    "w": 110,
+    "h": 16
+   },
+   {
+    "x": 311,
+    "y": 2823,
+    "w": 71,
+    "h": 16
+   },
+   {
+    "x": 328,
+    "y": 2853,
+    "w": 268,
+    "h": 16
+   },
+   {
+    "x": 656,
+    "y": 2929,
+    "w": 128,
+    "h": 12
+   },
+   {
+    "x": 100,
+    "y": 3055,
+    "w": 252,
+    "h": 29
+   },
+   {
+    "x": 100,
+    "y": 3096,
+    "w": 287,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3109,
+    "w": 263,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3122,
+    "w": 204,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3195,
+    "w": 103,
+    "h": 11
+   },
+   {
+    "x": 100,
+    "y": 3208,
+    "w": 172,
+    "h": 11
+   },
+   {
+    "x": 433,
+    "y": 3055,
+    "w": 116,
+    "h": 29
+   },
+   {
+    "x": 433,
+    "y": 3095,
+    "w": 71,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3118,
+    "w": 90,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3141,
+    "w": 218,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3164,
+    "w": 160,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3187,
+    "w": 217,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3210,
+    "w": 172,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3233,
+    "w": 55,
+    "h": 12
+   },
+   {
+    "x": 433,
+    "y": 3256,
+    "w": 156,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3055,
+    "w": 131,
+    "h": 29
+   },
+   {
+    "x": 742,
+    "y": 3095,
+    "w": 33,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3118,
+    "w": 99,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3141,
+    "w": 57,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3164,
+    "w": 43,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3187,
+    "w": 73,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3210,
+    "w": 145,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3233,
+    "w": 158,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3256,
+    "w": 110,
+    "h": 12
+   },
+   {
+    "x": 742,
+    "y": 3279,
+    "w": 197,
+    "h": 12
+   },
+   {
+    "x": 417,
+    "y": 3343,
+    "w": 158,
+    "h": 11
+   },
+   {
+    "x": 595,
+    "y": 3343,
+    "w": 73,
+    "h": 11
+   },
+   {
+    "x": 688,
+    "y": 3343,
+    "w": 46,
+    "h": 11
+   },
+   {
+    "x": 754,
+    "y": 3343,
+    "w": 56,
+    "h": 11
+   },
+   {
+    "x": 830,
+    "y": 3343,
+    "w": 101,
+    "h": 11
+   },
+   {
+    "x": 1234,
+    "y": 3343,
+    "w": 106,
+    "h": 11
+   }
+  ]
+ }
+}
