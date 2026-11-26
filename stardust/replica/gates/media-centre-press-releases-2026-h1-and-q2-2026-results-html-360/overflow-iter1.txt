@@ -1,0 +1,8 @@
+measure  http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html
+  widths 360 · 1 selector(s) · 1 props · first match
+
+@ 360px
+  root  scrollWidth   360  viewport 360  scrollHeight   6796
+  html
+       x     0  y      0  w   360  h  6796  vis  "Skip to content Skip to navigation Skip…"
+      display: block

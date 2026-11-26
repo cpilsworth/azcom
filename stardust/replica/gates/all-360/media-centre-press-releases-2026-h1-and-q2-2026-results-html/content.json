@@ -1,0 +1,6167 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-10T14:35:58.625Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+  "at": "2026-11-10T14:35:36.568Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6856,
+  "root": "section#main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#skip-shortcuts > li > a",
+    "x": 0,
+    "y": -500,
+    "w": 360,
+    "h": 40,
+    "text": "skip to content",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#skip-shortcuts > li > a",
+    "x": 0,
+    "y": -500,
+    "w": 360,
+    "h": 40,
+    "text": "skip to navigation",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul#skip-shortcuts > li > a",
+    "x": 0,
+    "y": -500,
+    "w": 360,
+    "h": 40,
+    "text": "skip to footer",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation__header.js-navigation__header > div.navigation__logo > a.navigation__logo-link",
+    "x": 20,
+    "y": 0,
+    "w": 108,
+    "h": 60,
+    "text": "astrazeneca logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation__logo > a.navigation__logo-link > img.navigation__logo--color",
+    "x": 20,
+    "y": 20,
+    "w": 108,
+    "h": 26,
+    "text": "astrazeneca logo",
+    "file": "logo-az"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation__header.js-navigation__header > div.navigation__header-toggle.js-navigation__header-toggle > button.navigation__header-button.navigation__header-button--search",
+    "x": 240,
+    "y": 0,
+    "w": 60,
+    "h": 60,
+    "text": ""
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": false,
+    "path": "div.navigation__header.js-navigation__header > div.navigation__header-toggle.js-navigation__header-toggle > button.navigation__header-button.navigation__header-button--menu",
+    "x": 300,
+    "y": 1,
+    "w": 60,
+    "h": 60,
+    "text": ""
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "section.hero-feature.l-margin > div.hero-feature__wrapper > h1.hero-feature__header",
+    "x": 0,
+    "y": 288,
+    "w": 360,
+    "h": 72,
+    "level": 1,
+    "text": "h1 and q2 2026 results"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-feature__wrapper > h1.hero-feature__header > div.l-constrained",
+    "x": 20,
+    "y": 288,
+    "w": 320,
+    "h": 72,
+    "text": "H1 and Q2 2026 results"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-feature__wrapper > h1.hero-feature__header > div.l-constrained",
+    "x": 20,
+    "y": 288,
+    "w": 320,
+    "h": 72,
+    "label": "count result",
+    "value": "2026",
+    "via": "count"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.publishedDate > time.date__date-region > span.date__title",
+    "x": 20,
+    "y": 400,
+    "w": 101,
+    "h": 18,
+    "text": "PUBLISHED"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.publishedDate > time.date__date-region > span.date__date",
+    "x": 20,
+    "y": 418,
+    "w": 101,
+    "h": 20,
+    "text": "27 July 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.HTMLEmbed.section > div#navbar > a",
+    "x": 20,
+    "y": 499,
+    "w": 109,
+    "h": 48,
+    "text": "downloads",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.HTMLEmbed.section > div#navbar > a",
+    "x": 129,
+    "y": 499,
+    "w": 98,
+    "h": 48,
+    "text": "summary",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.HTMLEmbed.section > div#navbar > a",
+    "x": 227,
+    "y": 499,
+    "w": 103,
+    "h": 48,
+    "text": "financials",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.HTMLEmbed.section > div#navbar > a",
+    "x": 20,
+    "y": 547,
+    "w": 134,
+    "h": 48,
+    "text": "therapy areas",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.HTMLEmbed.section > div#navbar > a",
+    "x": 154,
+    "y": 547,
+    "w": 87,
+    "h": 48,
+    "text": "pipeline",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > b",
+    "x": 20,
+    "y": 647,
+    "w": 207,
+    "h": 36,
+    "text": "For investor audiences and financial/business media only"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h2",
+    "x": 20,
+    "y": 725,
+    "w": 320,
+    "h": 161,
+    "level": 2,
+    "text": "growth momentum continues. on track to deliver ambition of $80 billion in total revenue in 2030"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "blockquote.quote.quote--with-marks > div.quote__wrapper > p",
+    "x": 20,
+    "y": 945,
+    "w": 320,
+    "h": 390,
+    "text": "In the first half we saw strong performance and continued pipeline delivery, inc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "blockquote.quote.quote--with-marks > footer.quote__footer > cite.quote__author",
+    "x": 20,
+    "y": 1383,
+    "w": 320,
+    "h": 42,
+    "text": "Pascal Soriot"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h2",
+    "x": 20,
+    "y": 1510,
+    "w": 310,
+    "h": 26,
+    "level": 2,
+    "text": "downloads"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > h2 > b",
+    "x": 20,
+    "y": 1509,
+    "w": 106,
+    "h": 27,
+    "text": "Downloads"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h3",
+    "x": 20,
+    "y": 1546,
+    "w": 320,
+    "h": 22,
+    "level": 3,
+    "text": "announcement"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pdfviewer__wrapper > div.cmp-pdfviewer.js-cmp-pdfviewer > button.cmp-pdfviewer__button",
+    "x": 20,
+    "y": 1588,
+    "w": 320,
+    "h": 72,
+    "text": "explore the h1 and q2 2026 results announcement"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h3",
+    "x": 20,
+    "y": 1700,
+    "w": 320,
+    "h": 22,
+    "level": 3,
+    "text": "presentation"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pdfviewer__wrapper > div.cmp-pdfviewer.js-cmp-pdfviewer > button.cmp-pdfviewer__button",
+    "x": 20,
+    "y": 1742,
+    "w": 320,
+    "h": 72,
+    "text": "explore the h1 and q2 2026 results presentation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h3",
+    "x": 20,
+    "y": 1854,
+    "w": 320,
+    "h": 22,
+    "level": 3,
+    "text": "clinical trials appendix"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pdfviewer__wrapper > div.cmp-pdfviewer.js-cmp-pdfviewer > button.cmp-pdfviewer__button",
+    "x": 20,
+    "y": 1896,
+    "w": 320,
+    "h": 92,
+    "text": "explore the h1 and q2 2026 results clinical trials appendix"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.parsys_column.l-two-block-c0 > div.callToAction.section > a.button.button--primary",
+    "x": 20,
+    "y": 2028,
+    "w": 320,
+    "h": 72,
+    "text": "explore our clinical trials appendix",
+    "href": "/investor-relations/clinical-trials-appendix.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h2",
+    "x": 20,
+    "y": 2130,
+    "w": 320,
+    "h": 64,
+    "level": 2,
+    "text": "key performance elements for h1 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 20,
+    "y": 2204,
+    "w": 320,
+    "h": 20,
+    "text": "(Growth numbers at constant exchange rates)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 30,
+    "y": 2234,
+    "w": 310,
+    "h": 40,
+    "text": "Total Revenue up 6%, with double-digit growth in Oncology and Rare Disease"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 30,
+    "y": 2284,
+    "w": 310,
+    "h": 40,
+    "text": "Core Operating profit and Core EPS increased 11%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 30,
+    "y": 2334,
+    "w": 310,
+    "h": 40,
+    "text": "Interim dividend increased 3 cents to $1.06 per share (79.5 pence, 10.32 SEK)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 30,
+    "y": 2384,
+    "w": 310,
+    "h": 40,
+    "text": "30 approvals in major regions since Q4 2025 results"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p",
+    "x": 30,
+    "y": 2384,
+    "w": 310,
+    "h": 40,
+    "label": "count result",
+    "value": "2025",
+    "via": "count"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig1",
+    "x": 41,
+    "y": 2502,
+    "w": 119,
+    "h": 15,
+    "text": "Total Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig2",
+    "x": 41,
+    "y": 2525,
+    "w": 119,
+    "h": 38,
+    "text": "$30.7bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig1",
+    "x": 201,
+    "y": 2502,
+    "w": 119,
+    "h": 15,
+    "text": "% Change at CER"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig2",
+    "x": 201,
+    "y": 2525,
+    "w": 119,
+    "h": 38,
+    "text": "▲ 6%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig1",
+    "x": 41,
+    "y": 2608,
+    "w": 119,
+    "h": 15,
+    "text": "Core EPS"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig2",
+    "x": 41,
+    "y": 2631,
+    "w": 119,
+    "h": 38,
+    "text": "$5.21"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig3",
+    "x": 41,
+    "y": 2672,
+    "w": 119,
+    "h": 16,
+    "text": "▲ 11% CER"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig1",
+    "x": 201,
+    "y": 2608,
+    "w": 119,
+    "h": 15,
+    "text": "Core Operating Profit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig2",
+    "x": 201,
+    "y": 2631,
+    "w": 119,
+    "h": 38,
+    "text": "$10.5bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.statgrid > div.statcell > div.statfig3",
+    "x": 201,
+    "y": 2672,
+    "w": 119,
+    "h": 16,
+    "text": "▲ 11% CER"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h2",
+    "x": 20,
+    "y": 2762,
+    "w": 320,
+    "h": 52,
+    "level": 2,
+    "text": "how did astrazeneca perform financially?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 21,
+    "y": 2835,
+    "w": 130,
+    "h": 122,
+    "text": "Revenue and EPS Summary"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 151,
+    "y": 2835,
+    "w": 263,
+    "h": 44,
+    "text": "H1 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 236,
+    "y": 2879,
+    "w": 89,
+    "h": 77,
+    "text": "% Change Actual"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "thead > tr > th",
+    "x": 325,
+    "y": 2879,
+    "w": 89,
+    "h": 77,
+    "text": "% Change CER"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 21,
+    "y": 2956,
+    "w": 130,
+    "h": 65,
+    "text": "Product Sales"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 151,
+    "y": 2956,
+    "w": 85,
+    "h": 65,
+    "text": "28,896"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 21,
+    "y": 3021,
+    "w": 130,
+    "h": 65,
+    "text": "Alliance Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 151,
+    "y": 3021,
+    "w": 85,
+    "h": 65,
+    "text": "1,699"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 21,
+    "y": 3085,
+    "w": 130,
+    "h": 65,
+    "text": "Product Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 151,
+    "y": 3085,
+    "w": 85,
+    "h": 65,
+    "text": "30,595"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 21,
+    "y": 3150,
+    "w": 130,
+    "h": 65,
+    "text": "Collaboration Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 236,
+    "y": 3150,
+    "w": 89,
+    "h": 65,
+    "text": "(6)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tbody > tr > td",
+    "x": 325,
+    "y": 3150,
+    "w": 89,
+    "h": 65,
+    "text": "(9)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > b",
+    "x": 41,
+    "y": 3227,
+    "w": 62,
+    "h": 39,
+    "text": "Total Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > b",
+    "x": 171,
+    "y": 3236,
+    "w": 45,
+    "h": 20,
+    "text": "30,672"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > b",
+    "x": 41,
+    "y": 3291,
+    "w": 66,
+    "h": 39,
+    "text": "Reported EPS ($)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > b",
+    "x": 187,
+    "y": 3300,
+    "w": 29,
+    "h": 20,
+    "text": "3.60"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > b",
+    "x": 41,
+    "y": 3356,
+    "w": 67,
+    "h": 39,
+    "text": "Core EPS ($)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > b",
+    "x": 187,
+    "y": 3365,
+    "w": 29,
+    "h": 20,
+    "text": "5.21"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.HTMLEmbed.section > div > div",
+    "x": 46,
+    "y": 3553,
+    "w": 116,
+    "h": 41,
+    "text": "FY2026 GUIDANCE RECONFIRMED"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.HTMLEmbed.section > div > div",
+    "x": 184,
+    "y": 3454,
+    "w": 130,
+    "h": 240,
+    "text": "At CER, Total Revenue is expected to increase by a and Core EPS by a . The Core "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h2",
+    "x": 20,
+    "y": 3766,
+    "w": 320,
+    "h": 52,
+    "level": 2,
+    "text": "which therapy areas drove growth?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > p",
+    "x": 20,
+    "y": 3828,
+    "w": 320,
+    "h": 40,
+    "text": "H1 2026 Total Revenue by Therapy Area. Growth at CER."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-card > div.therapy-header > div.therapy-title",
+    "x": 45,
+    "y": 3911,
+    "w": 79,
+    "h": 21,
+    "text": "Oncology"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-card > div.therapy-header > div.therapy-growth.therapy-growth--up",
+    "x": 272,
+    "y": 3915,
+    "w": 43,
+    "h": 16,
+    "text": "▲ 15%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-grid > div.therapy-card > div.therapy-value",
+    "x": 45,
+    "y": 3942,
+    "w": 270,
+    "h": 26,
+    "text": "$14.1bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-grid > div.therapy-card > p.therapy-description",
+    "x": 45,
+    "y": 3976,
+    "w": 270,
+    "h": 41,
+    "text": "46% of revenue and the largest Therapy Area"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-card > div.therapy-header > div.therapy-title",
+    "x": 45,
+    "y": 4079,
+    "w": 166,
+    "h": 21,
+    "text": "BioPharmaceuticals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-card > div.therapy-header > div.therapy-growth.therapy-growth--down",
+    "x": 279,
+    "y": 4083,
+    "w": 36,
+    "h": 16,
+    "text": "▼ 5%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-grid > div.therapy-card > div.therapy-value",
+    "x": 45,
+    "y": 4110,
+    "w": 270,
+    "h": 26,
+    "text": "$11.2bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-grid > div.therapy-card > p.therapy-description",
+    "x": 45,
+    "y": 4144,
+    "w": 270,
+    "h": 61,
+    "text": "36% of revenue. Respiratory & Immunology grew +9%, CVRM (−12%), Infectious Disea"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-card > div.therapy-header > div.therapy-title",
+    "x": 45,
+    "y": 4267,
+    "w": 107,
+    "h": 21,
+    "text": "Rare Disease"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-card > div.therapy-header > div.therapy-growth.therapy-growth--up",
+    "x": 272,
+    "y": 4271,
+    "w": 43,
+    "h": 16,
+    "text": "▲ 11%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-grid > div.therapy-card > div.therapy-value",
+    "x": 45,
+    "y": 4298,
+    "w": 270,
+    "h": 26,
+    "text": "$4.9bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-grid > div.therapy-card > p.therapy-description",
+    "x": 45,
+    "y": 4332,
+    "w": 270,
+    "h": 20,
+    "text": "16% of revenue"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.text.parbase > div.rich-text > h2",
+    "x": 20,
+    "y": 4425,
+    "w": 320,
+    "h": 52,
+    "level": 2,
+    "text": "what were the pipeline highlights?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > h3",
+    "x": 36,
+    "y": 4523,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "183"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > p",
+    "x": 36,
+    "y": 4603,
+    "w": 288,
+    "h": 20,
+    "text": "projects in our pipeline"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > h3",
+    "x": 36,
+    "y": 4695,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "116"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > p",
+    "x": 36,
+    "y": 4775,
+    "w": 288,
+    "h": 40,
+    "text": "new molecular entities (NMEs) or major life-cycle management in Phase II or Phas"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > h3",
+    "x": 36,
+    "y": 4887,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "21"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > p",
+    "x": 36,
+    "y": 4967,
+    "w": 288,
+    "h": 20,
+    "text": "NMEs in our late-stage pipeline"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > h3",
+    "x": 36,
+    "y": 5059,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-grid > div.pipeline-card > p",
+    "x": 36,
+    "y": 5139,
+    "w": 288,
+    "h": 20,
+    "text": "NMEs under review"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.callToAction.section > div.button--center > a.button.button--primary",
+    "x": 41,
+    "y": 5247,
+    "w": 278,
+    "h": 52,
+    "text": "explore the full pipeline",
+    "href": "/our-therapy-areas/pipeline.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text.l-margin > p > b",
+    "x": 20,
+    "y": 5366,
+    "w": 137,
+    "h": 56,
+    "text": "Matthew Bowden Company Secretary AstraZeneca PLC"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > p > b",
+    "x": 20,
+    "y": 5466,
+    "w": 79,
+    "h": 16,
+    "text": "References"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > div > p",
+    "x": 20,
+    "y": 5494,
+    "w": 320,
+    "h": 160,
+    "text": "1. Constant exchange rates. The differences between Actual Change and CER Change"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > div > p",
+    "x": 20,
+    "y": 5664,
+    "w": 320,
+    "h": 180,
+    "text": "2. Core financial measures are adjusted to exclude certain items. The difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 175,
+    "y": 5826,
+    "w": 91,
+    "h": 16,
+    "text": "this document",
+    "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.rich-text > div > p",
+    "x": 20,
+    "y": 5854,
+    "w": 320,
+    "h": 180,
+    "text": "3. The Company is unable to provide guidance on a Reported basis because it cann"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 182,
+    "y": 6016,
+    "w": 123,
+    "h": 16,
+    "text": "this announcement",
+    "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags > ul.tags__list > li.tags__list-item",
+    "x": 103,
+    "y": 6064,
+    "w": 154,
+    "h": 39,
+    "text": "Corporate and financial"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.block-wrapper.footer__top-region > div.footer__global-sites-block.col-1 > h3.footer__title",
+    "x": 20,
+    "y": 6168,
+    "w": 320,
+    "h": 26,
+    "level": 3,
+    "text": "astrazeneca websites"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__global-sites-block.col-1 > h3.footer__title > a.footer__global-sites",
+    "x": 20,
+    "y": 6167,
+    "w": 229,
+    "h": 27,
+    "text": "astrazeneca websites",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__global-sites-block.col-1 > div.footer__colophon > p",
+    "x": 20,
+    "y": 6204,
+    "w": 320,
+    "h": 39,
+    "text": "This website is intended for people seeking information on AstraZeneca's worldwi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.footer__global-sites-block.col-1 > div.footer__colophon > p",
+    "x": 20,
+    "y": 6283,
+    "w": 320,
+    "h": 26,
+    "text": "Veeva ID: Z4-88682 Date of next review: August 2028"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#js-footer__accordion > div.footer__accordion-panel.col-2-col-1 > h3#ui-id-1",
+    "x": 0,
+    "y": 6330,
+    "w": 360,
+    "h": 59,
+    "level": 3,
+    "text": "resources"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div#js-footer__accordion > div.footer__accordion-panel.col-2-col-2 > h3#ui-id-3",
+    "x": 0,
+    "y": 6389,
+    "w": 360,
+    "h": 59,
+    "level": 3,
+    "text": "quick links"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--linkedin-link",
+    "x": 20,
+    "y": 6478,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/company/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--instagram-link",
+    "x": 72,
+    "y": 6478,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/astrazeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--fb-link",
+    "x": 124,
+    "y": 6478,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--tw-link",
+    "x": 176,
+    "y": 6478,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--youtube-link",
+    "x": 228,
+    "y": 6478,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/user/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__social-links > li.footer__social-link > a.footer__social-channel.footer__social-channel--gd-link",
+    "x": 280,
+    "y": 6478,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/Overview/Working-at-AstraZeneca-EI_IE9214.11,22.htm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 20,
+    "y": 6649,
+    "w": 134,
+    "h": 31,
+    "text": "legal notice and terms of use",
+    "href": "/legal-notice-and-terms-of-use.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 183,
+    "y": 6649,
+    "w": 73,
+    "h": 11,
+    "text": "privacy notice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 177,
+    "y": 6684,
+    "w": 46,
+    "h": 11,
+    "text": "site map",
+    "href": "/global/en/sitemap.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a",
+    "x": 183,
+    "y": 6719,
+    "w": 56,
+    "h": 11,
+    "text": "contact us",
+    "href": "/our-company/Contact-us.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer__utility-links.col-2 > li.footer__utility-link > a.CookieReportsLink",
+    "x": 20,
+    "y": 6754,
+    "w": 101,
+    "h": 11,
+    "text": "cookie preferences",
+    "href": "/510df253-en-gb.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.l-constrained > div.block-wrapper.footer__bottom-region > p.footer__copyright.col-3",
+    "x": 20,
+    "y": 6768,
+    "w": 320,
+    "h": 53,
+    "text": "© AstraZeneca 2026"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 1,
+    "offPage": 32,
+    "textNodes": 251,
+    "controls": 116,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.fin-table-wrapper",
+     "path": "table.fin-table > thead > tr > th",
+     "text": "% change cer",
+     "cutMin": 34,
+     "cutMax": 34
+    }
+   ]
+  }
+ },
+ "eds": {
+  "url": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results",
+  "at": "2026-11-10T14:35:58.506Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6870,
+  "root": "main#main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-header-logo > a",
+    "x": 20,
+    "y": 0,
+    "w": 108,
+    "h": 60,
+    "text": "astrazeneca logo",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 20,
+    "y": 20,
+    "w": 108,
+    "h": 26,
+    "text": "astrazeneca logo",
+    "file": "media_166cbec2552f90bc73b6f7be2e8432ba92"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-header-toggles > button.az-header-button.az-header-button-search",
+    "x": 240,
+    "y": 0,
+    "w": 60,
+    "h": 60,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-header-toggles > button.az-header-button.az-header-button-search",
+    "x": 240,
+    "y": 0,
+    "w": 60,
+    "h": 60,
+    "label": "trigger",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-header-toggles > button.az-header-button.az-header-button-menu",
+    "x": 300,
+    "y": 1,
+    "w": 60,
+    "h": 60,
+    "text": ""
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-header-bar > div.az-header-toggles > button.az-header-button.az-header-button-menu",
+    "x": 300,
+    "y": 1,
+    "w": 60,
+    "h": 60,
+    "label": "trigger",
+    "value": "",
+    "via": "trigger"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-feature-cover > picture > img",
+    "x": 0,
+    "y": 61,
+    "w": 360,
+    "h": 200,
+    "text": "",
+    "file": "media_1b34eb282978bc41d150472a6984510e65"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.hero-feature-header > div.hero-feature-title > h1#h1-and-q2-2026-results",
+    "x": 20,
+    "y": 288,
+    "w": 320,
+    "h": 72,
+    "level": 1,
+    "text": "h1 and q2 2026 results"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-date-region > div.article-date-title > p",
+    "x": 20,
+    "y": 400,
+    "w": 101,
+    "h": 13,
+    "text": "PUBLISHED"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-date-region > div.article-date-date > p",
+    "x": 20,
+    "y": 418,
+    "w": 101,
+    "h": 20,
+    "text": "27 July 2026"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 499,
+    "w": 109,
+    "h": 48,
+    "text": "downloads",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 129,
+    "y": 499,
+    "w": 98,
+    "h": 48,
+    "text": "summary",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 227,
+    "y": 499,
+    "w": 103,
+    "h": 48,
+    "text": "financials",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 547,
+    "w": 134,
+    "h": 48,
+    "text": "therapy areas",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > a",
+    "x": 154,
+    "y": 547,
+    "w": 87,
+    "h": 48,
+    "text": "pipeline",
+    "href": "/media-centre/press-releases/2026/h1-and-q2-2026-results"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 20,
+    "y": 647,
+    "w": 207,
+    "h": 36,
+    "text": "For investor audiences and financial/business media only"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.quote-container > div.default-content-wrapper > h2#growth-momentum-continues-on-track-to-deliver-ambition-of-80-billion-in-total-revenue-in2030",
+    "x": 20,
+    "y": 725,
+    "w": 320,
+    "h": 161,
+    "level": 2,
+    "text": "growth momentum continues. on track to deliver ambition of $80 billion in total revenue in 2030"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "blockquote.quote-body > div.quote-text > p",
+    "x": 20,
+    "y": 945,
+    "w": 320,
+    "h": 390,
+    "text": "In the first half we saw strong performance and continued pipeline delivery, inc"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "footer.quote-footer > div.quote-author > p",
+    "x": 20,
+    "y": 1384,
+    "w": 320,
+    "h": 20,
+    "text": "Pascal Soriot"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "footer.quote-footer > div.quote-author-title > p",
+    "x": 20,
+    "y": 1404,
+    "w": 320,
+    "h": 20,
+    "text": "Chief Executive Officer, AstraZeneca"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads.block > div.results-downloads-head > h2#downloads",
+    "x": 20,
+    "y": 1489,
+    "w": 310,
+    "h": 26,
+    "level": 2,
+    "text": "downloads"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads-item > div.results-downloads-title > h3#announcement",
+    "x": 20,
+    "y": 1525,
+    "w": 320,
+    "h": 22,
+    "level": 3,
+    "text": "announcement"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads-item > div.results-downloads-action > div.results-downloads-trigger",
+    "x": 20,
+    "y": 1567,
+    "w": 320,
+    "h": 72,
+    "text": "explore the h1 and q2 2026 results announcement"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads-item > div.results-downloads-title > h3#presentation",
+    "x": 20,
+    "y": 1679,
+    "w": 320,
+    "h": 22,
+    "level": 3,
+    "text": "presentation"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads-item > div.results-downloads-action > div.results-downloads-trigger",
+    "x": 20,
+    "y": 1721,
+    "w": 320,
+    "h": 72,
+    "text": "explore the h1 and q2 2026 results presentation"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads-item > div.results-downloads-title > h3#clinical-trials-appendix",
+    "x": 20,
+    "y": 1833,
+    "w": 320,
+    "h": 22,
+    "level": 3,
+    "text": "clinical trials appendix"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads-item > div.results-downloads-action > div.results-downloads-trigger",
+    "x": 20,
+    "y": 1875,
+    "w": 320,
+    "h": 92,
+    "text": "explore the h1 and q2 2026 results clinical trials appendix"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.results-downloads-action > p.button-wrapper > a.button.primary",
+    "x": 20,
+    "y": 2007,
+    "w": 320,
+    "h": 72,
+    "text": "explore our clinical trials appendix",
+    "href": "/investor-relations/clinical-trials-appendix.html"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.results-downloads-container > div.default-content-wrapper > h2#key-performance-elements-for-h1-2026",
+    "x": 20,
+    "y": 2129,
+    "w": 320,
+    "h": 64,
+    "level": 2,
+    "text": "key performance elements for h1 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.results-downloads-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 2203,
+    "w": 320,
+    "h": 20,
+    "text": "(Growth numbers at constant exchange rates)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 20,
+    "y": 2233,
+    "w": 320,
+    "h": 40,
+    "text": "Total Revenue up 6%, with double-digit growth in Oncology and Rare Disease"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 20,
+    "y": 2283,
+    "w": 320,
+    "h": 40,
+    "text": "Core Operating profit and Core EPS increased 11%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 20,
+    "y": 2333,
+    "w": 320,
+    "h": 40,
+    "text": "Interim dividend increased 3 cents to $1.06 per share (79.5 pence, 10.32 SEK)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 20,
+    "y": 2383,
+    "w": 320,
+    "h": 40,
+    "text": "30 approvals in major regions since Q4 2025 results"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 20,
+    "y": 2383,
+    "w": 320,
+    "h": 40,
+    "label": "count result",
+    "value": "2025",
+    "via": "count"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-label > p",
+    "x": 41,
+    "y": 2501,
+    "w": 119,
+    "h": 15,
+    "text": "Total Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-figure > p",
+    "x": 41,
+    "y": 2524,
+    "w": 119,
+    "h": 38,
+    "text": "$30.7bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-label > p",
+    "x": 201,
+    "y": 2501,
+    "w": 119,
+    "h": 15,
+    "text": "% Change at CER"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-figure > p",
+    "x": 201,
+    "y": 2524,
+    "w": 119,
+    "h": 38,
+    "text": "▲ 6%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-label > p",
+    "x": 41,
+    "y": 2607,
+    "w": 119,
+    "h": 15,
+    "text": "Core EPS"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-figure > p",
+    "x": 41,
+    "y": 2630,
+    "w": 119,
+    "h": 38,
+    "text": "$5.21"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-change > p",
+    "x": 41,
+    "y": 2671,
+    "w": 119,
+    "h": 16,
+    "text": "▲ 11% CER"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-label > p",
+    "x": 201,
+    "y": 2607,
+    "w": 119,
+    "h": 15,
+    "text": "Core Operating Profit"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-figure > p",
+    "x": 201,
+    "y": 2630,
+    "w": 119,
+    "h": 38,
+    "text": "$10.5bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.stat-grid-cell > div.stat-grid-change > p",
+    "x": 201,
+    "y": 2671,
+    "w": 119,
+    "h": 16,
+    "text": "▲ 11% CER"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.fin-table-container > div.default-content-wrapper > h2#how-did-astrazeneca-perform-financially",
+    "x": 20,
+    "y": 2761,
+    "w": 320,
+    "h": 52,
+    "level": 2,
+    "text": "how did astrazeneca perform financially?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 41,
+    "y": 2870,
+    "w": 90,
+    "h": 49,
+    "text": "Revenue and EPS Summary"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 171,
+    "y": 2848,
+    "w": 223,
+    "h": 16,
+    "text": "H1 2026"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 256,
+    "y": 2892,
+    "w": 49,
+    "h": 49,
+    "text": "% Change Actual"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > th > p",
+    "x": 345,
+    "y": 2892,
+    "w": 49,
+    "h": 49,
+    "text": "% Change CER"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 41,
+    "y": 2969,
+    "w": 90,
+    "h": 38,
+    "text": "Product Sales"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 171,
+    "y": 2978,
+    "w": 45,
+    "h": 19,
+    "text": "28,896"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 41,
+    "y": 3033,
+    "w": 90,
+    "h": 38,
+    "text": "Alliance Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 171,
+    "y": 3042,
+    "w": 45,
+    "h": 19,
+    "text": "1,699"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 41,
+    "y": 3098,
+    "w": 90,
+    "h": 38,
+    "text": "Product Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 171,
+    "y": 3107,
+    "w": 45,
+    "h": 19,
+    "text": "30,595"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 41,
+    "y": 3162,
+    "w": 90,
+    "h": 38,
+    "text": "Collaboration Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 256,
+    "y": 3171,
+    "w": 49,
+    "h": 19,
+    "text": "(6)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "tr > td > p",
+    "x": 345,
+    "y": 3171,
+    "w": 49,
+    "h": 19,
+    "text": "(9)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 41,
+    "y": 3226,
+    "w": 62,
+    "h": 39,
+    "text": "Total Revenue"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 171,
+    "y": 3235,
+    "w": 45,
+    "h": 20,
+    "text": "30,672"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 41,
+    "y": 3290,
+    "w": 66,
+    "h": 39,
+    "text": "Reported EPS ($)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 187,
+    "y": 3299,
+    "w": 29,
+    "h": 20,
+    "text": "3.60"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 41,
+    "y": 3355,
+    "w": 67,
+    "h": 39,
+    "text": "Core EPS ($)"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "td > p > strong",
+    "x": 187,
+    "y": 3364,
+    "w": 29,
+    "h": 20,
+    "text": "5.21"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.guidance-panel > div.guidance-label > p",
+    "x": 46,
+    "y": 3552,
+    "w": 93,
+    "h": 41,
+    "text": "FY2026 GUIDANCE RECONFIRMED"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.guidance-panel > div.guidance-text > p",
+    "x": 184,
+    "y": 3453,
+    "w": 130,
+    "h": 240,
+    "text": "At CER, Total Revenue is expected to increase by a and Core EPS by a . The Core "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.therapy-cards-container > div.default-content-wrapper > h2#which-therapy-areas-drove-growth",
+    "x": 20,
+    "y": 3765,
+    "w": 320,
+    "h": 52,
+    "level": 2,
+    "text": "which therapy areas drove growth?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.therapy-cards-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3827,
+    "w": 320,
+    "h": 40,
+    "text": "H1 2026 Total Revenue by Therapy Area. Growth at CER."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-header > div.therapy-cards-title > p",
+    "x": 45,
+    "y": 3910,
+    "w": 79,
+    "h": 21,
+    "text": "Oncology"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-header > div.therapy-cards-growth.is-up > p",
+    "x": 272,
+    "y": 3914,
+    "w": 43,
+    "h": 16,
+    "text": "▲ 15%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-card > div.therapy-cards-value > p",
+    "x": 45,
+    "y": 3941,
+    "w": 270,
+    "h": 26,
+    "text": "$14.1bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-card > div.therapy-cards-description > p",
+    "x": 45,
+    "y": 3975,
+    "w": 270,
+    "h": 41,
+    "text": "46% of revenue and the largest Therapy Area"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-header > div.therapy-cards-title > p",
+    "x": 45,
+    "y": 4078,
+    "w": 166,
+    "h": 21,
+    "text": "BioPharmaceuticals"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-header > div.therapy-cards-growth.is-down > p",
+    "x": 279,
+    "y": 4082,
+    "w": 36,
+    "h": 16,
+    "text": "▼ 5%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-card > div.therapy-cards-value > p",
+    "x": 45,
+    "y": 4109,
+    "w": 270,
+    "h": 26,
+    "text": "$11.2bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-card > div.therapy-cards-description > p",
+    "x": 45,
+    "y": 4143,
+    "w": 270,
+    "h": 61,
+    "text": "36% of revenue. Respiratory & Immunology grew +9%, CVRM (−12%), Infectious Disea"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-header > div.therapy-cards-title > p",
+    "x": 45,
+    "y": 4266,
+    "w": 107,
+    "h": 21,
+    "text": "Rare Disease"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-header > div.therapy-cards-growth.is-up > p",
+    "x": 272,
+    "y": 4270,
+    "w": 43,
+    "h": 16,
+    "text": "▲ 11%"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-card > div.therapy-cards-value > p",
+    "x": 45,
+    "y": 4297,
+    "w": 270,
+    "h": 26,
+    "text": "$4.9bn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.therapy-cards-card > div.therapy-cards-description > p",
+    "x": 45,
+    "y": 4331,
+    "w": 270,
+    "h": 20,
+    "text": "16% of revenue"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.pipeline-cards-container > div.default-content-wrapper > h2#what-were-the-pipeline-highlights",
+    "x": 20,
+    "y": 4424,
+    "w": 320,
+    "h": 52,
+    "level": 2,
+    "text": "what were the pipeline highlights?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-figure > h3#183",
+    "x": 36,
+    "y": 4522,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "183"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-caption > p",
+    "x": 36,
+    "y": 4602,
+    "w": 288,
+    "h": 20,
+    "text": "projects in our pipeline"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-figure > h3#116",
+    "x": 36,
+    "y": 4694,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "116"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-caption > p",
+    "x": 36,
+    "y": 4774,
+    "w": 288,
+    "h": 40,
+    "text": "new molecular entities (NMEs) or major life-cycle management in Phase II or Phas"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-figure > h3#21",
+    "x": 36,
+    "y": 4886,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "21"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-caption > p",
+    "x": 36,
+    "y": 4966,
+    "w": 288,
+    "h": 20,
+    "text": "NMEs in our late-stage pipeline"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-figure > h3#4",
+    "x": 36,
+    "y": 5058,
+    "w": 288,
+    "h": 60,
+    "level": 3,
+    "text": "4"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.pipeline-cards-card > div.pipeline-cards-caption > p",
+    "x": 36,
+    "y": 5138,
+    "w": 288,
+    "h": 20,
+    "text": "NMEs under review"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.button-wrapper > a.button.primary",
+    "x": 41,
+    "y": 5246,
+    "w": 278,
+    "h": 52,
+    "text": "explore the full pipeline",
+    "href": "/our-therapy-areas/pipeline.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 20,
+    "y": 5365,
+    "w": 137,
+    "h": 56,
+    "text": "Matthew Bowden Company Secretary AstraZeneca PLC"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > strong",
+    "x": 20,
+    "y": 5465,
+    "w": 79,
+    "h": 16,
+    "text": "References"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.pipeline-cards-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 5493,
+    "w": 320,
+    "h": 160,
+    "text": "1. Constant exchange rates. The differences between Actual Change and CER Change"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.pipeline-cards-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 5663,
+    "w": 320,
+    "h": 180,
+    "text": "2. Core financial measures are adjusted to exclude certain items. The difference"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 175,
+    "y": 5825,
+    "w": 91,
+    "h": 16,
+    "text": "this document",
+    "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.pipeline-cards-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 5853,
+    "w": 320,
+    "h": 180,
+    "text": "3. The Company is unable to provide guidance on a Reported basis because it cann"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 182,
+    "y": 6015,
+    "w": 123,
+    "h": 16,
+    "text": "this announcement",
+    "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.tags-list > ul > li",
+    "x": 103,
+    "y": 6078,
+    "w": 154,
+    "h": 39,
+    "text": "Corporate and financial"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-top > div.az-footer-sites > h3#astrazeneca-websites",
+    "x": 20,
+    "y": 6182,
+    "w": 320,
+    "h": 26,
+    "level": 3,
+    "text": "astrazeneca websites"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-sites > h3#astrazeneca-websites > a",
+    "x": 20,
+    "y": 6181,
+    "w": 229,
+    "h": 27,
+    "text": "astrazeneca websites",
+    "href": "/global/en/AstraZeneca-Websites.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-sites > div.az-footer-colophon > p",
+    "x": 20,
+    "y": 6218,
+    "w": 320,
+    "h": 39,
+    "text": "This website is intended for people seeking information on AstraZeneca's worldwi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-sites > div.az-footer-colophon > p",
+    "x": 20,
+    "y": 6297,
+    "w": 320,
+    "h": 26,
+    "text": "Veeva ID: Z4-88682 Date of next review: August 2028"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-columns > div.az-footer-panel > h3#resources",
+    "x": 0,
+    "y": 6344,
+    "w": 360,
+    "h": 59,
+    "level": 3,
+    "text": "resources"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-columns > div.az-footer-panel > h3#quick-links",
+    "x": 0,
+    "y": 6403,
+    "w": 360,
+    "h": 59,
+    "level": 3,
+    "text": "quick links"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-linkedin",
+    "x": 20,
+    "y": 6492,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/company/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-instagram",
+    "x": 72,
+    "y": 6492,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/astrazeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-fb",
+    "x": 124,
+    "y": 6492,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-tw",
+    "x": 176,
+    "y": 6492,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/AstraZeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-youtube",
+    "x": 228,
+    "y": 6492,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/user/astrazeneca"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a.is-gd",
+    "x": 280,
+    "y": 6492,
+    "w": 42,
+    "h": 42,
+    "text": "",
+    "href": "/Overview/Working-at-AstraZeneca-EI_IE9214.11,22.htm"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 20,
+    "y": 6663,
+    "w": 134,
+    "h": 31,
+    "text": "legal notice and terms of use",
+    "href": "/legal-notice-and-terms-of-use.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 183,
+    "y": 6663,
+    "w": 73,
+    "h": 11,
+    "text": "privacy notice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 177,
+    "y": 6698,
+    "w": 46,
+    "h": 11,
+    "text": "site map",
+    "href": "/global/en/sitemap.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 183,
+    "y": 6733,
+    "w": 56,
+    "h": 11,
+    "text": "contact us",
+    "href": "/our-company/Contact-us.html"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.az-footer-utility > li > a",
+    "x": 20,
+    "y": 6768,
+    "w": 101,
+    "h": 11,
+    "text": "cookie preferences",
+    "href": "/510df253-en-gb.html"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.az-footer-inner > div.az-footer-bottom > p.az-footer-copyright",
+    "x": 20,
+    "y": 6782,
+    "w": 320,
+    "h": 53,
+    "text": "© AstraZeneca 2026"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 1,
+    "offPage": 35,
+    "textNodes": 252,
+    "controls": 114,
+    "total": 0
+   },
+   "groups": [
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "n": 1,
+     "clipper": "div.fin-table-frame",
+     "path": "thead > tr > th > p",
+     "text": "% change cer",
+     "cutMin": 34,
+     "cutMax": 34
+    }
+   ],
+   "findings": [
+    {
+     "kind": "TEXT X-HIDDEN",
+     "advisory": true,
+     "cut": 34,
+     "path": "thead > tr > th > p",
+     "text": "% change cer",
+     "clipper": "div.fin-table-frame",
+     "rect": {
+      "l": 381,
+      "t": 2891,
+      "r": 394,
+      "b": 2908,
+      "w": 13,
+      "h": 17
+     },
+     "clip": {
+      "l": 21,
+      "t": 2834,
+      "r": 339,
+      "b": 3407,
+      "w": 318,
+      "h": 573
+     },
+     "lines": 3
+    }
+   ]
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "h1 and q2 2026 results",
+   "variable": false,
+   "origin": {
+    "link": 5,
+    "button": 0,
+    "text": 4,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": [
+    "CONTROL STATE"
+   ]
+  },
+  {
+   "index": 2,
+   "heading": "growth momentum continues. on track to deliver ambition of $80 billion in total revenue in 2030",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "downloads",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "announcement",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "presentation",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "clinical trials appendix",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 1,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "key performance elements for h1 2026",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 15,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 15,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "how did astrazeneca perform financially?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 21,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 21,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "which therapy areas drove growth?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 13,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "what were the pipeline highlights?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "183",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "116",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "21",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "4",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 7,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [
+  {
+   "sev": "🟠",
+   "kind": "CONTROL STATE",
+   "msg": "count result: origin \"2026\", served: none",
+   "band": 1,
+   "label": "count result",
+   "value": "2026"
+  }
+ ],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 1,
+  "countDeltas": 0,
+  "findings": 1,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 126,
+    "y": -491,
+    "w": 107,
+    "h": 21
+   },
+   {
+    "x": 116,
+    "y": -491,
+    "w": 129,
+    "h": 21
+   },
+   {
+    "x": 132,
+    "y": -491,
+    "w": 95,
+    "h": 21
+   },
+   {
+    "x": 66,
+    "y": 287,
+    "w": 228,
+    "h": 38
+   },
+   {
+    "x": 134,
+    "y": 323,
+    "w": 92,
+    "h": 38
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 68,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 417,
+    "w": 101,
+    "h": 21
+   },
+   {
+    "x": 34,
+    "y": 512,
+    "w": 81,
+    "h": 21
+   },
+   {
+    "x": 143,
+    "y": 512,
+    "w": 70,
+    "h": 21
+   },
+   {
+    "x": 241,
+    "y": 512,
+    "w": 75,
+    "h": 21
+   },
+   {
+    "x": 34,
+    "y": 560,
+    "w": 106,
+    "h": 21
+   },
+   {
+    "x": 168,
+    "y": 560,
+    "w": 59,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 647,
+    "w": 190,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 667,
+    "w": 207,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 724,
+    "w": 227,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 756,
+    "w": 258,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 788,
+    "w": 269,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 821,
+    "w": 278,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 853,
+    "w": 87,
+    "h": 33
+   },
+   {
+    "x": 70,
+    "y": 944,
+    "w": 228,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 970,
+    "w": 239,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 996,
+    "w": 276,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1022,
+    "w": 256,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1048,
+    "w": 264,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1074,
+    "w": 290,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1100,
+    "w": 85,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1152,
+    "w": 294,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1178,
+    "w": 210,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1204,
+    "w": 242,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1230,
+    "w": 303,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1256,
+    "w": 276,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1282,
+    "w": 300,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1308,
+    "w": 266,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1383,
+    "w": 104,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 1407,
+    "w": 239,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1509,
+    "w": 106,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1545,
+    "w": 135,
+    "h": 23
+   },
+   {
+    "x": 36,
+    "y": 1603,
+    "w": 245,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1623,
+    "w": 196,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 1699,
+    "w": 112,
+    "h": 23
+   },
+   {
+    "x": 36,
+    "y": 1757,
+    "w": 245,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1777,
+    "w": 180,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 1853,
+    "w": 209,
+    "h": 23
+   },
+   {
+    "x": 36,
+    "y": 1911,
+    "w": 245,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1931,
+    "w": 189,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1951,
+    "w": 82,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 2043,
+    "w": 231,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 2063,
+    "w": 82,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 2129,
+    "w": 312,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 2161,
+    "w": 137,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 2206,
+    "w": 298,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2236,
+    "w": 301,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2256,
+    "w": 198,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2286,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2306,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2336,
+    "w": 305,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2356,
+    "w": 201,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2386,
+    "w": 291,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2406,
+    "w": 43,
+    "h": 16
+   },
+   {
+    "x": 41,
+    "y": 2501,
+    "w": 77,
+    "h": 16
+   },
+   {
+    "x": 41,
+    "y": 2524,
+    "w": 104,
+    "h": 38
+   },
+   {
+    "x": 201,
+    "y": 2501,
+    "w": 97,
+    "h": 16
+   },
+   {
+    "x": 298,
+    "y": 2501,
+    "w": 5,
+    "h": 11
+   },
+   {
+    "x": 201,
+    "y": 2524,
+    "w": 79,
+    "h": 38
+   },
+   {
+    "x": 41,
+    "y": 2607,
+    "w": 25,
+    "h": 16
+   },
+   {
+    "x": 66,
+    "y": 2606,
+    "w": 5,
+    "h": 11
+   },
+   {
+    "x": 71,
+    "y": 2607,
+    "w": 26,
+    "h": 16
+   },
+   {
+    "x": 41,
+    "y": 2630,
+    "w": 69,
+    "h": 38
+   },
+   {
+    "x": 41,
+    "y": 2671,
+    "w": 74,
+    "h": 17
+   },
+   {
+    "x": 201,
+    "y": 2607,
+    "w": 115,
+    "h": 16
+   },
+   {
+    "x": 201,
+    "y": 2630,
+    "w": 104,
+    "h": 38
+   },
+   {
+    "x": 201,
+    "y": 2671,
+    "w": 74,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 2761,
+    "w": 285,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 2787,
+    "w": 111,
+    "h": 27
+   },
+   {
+    "x": 41,
+    "y": 2870,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 2886,
+    "w": 27,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 2902,
+    "w": 62,
+    "h": 17
+   },
+   {
+    "x": 257,
+    "y": 2848,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 197,
+    "y": 2908,
+    "w": 19,
+    "h": 17
+   },
+   {
+    "x": 292,
+    "y": 2892,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 256,
+    "y": 2908,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 263,
+    "y": 2924,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 345,
+    "y": 2908,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 2969,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 2987,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 172,
+    "y": 2978,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 2978,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3033,
+    "w": 56,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3052,
+    "w": 57,
+    "h": 20
+   },
+   {
+    "x": 180,
+    "y": 3042,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 289,
+    "y": 3042,
+    "w": 16,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3098,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3116,
+    "w": 57,
+    "h": 20
+   },
+   {
+    "x": 172,
+    "y": 3107,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 3107,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3162,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3181,
+    "w": 57,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 3171,
+    "w": 16,
+    "h": 20
+   },
+   {
+    "x": 287,
+    "y": 3171,
+    "w": 18,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3227,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3245,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 171,
+    "y": 3236,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 3236,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3291,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3310,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 187,
+    "y": 3300,
+    "w": 29,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 3300,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3356,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3374,
+    "w": 19,
+    "h": 20
+   },
+   {
+    "x": 187,
+    "y": 3365,
+    "w": 29,
+    "h": 20
+   },
+   {
+    "x": 289,
+    "y": 3365,
+    "w": 16,
+    "h": 20
+   },
+   {
+    "x": 46,
+    "y": 3552,
+    "w": 44,
+    "h": 14
+   },
+   {
+    "x": 46,
+    "y": 3566,
+    "w": 67,
+    "h": 14
+   },
+   {
+    "x": 113,
+    "y": 3564,
+    "w": 5,
+    "h": 11
+   },
+   {
+    "x": 46,
+    "y": 3580,
+    "w": 93,
+    "h": 14
+   },
+   {
+    "x": 184,
+    "y": 3453,
+    "w": 98,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3473,
+    "w": 78,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3493,
+    "w": 82,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3513,
+    "w": 95,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3533,
+    "w": 92,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3553,
+    "w": 110,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3573,
+    "w": 121,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3593,
+    "w": 13,
+    "h": 21
+   },
+   {
+    "x": 197,
+    "y": 3593,
+    "w": 91,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3613,
+    "w": 56,
+    "h": 21
+   },
+   {
+    "x": 240,
+    "y": 3613,
+    "w": 74,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3633,
+    "w": 75,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3653,
+    "w": 103,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3673,
+    "w": 65,
+    "h": 21
+   },
+   {
+    "x": 249,
+    "y": 3673,
+    "w": 58,
+    "h": 21
+   },
+   {
+    "x": 307,
+    "y": 3673,
+    "w": 4,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 3765,
+    "w": 265,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 3791,
+    "w": 76,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 3830,
+    "w": 319,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3850,
+    "w": 51,
+    "h": 16
+   },
+   {
+    "x": 45,
+    "y": 3910,
+    "w": 79,
+    "h": 22
+   },
+   {
+    "x": 272,
+    "y": 3914,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 3938,
+    "w": 91,
+    "h": 33
+   },
+   {
+    "x": 45,
+    "y": 3977,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 3998,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4078,
+    "w": 166,
+    "h": 22
+   },
+   {
+    "x": 279,
+    "y": 4082,
+    "w": 36,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4106,
+    "w": 91,
+    "h": 33
+   },
+   {
+    "x": 45,
+    "y": 4145,
+    "w": 189,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4165,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4186,
+    "w": 161,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4266,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 272,
+    "y": 4270,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4294,
+    "w": 77,
+    "h": 33
+   },
+   {
+    "x": 45,
+    "y": 4333,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4424,
+    "w": 219,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 4450,
+    "w": 108,
+    "h": 27
+   },
+   {
+    "x": 147,
+    "y": 4527,
+    "w": 65,
+    "h": 52
+   },
+   {
+    "x": 105,
+    "y": 4604,
+    "w": 150,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 4699,
+    "w": 65,
+    "h": 52
+   },
+   {
+    "x": 36,
+    "y": 4776,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 43,
+    "y": 4796,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 158,
+    "y": 4891,
+    "w": 43,
+    "h": 52
+   },
+   {
+    "x": 78,
+    "y": 4968,
+    "w": 205,
+    "h": 18
+   },
+   {
+    "x": 169,
+    "y": 5063,
+    "w": 22,
+    "h": 52
+   },
+   {
+    "x": 116,
+    "y": 5140,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 57,
+    "y": 5262,
+    "w": 216,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 5366,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5386,
+    "w": 137,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5406,
+    "w": 120,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5466,
+    "w": 79,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5496,
+    "w": 288,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5516,
+    "w": 298,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5536,
+    "w": 296,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5556,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5576,
+    "w": 291,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5596,
+    "w": 318,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5616,
+    "w": 288,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5636,
+    "w": 224,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5666,
+    "w": 276,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5686,
+    "w": 306,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5706,
+    "w": 306,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5726,
+    "w": 245,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5746,
+    "w": 305,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5766,
+    "w": 268,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5786,
+    "w": 265,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5806,
+    "w": 290,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5826,
+    "w": 155,
+    "h": 16
+   },
+   {
+    "x": 175,
+    "y": 5826,
+    "w": 91,
+    "h": 16
+   },
+   {
+    "x": 266,
+    "y": 5826,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5856,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5876,
+    "w": 301,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5896,
+    "w": 277,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5916,
+    "w": 284,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5936,
+    "w": 319,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5956,
+    "w": 303,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5976,
+    "w": 269,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5996,
+    "w": 293,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 6016,
+    "w": 162,
+    "h": 16
+   },
+   {
+    "x": 182,
+    "y": 6016,
+    "w": 123,
+    "h": 16
+   },
+   {
+    "x": 305,
+    "y": 6016,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 116,
+    "y": 6077,
+    "w": 128,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 6167,
+    "w": 229,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 6205,
+    "w": 304,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6218,
+    "w": 313,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6231,
+    "w": 138,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6284,
+    "w": 103,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6297,
+    "w": 172,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6345,
+    "w": 105,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 6404,
+    "w": 119,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 6649,
+    "w": 134,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6669,
+    "w": 20,
+    "h": 11
+   },
+   {
+    "x": 183,
+    "y": 6649,
+    "w": 73,
+    "h": 11
+   },
+   {
+    "x": 177,
+    "y": 6684,
+    "w": 46,
+    "h": 11
+   },
+   {
+    "x": 183,
+    "y": 6719,
+    "w": 56,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6754,
+    "w": 101,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6789,
+    "w": 106,
+    "h": 11
+   }
+  ],
+  "eds": [
+   {
+    "x": 66,
+    "y": 287,
+    "w": 228,
+    "h": 38
+   },
+   {
+    "x": 134,
+    "y": 323,
+    "w": 92,
+    "h": 38
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 68,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 417,
+    "w": 101,
+    "h": 21
+   },
+   {
+    "x": 34,
+    "y": 512,
+    "w": 81,
+    "h": 21
+   },
+   {
+    "x": 143,
+    "y": 512,
+    "w": 70,
+    "h": 21
+   },
+   {
+    "x": 241,
+    "y": 512,
+    "w": 75,
+    "h": 21
+   },
+   {
+    "x": 34,
+    "y": 560,
+    "w": 106,
+    "h": 21
+   },
+   {
+    "x": 168,
+    "y": 560,
+    "w": 59,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 647,
+    "w": 190,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 667,
+    "w": 207,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 724,
+    "w": 227,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 756,
+    "w": 258,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 788,
+    "w": 269,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 821,
+    "w": 278,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 853,
+    "w": 87,
+    "h": 33
+   },
+   {
+    "x": 70,
+    "y": 944,
+    "w": 228,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 970,
+    "w": 239,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 996,
+    "w": 276,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1022,
+    "w": 256,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1048,
+    "w": 264,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1074,
+    "w": 290,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1100,
+    "w": 85,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1152,
+    "w": 294,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1178,
+    "w": 210,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1204,
+    "w": 242,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1230,
+    "w": 303,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1256,
+    "w": 276,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1282,
+    "w": 300,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1308,
+    "w": 266,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1383,
+    "w": 104,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 1406,
+    "w": 239,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1488,
+    "w": 106,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 1524,
+    "w": 135,
+    "h": 23
+   },
+   {
+    "x": 36,
+    "y": 1582,
+    "w": 245,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1602,
+    "w": 196,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 1678,
+    "w": 112,
+    "h": 23
+   },
+   {
+    "x": 36,
+    "y": 1736,
+    "w": 245,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1756,
+    "w": 180,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 1832,
+    "w": 209,
+    "h": 23
+   },
+   {
+    "x": 36,
+    "y": 1890,
+    "w": 245,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1910,
+    "w": 189,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 1930,
+    "w": 82,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 2022,
+    "w": 231,
+    "h": 21
+   },
+   {
+    "x": 36,
+    "y": 2042,
+    "w": 82,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 2128,
+    "w": 312,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 2160,
+    "w": 137,
+    "h": 33
+   },
+   {
+    "x": 20,
+    "y": 2205,
+    "w": 298,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2235,
+    "w": 301,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2255,
+    "w": 198,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2285,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2305,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2335,
+    "w": 305,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2355,
+    "w": 201,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2385,
+    "w": 291,
+    "h": 16
+   },
+   {
+    "x": 30,
+    "y": 2405,
+    "w": 43,
+    "h": 16
+   },
+   {
+    "x": 41,
+    "y": 2500,
+    "w": 77,
+    "h": 16
+   },
+   {
+    "x": 41,
+    "y": 2523,
+    "w": 104,
+    "h": 38
+   },
+   {
+    "x": 201,
+    "y": 2500,
+    "w": 97,
+    "h": 16
+   },
+   {
+    "x": 298,
+    "y": 2500,
+    "w": 5,
+    "h": 11
+   },
+   {
+    "x": 201,
+    "y": 2523,
+    "w": 79,
+    "h": 38
+   },
+   {
+    "x": 41,
+    "y": 2606,
+    "w": 25,
+    "h": 16
+   },
+   {
+    "x": 66,
+    "y": 2605,
+    "w": 5,
+    "h": 11
+   },
+   {
+    "x": 71,
+    "y": 2606,
+    "w": 26,
+    "h": 16
+   },
+   {
+    "x": 41,
+    "y": 2629,
+    "w": 69,
+    "h": 38
+   },
+   {
+    "x": 41,
+    "y": 2670,
+    "w": 74,
+    "h": 17
+   },
+   {
+    "x": 201,
+    "y": 2606,
+    "w": 115,
+    "h": 16
+   },
+   {
+    "x": 201,
+    "y": 2629,
+    "w": 104,
+    "h": 38
+   },
+   {
+    "x": 201,
+    "y": 2670,
+    "w": 74,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 2760,
+    "w": 285,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 2786,
+    "w": 111,
+    "h": 27
+   },
+   {
+    "x": 41,
+    "y": 2869,
+    "w": 82,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 2885,
+    "w": 27,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 2901,
+    "w": 62,
+    "h": 17
+   },
+   {
+    "x": 257,
+    "y": 2847,
+    "w": 51,
+    "h": 17
+   },
+   {
+    "x": 171,
+    "y": 2907,
+    "w": 19,
+    "h": 17
+   },
+   {
+    "x": 292,
+    "y": 2891,
+    "w": 13,
+    "h": 17
+   },
+   {
+    "x": 256,
+    "y": 2907,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 263,
+    "y": 2923,
+    "w": 42,
+    "h": 17
+   },
+   {
+    "x": 345,
+    "y": 2907,
+    "w": 49,
+    "h": 17
+   },
+   {
+    "x": 41,
+    "y": 2968,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 2986,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 172,
+    "y": 2977,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 2977,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3032,
+    "w": 56,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3051,
+    "w": 57,
+    "h": 20
+   },
+   {
+    "x": 180,
+    "y": 3041,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 289,
+    "y": 3041,
+    "w": 16,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3097,
+    "w": 52,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3115,
+    "w": 57,
+    "h": 20
+   },
+   {
+    "x": 172,
+    "y": 3106,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 3106,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3161,
+    "w": 90,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3180,
+    "w": 57,
+    "h": 20
+   },
+   {
+    "x": 200,
+    "y": 3170,
+    "w": 16,
+    "h": 20
+   },
+   {
+    "x": 287,
+    "y": 3170,
+    "w": 18,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3226,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3244,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 171,
+    "y": 3235,
+    "w": 45,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 3235,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3290,
+    "w": 66,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3309,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 187,
+    "y": 3299,
+    "w": 29,
+    "h": 20
+   },
+   {
+    "x": 297,
+    "y": 3299,
+    "w": 8,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3355,
+    "w": 67,
+    "h": 20
+   },
+   {
+    "x": 41,
+    "y": 3373,
+    "w": 19,
+    "h": 20
+   },
+   {
+    "x": 187,
+    "y": 3364,
+    "w": 29,
+    "h": 20
+   },
+   {
+    "x": 289,
+    "y": 3364,
+    "w": 16,
+    "h": 20
+   },
+   {
+    "x": 46,
+    "y": 3551,
+    "w": 44,
+    "h": 14
+   },
+   {
+    "x": 46,
+    "y": 3565,
+    "w": 67,
+    "h": 14
+   },
+   {
+    "x": 113,
+    "y": 3563,
+    "w": 5,
+    "h": 11
+   },
+   {
+    "x": 46,
+    "y": 3579,
+    "w": 93,
+    "h": 14
+   },
+   {
+    "x": 184,
+    "y": 3452,
+    "w": 98,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3472,
+    "w": 78,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3492,
+    "w": 82,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3512,
+    "w": 95,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3532,
+    "w": 92,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3552,
+    "w": 110,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3572,
+    "w": 121,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3592,
+    "w": 13,
+    "h": 21
+   },
+   {
+    "x": 197,
+    "y": 3592,
+    "w": 91,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3612,
+    "w": 56,
+    "h": 21
+   },
+   {
+    "x": 240,
+    "y": 3612,
+    "w": 74,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3632,
+    "w": 75,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3652,
+    "w": 103,
+    "h": 21
+   },
+   {
+    "x": 184,
+    "y": 3672,
+    "w": 65,
+    "h": 21
+   },
+   {
+    "x": 249,
+    "y": 3672,
+    "w": 58,
+    "h": 21
+   },
+   {
+    "x": 307,
+    "y": 3672,
+    "w": 4,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 3764,
+    "w": 265,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 3790,
+    "w": 76,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 3829,
+    "w": 319,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3849,
+    "w": 51,
+    "h": 16
+   },
+   {
+    "x": 45,
+    "y": 3909,
+    "w": 79,
+    "h": 22
+   },
+   {
+    "x": 272,
+    "y": 3913,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 3937,
+    "w": 91,
+    "h": 33
+   },
+   {
+    "x": 45,
+    "y": 3976,
+    "w": 249,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 3997,
+    "w": 29,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4077,
+    "w": 166,
+    "h": 22
+   },
+   {
+    "x": 279,
+    "y": 4081,
+    "w": 36,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4105,
+    "w": 91,
+    "h": 33
+   },
+   {
+    "x": 45,
+    "y": 4144,
+    "w": 189,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4164,
+    "w": 246,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4185,
+    "w": 161,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4265,
+    "w": 107,
+    "h": 22
+   },
+   {
+    "x": 272,
+    "y": 4269,
+    "w": 43,
+    "h": 17
+   },
+   {
+    "x": 45,
+    "y": 4293,
+    "w": 77,
+    "h": 33
+   },
+   {
+    "x": 45,
+    "y": 4332,
+    "w": 97,
+    "h": 17
+   },
+   {
+    "x": 20,
+    "y": 4423,
+    "w": 219,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 4449,
+    "w": 108,
+    "h": 27
+   },
+   {
+    "x": 147,
+    "y": 4526,
+    "w": 65,
+    "h": 52
+   },
+   {
+    "x": 105,
+    "y": 4603,
+    "w": 150,
+    "h": 18
+   },
+   {
+    "x": 147,
+    "y": 4698,
+    "w": 65,
+    "h": 52
+   },
+   {
+    "x": 36,
+    "y": 4775,
+    "w": 287,
+    "h": 18
+   },
+   {
+    "x": 43,
+    "y": 4795,
+    "w": 274,
+    "h": 18
+   },
+   {
+    "x": 158,
+    "y": 4890,
+    "w": 43,
+    "h": 52
+   },
+   {
+    "x": 78,
+    "y": 4967,
+    "w": 205,
+    "h": 18
+   },
+   {
+    "x": 169,
+    "y": 5062,
+    "w": 22,
+    "h": 52
+   },
+   {
+    "x": 116,
+    "y": 5139,
+    "w": 128,
+    "h": 18
+   },
+   {
+    "x": 57,
+    "y": 5261,
+    "w": 216,
+    "h": 21
+   },
+   {
+    "x": 20,
+    "y": 5365,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5385,
+    "w": 137,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5405,
+    "w": 120,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5465,
+    "w": 79,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5495,
+    "w": 288,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5515,
+    "w": 298,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5535,
+    "w": 296,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5555,
+    "w": 257,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5575,
+    "w": 291,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5595,
+    "w": 318,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5615,
+    "w": 288,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5635,
+    "w": 224,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5665,
+    "w": 276,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5685,
+    "w": 306,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5705,
+    "w": 306,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5725,
+    "w": 245,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5745,
+    "w": 305,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5765,
+    "w": 268,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5785,
+    "w": 265,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5805,
+    "w": 290,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5825,
+    "w": 155,
+    "h": 16
+   },
+   {
+    "x": 175,
+    "y": 5825,
+    "w": 91,
+    "h": 16
+   },
+   {
+    "x": 266,
+    "y": 5825,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5855,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5875,
+    "w": 301,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5895,
+    "w": 277,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5915,
+    "w": 284,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5935,
+    "w": 319,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5955,
+    "w": 303,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5975,
+    "w": 269,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5995,
+    "w": 293,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 6015,
+    "w": 162,
+    "h": 16
+   },
+   {
+    "x": 182,
+    "y": 6015,
+    "w": 123,
+    "h": 16
+   },
+   {
+    "x": 305,
+    "y": 6015,
+    "w": 4,
+    "h": 16
+   },
+   {
+    "x": 116,
+    "y": 6091,
+    "w": 128,
+    "h": 12
+   },
+   {
+    "x": 20,
+    "y": 6181,
+    "w": 229,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 6219,
+    "w": 304,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6232,
+    "w": 313,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6245,
+    "w": 138,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6298,
+    "w": 103,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6311,
+    "w": 172,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6359,
+    "w": 105,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 6418,
+    "w": 119,
+    "h": 27
+   },
+   {
+    "x": 20,
+    "y": 6663,
+    "w": 134,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6683,
+    "w": 20,
+    "h": 11
+   },
+   {
+    "x": 183,
+    "y": 6663,
+    "w": 73,
+    "h": 11
+   },
+   {
+    "x": 177,
+    "y": 6698,
+    "w": 46,
+    "h": 11
+   },
+   {
+    "x": 183,
+    "y": 6733,
+    "w": 56,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6768,
+    "w": 101,
+    "h": 11
+   },
+   {
+    "x": 20,
+    "y": 6803,
+    "w": 106,
+    "h": 11
+   }
+  ]
+ }
+}

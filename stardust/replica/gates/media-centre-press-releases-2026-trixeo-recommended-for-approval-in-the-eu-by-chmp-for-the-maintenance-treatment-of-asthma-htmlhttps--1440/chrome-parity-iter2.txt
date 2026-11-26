@@ -1,0 +1,53 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps:// (live side from cache stardust/replica/gates/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--1440/chrome-live.json, probed 2026-11-10T12:11:24.388Z — delete the file to re-probe)
+  build: http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html
+
+■ header: 6 delta(s) — 15 paired of 15/15 texts, 1/1 icons
+  (live has no <header>: auto-detected div.nav.mainnav — pass --region header=<liveSel>|<buildSel> to override)
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+  REGION STYLE position static → relative (fixed/sticky chrome must stay fixed/sticky — seam symmetry)
+  PAIR         "Search"  Δx -7px (1338→1331); Δy -10px (21→11); <button> backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+  PAIR         "Search"  Δx -10043px (1360→-8683); Δw +50px (1→51); Δh +19px (1→20)
+  PAIR         "Search"  tag <span> → <button>; fontWeight 400 → 300; color rgb(208, 0, 111) → rgb(217, 51, 140); backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255); paddingRight 0px → 32px; paddingLeft 0px → 32px; Δx -44px (2485→2441); Δy -13px (13→0); Δw +64px (46→110); Δh +25px (18→43); <button> box 88×44 → 110×43
+  PAIR         "Close"  Δx -7px (2573→2566); Δy -10px (21→11); <button> paddingLeft 0px → 6px
+
+■ footer: 37 delta(s) — 36 paired of 36/36 texts, 0/0 icons
+  REGION BOX   Δy +10px (3015→3025)
+  PAIR         "AstraZeneca Websites"  Δy +10px (3055→3065)
+  PAIR         "This website is intended for people seek"  Δy +10px (3095→3105)
+  PAIR         "Veeva ID: Z4-88682 Date of next review: "  Δy +10px (3194→3204)
+  PAIR         "Resources"  Δy +10px (3055→3065)
+  PAIR         "All resources"  Δy +10px (3095→3105)
+  PAIR         "Open Innovation"  Δy +10px (3118→3128)
+  PAIR         "Externally sponsored scientific research"  Δy +10px (3141→3151)
+  PAIR         "Medical Information for HCPs"  Δy +10px (3164→3174)
+  PAIR         "US prescription assistance programmes"  Δy +10px (3187→3197)
+  PAIR         "Global clinical trials information"  Δy +10px (3210→3220)
+  PAIR         "Medicines"  Δy +10px (3233→3243)
+  PAIR         "Report a possible side effect"  Δy +10px (3256→3266)
+  PAIR         "Quick links"  Δy +10px (3055→3065)
+  PAIR         "Media"  Δy +10px (3095→3105)
+  PAIR         "Investor Relations"  Δy +10px (3118→3128)
+  PAIR         "Partnering"  Δy +10px (3141→3151)
+  PAIR         "Careers"  Δy +10px (3164→3174)
+  PAIR         "Sustainability"  Δy +10px (3187→3197)
+  PAIR         "Modern Slavery Statement"  Δy +10px (3210→3220)
+  PAIR         "AZethics – Report A Concern"  Δy +10px (3233→3243)
+  PAIR         "Supplier information"  Δy +10px (3256→3266)
+  PAIR         "Social Media Community Guidelines"  Δy +10px (3279→3289)
+  PAIR         "Social Media"  lineHeight 23.4px → 20px; Δy +10px (3054→3064)
+  PAIR         "LinkedIn"  Δy +10px (3055→3065)
+  PAIR         "Instagram"  Δy +10px (3055→3065)
+  PAIR         "Facebook"  Δy +10px (3055→3065)
+  PAIR         "X"  Δy +10px (3055→3065)
+  PAIR         "YouTube"  Δy +10px (3055→3065)
+  PAIR         "Glassdoor"  Δy +10px (3107→3117)
+  PAIR         "utility links"  Δy +10px (3321→3331)
+  PAIR         "Legal notice and Terms of Use"  Δx -27px (417→390); Δy -10px (3343→3333)
+  PAIR         "Privacy notice"  Δx -27px (595→568); Δy -10px (3343→3333)
+  PAIR         "Site map"  Δx -26px (688→662); Δy -10px (3343→3333)
+  PAIR         "Contact us"  Δx -26px (754→728); Δy -10px (3343→3333)
+  PAIR         "Cookie preferences"  Δx -27px (830→803); Δy -10px (3343→3333)
+  PAIR         "© AstraZeneca 2026"  Δy +10px (3322→3332)
+
+✗ 43 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

@@ -1,0 +1,17 @@
+{
+  "variantName": "therapy-cards",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "description": "Revenue by therapy area: one bordered card per area with title, growth (green up / red down), revenue figure and description",
+  "visualCharacteristics": {
+    "purpose": "Revenue by therapy area: one bordered card per area with title, growth (green up / red down), revenue figure and description",
+    "appearance": "Bordered cards in a 3-up grid, growth coloured by arrow direction"
+  },
+  "contentPattern": {
+    "structure": "one row per card: title | growth | figure | description"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Therapy-area revenue in results releases",
+  "reuseGuidance": "Reuse for metric cards with a growth indicator; a growth starting with ▼ or minus shows as down"
+}

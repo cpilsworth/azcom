@@ -1,0 +1,53 @@
+/* section-nav — the source's #navbar in-page section bar (sticky, link hover inverts) */
+main > .section.section-nav-container {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+.section-nav {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.section-nav .section-nav-bar {
+  overflow: hidden;
+  background-color: var(--az-text);
+}
+
+.section-nav .section-nav-bar :is(ul, ol) {
+  display: flow-root;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.section-nav .section-nav-bar li {
+  float: left;
+}
+
+.section-nav .section-nav-bar p {
+  float: left;
+  margin: 0;
+}
+
+.section-nav .section-nav-bar a:any-link {
+  display: block;
+  padding: 14px;
+  color: #f2f2f2;
+  font: 400 16px/20px var(--font-lexia);
+  text-align: center;
+  text-decoration: none;
+}
+
+.section-nav .section-nav-bar a:any-link:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+@media (width >= 769px) {
+  main > .section.section-nav-container {
+    top: 40px;
+  }
+}

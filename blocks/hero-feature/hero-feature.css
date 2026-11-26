@@ -1,0 +1,79 @@
+/* hero-feature — from the results prototype (.hero-feature) */
+.hero-feature {
+  position: relative;
+  margin: 0 0 40px;
+}
+
+.hero-feature .hero-feature-cover {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+  background-color: var(--az-footer);
+}
+
+.hero-feature .hero-feature-cover :is(p, picture) {
+  display: block;
+  height: 100%;
+  margin: 0;
+  line-height: 0;
+}
+
+.hero-feature .hero-feature-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-feature .hero-feature-header {
+  width: 100%;
+  margin: 27px 0;
+  padding: 0 20px;
+  text-align: center;
+  color: var(--az-text);
+  font: italic 300 30px/36px var(--font-lexia);
+  letter-spacing: 0.9px;
+}
+
+.hero-feature .hero-feature-title {
+  position: relative;
+  max-width: var(--container);
+  margin: 0 auto;
+}
+
+.hero-feature .hero-feature-title :is(h1, h2) {
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+}
+
+@media (width >= 600px) {
+  .hero-feature {
+    margin-bottom: 60px;
+  }
+
+  .hero-feature .hero-feature-cover {
+    height: 375px;
+  }
+
+  .hero-feature .hero-feature-cover::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-color: rgb(27 27 27 / 60%);
+  }
+
+  .hero-feature .hero-feature-header {
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+    margin: 0;
+    padding: 0 60px;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 1.1px;
+  }
+}

@@ -1,0 +1,14 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html
+  shell     1280px  max-width #main > article > section.container > div.l-constrained  (tier 3, holds 99% of the text)
+  modules  2 sections: capped 1280 ×1, 1050 ×1 · full-bleed ×0
+  contentMaxWidth 1280px (shell) · shellMaxWidth 1280px · root #main
+build  http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html
+  shell     1280px  max-width #main > article > section.az-results  (tier 2, holds 99% of the text)
+  modules  2 sections: capped 1280 ×1, 1050 ×1 · full-bleed ×0
+  contentMaxWidth 1280px (shell) · shellMaxWidth 1280px · root #main
+rows
+  ✓ wrapper cap: live 1280px = build 1280px (±20)
+  ✓ module 1/2: 1280px = 1280px
+  ✓ module 2/2: 1050px = 1050px
+cap-probe: PASS at 2560 — 0 of 3 rows failed (evidence stardust/replica/gates/media-centre-press-releases-2026-h1-and-q2-2026-results-html-2560/cap-iter.json)

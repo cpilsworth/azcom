@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://
+  shell     1280px  max-width #main > article > section.container > div.l-constrained  (tier 3, holds 99% of the text)
+  content    818px  fixed     section.container > div.l-constrained > div.block-wrapper.pt-article__body > div.block.l-three-block-c2  (tier 5, holds 97% of the text)
+  modules  2 sections: capped 1280 ×1, 804 ×1 · full-bleed ×0
+  contentMaxWidth 818px (content) · shellMaxWidth 1280px · root #main
+build  http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html
+  shell     1280px  max-width #main > article > section.az-article  (tier 2, holds 99% of the text)
+  content    818px  fixed     #main > article > section.az-article > div.az-article__body  (tier 3, holds 97% of the text)
+  modules  2 sections: capped 1280 ×1, 804 ×1 · full-bleed ×0
+  contentMaxWidth 818px (content) · shellMaxWidth 1280px · root #main
+rows
+  ✓ wrapper cap: live 818px = build 818px (±20)
+  ⚠ outer shell: live 1280px (#main > article > section.container > div.l-constrained) encloses the 818px wrapper cap — informational, no content bound of its own
+  ✓ module 1/2: 1280px = 1280px
+  ✓ module 2/2: 804px = 804px
+cap-probe: PASS at 2560 — 0 of 4 rows failed (evidence stardust/replica/gates/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--2560/cap-iter.json)

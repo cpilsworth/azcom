@@ -1,0 +1,209 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics",
+  "writtenAt": "2026-11-10T15:46:53Z"
+ },
+ "method": "header behaviours rebuilt in the header block (chrome contract); leaving-site confirmation rebuilt as a native dialog fed by the /fragments/link-confirmation document; tags and consent carried over through the martech contract, all parts off",
+ "features": [
+  {
+   "id": "F1",
+   "feature": "header mega-menu",
+   "class": "M",
+   "pages": 2,
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "done",
+   "verifiedBy": "nav items rendered from the nav document; chrome-compare in C0",
+   "checks": [
+    {
+     "type": "dom-count",
+     "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+     "selector": "header .az-nav-item",
+     "min": 9
+    }
+   ]
+  },
+  {
+   "id": "F2",
+   "feature": "header drawer (mobile Menu)",
+   "class": "M",
+   "pages": 2,
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "done",
+   "verifiedBy": "menu button present on both archetypes",
+   "checks": [
+    {
+     "type": "dom-count",
+     "path": "/media-centre/press-releases/2026/h1-and-q2-2026-results",
+     "selector": "header button.az-header-button-menu",
+     "min": 1
+    }
+   ]
+  },
+  {
+   "id": "F3",
+   "feature": "site search (header form)",
+   "class": "S",
+   "pages": 2,
+   "disposition": "index-backed (interim: hand-off to source results)",
+   "reproducibility": "self",
+   "status": "interim",
+   "verifiedBy": "search form submits q to the source results page",
+   "owner": "decision D2: keep the hand-off to the source results page or build an index-backed search on the new site",
+   "checks": [
+    {
+     "type": "dom-count",
+     "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+     "selector": "header form[role=search] input[name=q]",
+     "min": 1
+    }
+   ]
+  },
+  {
+   "id": "F4",
+   "feature": "leaving-site confirmation (off-site links)",
+   "class": "M",
+   "pages": 2,
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "done",
+   "verifiedBy": "1440: panel 640x337 at (400,60), Cancel (440,305) 122x52, Continue (566,305) 141x52, close 60x60 at (980,60) — equal to the source; 360: full-screen sheet, buttons at y 345 as the source; Cancel and Escape close it; the source's unconfirmed AZ-owned hosts stay unconfirmed",
+   "checks": [
+    {
+     "type": "click-dialog",
+     "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+     "trigger": "main a[href*='thelancet']",
+     "headingIncludes": "leaving",
+     "minWidth": 600
+    },
+    {
+     "type": "click-dialog",
+     "path": "/media-centre/press-releases/2026/h1-and-q2-2026-results",
+     "trigger": "footer a[href*='linkedin.com']",
+     "headingIncludes": "leaving",
+     "minWidth": 600
+    }
+   ]
+  },
+  {
+   "id": "F5",
+   "feature": "Adobe PDF Embed viewer",
+   "class": "CR",
+   "pages": 1,
+   "disposition": "static-snapshot (as captured)",
+   "reproducibility": "needs-business-decision",
+   "status": "scaffolded-awaiting-owner",
+   "verifiedBy": "release links the PDFs directly, as captured",
+   "owner": "decision D3: wire the PDF Embed viewer (needs an Adobe client id for the new domain) or keep direct PDF links",
+   "checks": []
+  },
+  {
+   "id": "F6",
+   "feature": "dark-site flag",
+   "class": "D",
+   "pages": 2,
+   "disposition": "static-snapshot",
+   "reproducibility": "needs-business-decision",
+   "status": "scaffolded-awaiting-owner",
+   "verifiedBy": "not wired",
+   "owner": "decision D4: crisis-mode switch for the new site",
+   "checks": []
+  },
+  {
+   "id": "F7",
+   "feature": "Tealium tag manager",
+   "class": "T",
+   "pages": 2,
+   "disposition": "embed-passthrough (martech contract, off)",
+   "reproducibility": "needs-business-decision",
+   "status": "scaffolded-awaiting-owner",
+   "verifiedBy": "gate on both delivered pages, with and without ?martech=on: no request to policy.cookiereports.com, tags.tiqcdn.com",
+   "owner": "decision D1: enable the tealium route in the martech contract",
+   "checks": [
+    {
+     "type": "martech",
+     "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+     "mode": "gate",
+     "forbiddenHosts": [
+      "policy.cookiereports.com",
+      "tags.tiqcdn.com"
+     ],
+     "productionHosts": [
+      "www.astrazeneca.com"
+     ]
+    },
+    {
+     "type": "martech",
+     "path": "/media-centre/press-releases/2026/h1-and-q2-2026-results?martech=on",
+     "mode": "gate",
+     "forbiddenHosts": [
+      "policy.cookiereports.com",
+      "tags.tiqcdn.com"
+     ],
+     "productionHosts": [
+      "www.astrazeneca.com"
+     ]
+    }
+   ],
+   "environmentLimit": "the contract's own martech rows replay on '/', which this run redirects to the source home page (home is outside the fixed page scope), so that row measures the source site's tags, not this site"
+  },
+  {
+   "id": "F8",
+   "feature": "CookieReports consent panel",
+   "class": "T",
+   "pages": 2,
+   "disposition": "embed-passthrough (martech contract cmp, off)",
+   "reproducibility": "needs-business-decision",
+   "status": "scaffolded-awaiting-owner",
+   "verifiedBy": "gate on both delivered pages, with and without ?martech=on: no request to policy.cookiereports.com, tags.tiqcdn.com",
+   "owner": "decision D1: enable consent.cmp in the martech contract",
+   "checks": [
+    {
+     "type": "martech",
+     "path": "/media-centre/press-releases/2026/h1-and-q2-2026-results",
+     "mode": "gate",
+     "forbiddenHosts": [
+      "policy.cookiereports.com",
+      "tags.tiqcdn.com"
+     ],
+     "productionHosts": [
+      "www.astrazeneca.com"
+     ]
+    },
+    {
+     "type": "martech",
+     "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma?martech=on",
+     "mode": "gate",
+     "forbiddenHosts": [
+      "policy.cookiereports.com",
+      "tags.tiqcdn.com"
+     ],
+     "productionHosts": [
+      "www.astrazeneca.com"
+     ]
+    }
+   ],
+   "environmentLimit": "the contract's own martech rows replay on '/', which this run redirects to the source home page (home is outside the fixed page scope), so that row measures the source site's tags, not this site"
+  },
+  {
+   "id": "pages",
+   "feature": "no uncaught exceptions",
+   "class": "-",
+   "pages": 2,
+   "disposition": "-",
+   "reproducibility": "self",
+   "status": "done",
+   "verifiedBy": "both delivered paths",
+   "checks": [
+    {
+     "type": "no-page-errors",
+     "paths": [
+      "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+      "/media-centre/press-releases/2026/h1-and-q2-2026-results"
+     ]
+    }
+   ]
+  }
+ ]
+}

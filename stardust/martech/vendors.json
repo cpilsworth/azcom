@@ -1,0 +1,55 @@
+{
+ "pages": 3,
+ "vendors": [
+  {
+   "host": "rum.hlx.page",
+   "pages": 3,
+   "firstParty": false,
+   "role": null,
+   "class": null,
+   "inCsp": false
+  },
+  {
+   "host": "www.astrazeneca.com",
+   "pages": 3,
+   "firstParty": true,
+   "role": null,
+   "class": null,
+   "inCsp": false
+  },
+  {
+   "host": "policy.cookiereports.com",
+   "pages": 3,
+   "firstParty": false,
+   "role": null,
+   "class": null,
+   "inCsp": false
+  },
+  {
+   "host": "code.jquery.com",
+   "pages": 3,
+   "firstParty": false,
+   "role": "library CDN (not dynamic by itself)",
+   "class": "-",
+   "inCsp": false
+  },
+  {
+   "host": "cdnjs.cloudflare.com",
+   "pages": 3,
+   "firstParty": false,
+   "role": "library CDN (not dynamic by itself)",
+   "class": "-",
+   "inCsp": false
+  },
+  {
+   "host": "tags.tiqcdn.com",
+   "pages": 3,
+   "firstParty": false,
+   "role": "tag manager: Tealium",
+   "class": "T",
+   "inCsp": false
+  }
+ ],
+ "inline": {},
+ "cspHosts": []
+}

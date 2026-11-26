@@ -1,0 +1,17 @@
+{
+  "variantName": "pipeline-cards",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "description": "Pipeline highlight tiles: a large figure over a short caption on grey rounded tiles, 4-up to 1-up",
+  "visualCharacteristics": {
+    "purpose": "Pipeline highlight tiles: a large figure over a short caption on grey rounded tiles, 4-up to 1-up",
+    "appearance": "Grey rounded tiles, large figure, short caption, wraps 4-up to 1-up"
+  },
+  "contentPattern": {
+    "structure": "one row per tile: cell 1 figure as h3, cell 2 caption"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Pipeline highlights in results releases",
+  "reuseGuidance": "Reuse for any figure + caption tile grid"
+}

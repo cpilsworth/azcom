@@ -1,0 +1,815 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-10T12:35:07.014Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+    "http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main",
+      "isBody": false,
+      "leaves": 137,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "section.hero-feature.l-margin > div.hero-feature__wrapper > h1.hero-feature__header > div.l-constrained",
+        "tier": 7,
+        "share": 0.01,
+        "section": 0,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "shell",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "#main > article > section.container > div.l-constrained",
+        "tier": 3,
+        "share": 0.99,
+        "section": 1,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "module",
+        "px": 607,
+        "via": "fixed",
+        "selector": "div.l-constrained > div.wrapperPar.parsys > div.parsys_column.l-two-block > div.parsys_column.l-two-block-c0",
+        "tier": 13,
+        "share": 0.06,
+        "section": 1,
+        "w1": 607,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 509,
+        "via": "fixed",
+        "selector": "div.HTMLEmbed.section > div.pdfviewer.section > div.pdfviewer__wrapper > div.cmp-pdfviewer.js-cmp-pdfviewer",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 509,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 492,
+        "via": "fixed",
+        "selector": "div.HTMLEmbed.section > div.pdfviewer.section > div.pdfviewer__wrapper > div.cmp-pdfviewer.js-cmp-pdfviewer",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 492,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 590,
+        "via": "fixed",
+        "selector": "div.HTMLEmbed.section > div.pdfviewer.section > div.pdfviewer__wrapper > div.cmp-pdfviewer.js-cmp-pdfviewer",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 590,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 380,
+        "via": "fixed",
+        "selector": "div.parsys_column.l-two-block > div.parsys_column.l-two-block-c0 > div.callToAction.section > a.button.button--primary",
+        "tier": 15,
+        "share": 0.01,
+        "section": 1,
+        "w1": 380,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 607,
+        "via": "fixed",
+        "selector": "div.l-constrained > div.wrapperPar.parsys > div.parsys_column.l-two-block > div.parsys_column.l-two-block-c1",
+        "tier": 13,
+        "share": 0.13,
+        "section": 1,
+        "w1": 607,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.parsys_column.l-two-block-c1 > div.HTMLEmbed.section > div.statgrid > div.statcell",
+        "tier": 16,
+        "share": 0.01,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.parsys_column.l-two-block-c1 > div.HTMLEmbed.section > div.statgrid > div.statcell",
+        "tier": 16,
+        "share": 0.02,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.parsys_column.l-two-block-c1 > div.HTMLEmbed.section > div.statgrid > div.statcell",
+        "tier": 16,
+        "share": 0.03,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.parsys_column.l-two-block-c1 > div.HTMLEmbed.section > div.statgrid > div.statcell",
+        "tier": 16,
+        "share": 0.02,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > thead > tr > th",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 479,
+        "via": "fixed",
+        "selector": "table.fin-table > thead > tr > th",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 479,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 479,
+        "via": "fixed",
+        "selector": "table.fin-table > thead > tr > th",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 479,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1050,
+        "via": "fixed",
+        "selector": "div.wrapperPar.parsys > div.HTMLEmbed.section > div > div",
+        "tier": 14,
+        "share": 0.03,
+        "section": 1,
+        "w1": 1050,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 403,
+        "via": "fixed",
+        "selector": "div.wrapperPar.parsys > div.HTMLEmbed.section > div.therapy-grid > div.therapy-card",
+        "tier": 14,
+        "share": 0.03,
+        "section": 1,
+        "w1": 403,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 403,
+        "via": "fixed",
+        "selector": "div.wrapperPar.parsys > div.HTMLEmbed.section > div.therapy-grid > div.therapy-card",
+        "tier": 14,
+        "share": 0.03,
+        "section": 1,
+        "w1": 403,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 403,
+        "via": "fixed",
+        "selector": "div.wrapperPar.parsys > div.HTMLEmbed.section > div.therapy-grid > div.therapy-card",
+        "tier": 14,
+        "share": 0.03,
+        "section": 1,
+        "w1": 403,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 17,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 278,
+        "via": "fixed",
+        "selector": "div.wrapperPar.parsys > div.callToAction.section > div.button--center > a.button.button--primary",
+        "tier": 14,
+        "share": 0.01,
+        "section": 1,
+        "w1": 278,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 818,
+        "via": "fixed",
+        "selector": "section.container > div.l-constrained > div.block-wrapper.pt-article__body > div.block.l-three-block-c2",
+        "tier": 5,
+        "share": 0.01,
+        "section": 1,
+        "w1": 818,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main > article > section.container",
+        "px": 1280,
+        "capSelector": "section.hero-feature.l-margin > div.hero-feature__wrapper > h1.hero-feature__header > div.l-constrained"
+      },
+      {
+        "index": 1,
+        "selector": "#main > article > section.container",
+        "px": 1050,
+        "capSelector": "div.wrapperPar.parsys > div.HTMLEmbed.section > div > div"
+      }
+    ],
+    "shellMaxWidth": 1280,
+    "contentMaxWidth": 1280,
+    "contentFrom": "shell",
+    "maxCap": 1280,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 205
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "#main",
+      "isBody": false,
+      "leaves": 137,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "article > section.hero-feature > h1.hero-feature__header > span.l-constrained",
+        "tier": 4,
+        "share": 0.01,
+        "section": 0,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "shell",
+        "px": 1280,
+        "via": "max-width",
+        "selector": "#main > article > section.az-results",
+        "tier": 2,
+        "share": 0.99,
+        "section": 1,
+        "w1": 1280,
+        "maxWidth": "1280px"
+      },
+      {
+        "kind": "module",
+        "px": 607,
+        "via": "fixed",
+        "selector": "div.az-results__main > div.contentWrapper > div.l-two-block > div.l-two-block-c0",
+        "tier": 6,
+        "share": 0.06,
+        "section": 1,
+        "w1": 607,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 509,
+        "via": "fixed",
+        "selector": "div.l-two-block-c0 > div.az-embed > div.pdfviewer__wrapper > div.cmp-pdfviewer",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 509,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 492,
+        "via": "fixed",
+        "selector": "div.l-two-block-c0 > div.az-embed > div.pdfviewer__wrapper > div.cmp-pdfviewer",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 492,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 590,
+        "via": "fixed",
+        "selector": "div.l-two-block-c0 > div.az-embed > div.pdfviewer__wrapper > div.cmp-pdfviewer",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 590,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 380,
+        "via": "fixed",
+        "selector": "div.l-two-block > div.l-two-block-c0 > div.callToAction > a.button.button--primary",
+        "tier": 8,
+        "share": 0.01,
+        "section": 1,
+        "w1": 380,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 607,
+        "via": "fixed",
+        "selector": "div.az-results__main > div.contentWrapper > div.l-two-block > div.l-two-block-c1",
+        "tier": 6,
+        "share": 0.13,
+        "section": 1,
+        "w1": 607,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.l-two-block-c1 > div.az-embed > div.statgrid > div.statcell",
+        "tier": 9,
+        "share": 0.01,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.l-two-block-c1 > div.az-embed > div.statgrid > div.statcell",
+        "tier": 9,
+        "share": 0.02,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.l-two-block-c1 > div.az-embed > div.statgrid > div.statcell",
+        "tier": 9,
+        "share": 0.03,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 302,
+        "via": "fixed",
+        "selector": "div.l-two-block-c1 > div.az-embed > div.statgrid > div.statcell",
+        "tier": 9,
+        "share": 0.02,
+        "section": 1,
+        "w1": 302,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > thead > tr > th",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 479,
+        "via": "fixed",
+        "selector": "table.fin-table > thead > tr > th",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 479,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 479,
+        "via": "fixed",
+        "selector": "table.fin-table > thead > tr > th",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 479,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 280,
+        "via": "fixed",
+        "selector": "table.fin-table > tbody > tr > td",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 280,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1050,
+        "via": "fixed",
+        "selector": "div.contentWrapper > div.az-embed > div.az-guidance > div",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 1050,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 403,
+        "via": "fixed",
+        "selector": "div.contentWrapper > div.az-embed > div.therapy-grid > div.therapy-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 403,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 403,
+        "via": "fixed",
+        "selector": "div.contentWrapper > div.az-embed > div.therapy-grid > div.therapy-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 403,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 403,
+        "via": "fixed",
+        "selector": "div.contentWrapper > div.az-embed > div.therapy-grid > div.therapy-card",
+        "tier": 7,
+        "share": 0.03,
+        "section": 1,
+        "w1": 403,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 295,
+        "via": "fixed",
+        "selector": "div.two-col > div.col > div.pipeline-grid > div.pipeline-card",
+        "tier": 10,
+        "share": 0.01,
+        "section": 1,
+        "w1": 295,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 278,
+        "via": "fixed",
+        "selector": "div.contentWrapper > div.callToAction > div.button--center > a.button.button--primary",
+        "tier": 7,
+        "share": 0.01,
+        "section": 1,
+        "w1": 278,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 818,
+        "via": "fixed",
+        "selector": "#main > article > section.az-results > div.az-results__aside",
+        "tier": 3,
+        "share": 0.01,
+        "section": 1,
+        "w1": 818,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#main > article > section.hero-feature",
+        "px": 1280,
+        "capSelector": "article > section.hero-feature > h1.hero-feature__header > span.l-constrained"
+      },
+      {
+        "index": 1,
+        "selector": "#main > article > section.az-results",
+        "px": 1050,
+        "capSelector": "div.contentWrapper > div.az-embed > div.az-guidance > div"
+      }
+    ],
+    "shellMaxWidth": 1280,
+    "contentMaxWidth": 1280,
+    "contentFrom": "shell",
+    "maxCap": 1280,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 161
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 1280px = build 1280px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "1280px = 1280px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "1050px = 1050px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/media-centre-press-releases-2026-h1-and-q2-2026-results-html-2560/cap-iter.json"
+}

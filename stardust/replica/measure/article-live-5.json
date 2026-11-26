@@ -1,0 +1,277 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-10T12:17:49.981Z",
+    "urls": [
+      "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ],
+    "widths": [
+      360
+    ],
+    "selectors": [
+      ".footer__utility-link",
+      ".footer__utility-link a"
+    ],
+    "props": [
+      "width",
+      "height",
+      "margin",
+      "padding",
+      "fontSize",
+      "lineHeight",
+      "display",
+      "float"
+    ],
+    "allMatches": true,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    360
+  ],
+  "selectors": [
+    ".footer__utility-link",
+    ".footer__utility-link a"
+  ],
+  "root": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 6331,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://": {
+      "360": {
+        ".footer__utility-link": [
+          {
+            "index": 0,
+            "of": 5,
+            "rect": {
+              "x": 20,
+              "y": 6103,
+              "w": 157,
+              "h": 55
+            },
+            "visible": true,
+            "text": "Legal notice and Terms of Use",
+            "props": {
+              "width": "156.594px",
+              "height": "55px",
+              "margin": "0px",
+              "padding": "15px 0px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "display": "list-item",
+              "float": "left"
+            }
+          },
+          {
+            "index": 1,
+            "of": 5,
+            "rect": {
+              "x": 183,
+              "y": 6103,
+              "w": 157,
+              "h": 35
+            },
+            "visible": true,
+            "text": "Privacy notice",
+            "props": {
+              "width": "156.594px",
+              "height": "35px",
+              "margin": "0px",
+              "padding": "15px 0px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "display": "list-item",
+              "float": "right"
+            }
+          },
+          {
+            "index": 2,
+            "of": 5,
+            "rect": {
+              "x": 177,
+              "y": 6138,
+              "w": 157,
+              "h": 35
+            },
+            "visible": true,
+            "text": "Site map",
+            "props": {
+              "width": "156.594px",
+              "height": "35px",
+              "margin": "0px",
+              "padding": "15px 0px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "display": "list-item",
+              "float": "left"
+            }
+          },
+          {
+            "index": 3,
+            "of": 5,
+            "rect": {
+              "x": 183,
+              "y": 6173,
+              "w": 157,
+              "h": 35
+            },
+            "visible": true,
+            "text": "Contact us",
+            "props": {
+              "width": "156.594px",
+              "height": "35px",
+              "margin": "0px",
+              "padding": "15px 0px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "display": "list-item",
+              "float": "right"
+            }
+          },
+          {
+            "index": 4,
+            "of": 5,
+            "rect": {
+              "x": 20,
+              "y": 6208,
+              "w": 157,
+              "h": 35
+            },
+            "visible": true,
+            "text": "Cookie preferences",
+            "props": {
+              "width": "156.594px",
+              "height": "35px",
+              "margin": "0px",
+              "padding": "15px 0px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "display": "list-item",
+              "float": "left"
+            }
+          }
+        ],
+        ".footer__utility-link a": [
+          {
+            "index": 0,
+            "of": 5,
+            "rect": {
+              "x": 20,
+              "y": 6124,
+              "w": 134,
+              "h": 31
+            },
+            "visible": true,
+            "text": "Legal notice and Terms of Use",
+            "props": {
+              "width": "auto",
+              "height": "auto",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "10px",
+              "lineHeight": "13px",
+              "display": "inline",
+              "float": "none"
+            }
+          },
+          {
+            "index": 1,
+            "of": 5,
+            "rect": {
+              "x": 183,
+              "y": 6124,
+              "w": 73,
+              "h": 11
+            },
+            "visible": true,
+            "text": "Privacy notice",
+            "props": {
+              "width": "auto",
+              "height": "auto",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "10px",
+              "lineHeight": "13px",
+              "display": "inline",
+              "float": "none"
+            }
+          },
+          {
+            "index": 2,
+            "of": 5,
+            "rect": {
+              "x": 177,
+              "y": 6159,
+              "w": 46,
+              "h": 11
+            },
+            "visible": true,
+            "text": "Site map",
+            "props": {
+              "width": "auto",
+              "height": "auto",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "10px",
+              "lineHeight": "13px",
+              "display": "inline",
+              "float": "none"
+            }
+          },
+          {
+            "index": 3,
+            "of": 5,
+            "rect": {
+              "x": 183,
+              "y": 6194,
+              "w": 56,
+              "h": 11
+            },
+            "visible": true,
+            "text": "Contact us",
+            "props": {
+              "width": "auto",
+              "height": "auto",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "10px",
+              "lineHeight": "13px",
+              "display": "inline",
+              "float": "none"
+            }
+          },
+          {
+            "index": 4,
+            "of": 5,
+            "rect": {
+              "x": 20,
+              "y": 6229,
+              "w": 101,
+              "h": 11
+            },
+            "visible": true,
+            "text": "Cookie preferences",
+            "props": {
+              "width": "auto",
+              "height": "auto",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "10px",
+              "lineHeight": "13px",
+              "display": "inline",
+              "float": "none"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

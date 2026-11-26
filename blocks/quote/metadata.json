@@ -1,0 +1,17 @@
+{
+  "variantName": "quote",
+  "baseBlock": "quote",
+  "canonicalModel": "standalone",
+  "description": "Pull quote between two rules with quote marks and an attribution (name, then role)",
+  "visualCharacteristics": {
+    "purpose": "Pull quote between two rules with quote marks and an attribution (name, then role)",
+    "appearance": "Large quote text between horizontal rules, opening/closing marks, attribution below"
+  },
+  "contentPattern": {
+    "structure": "row 1 quote paragraph; row 2 author name (optional); row 3 author role (optional)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Executive quotes in press releases",
+  "reuseGuidance": "Reuse for any attributed pull quote"
+}

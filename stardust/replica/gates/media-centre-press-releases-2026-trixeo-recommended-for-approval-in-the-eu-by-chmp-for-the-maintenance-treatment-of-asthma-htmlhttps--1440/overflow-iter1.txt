@@ -1,0 +1,8 @@
+measure  http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html
+  widths 1440 · 1 selector(s) · 1 props · first match
+
+@ 1440px
+  root  scrollWidth  1440  viewport 1440  scrollHeight   3302
+  html
+       x     0  y      0  w  1440  h  3302  vis  "Skip to content Skip to navigation Skip…"
+      display: block

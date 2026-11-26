@@ -1,0 +1,160 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout",
+    "writtenAt": "2026-11-10T12:42:46Z",
+    "stardustVersion": "0.37.1"
+  },
+  "site": {
+    "originUrl": "https://www.astrazeneca.com/",
+    "deployUrl": "https://main--919093c1--aemcoder.aem.page/",
+    "extractedAt": "2026-11-10T11:33:02.495Z",
+    "pageCap": null,
+    "totalDiscovered": 2,
+    "crawled": 2,
+    "captureGaps": []
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-10T11:33:02.495Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+      "title": "Trixeo recommended for approval in the EU by CHMP for the maintenance treatment of asthma",
+      "type": "article",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-10T11:32:28.149Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-10T12:23:49Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-10T12:23:50Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-10T12:39:14Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-10T12:42:46Z"
+        },
+        {
+          "at": "2026-11-10T14:22:20.028Z",
+          "status": "deployed",
+          "by": "archetype-article"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-.json",
+      "prototypePath": "stardust/prototypes/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html",
+      "migratedPath": "stardust/migrated/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.html",
+      "liveUrl": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma"
+    },
+    {
+      "slug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "title": "H1 and Q2 2026 results",
+      "type": "unique",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-10T11:32:28.807Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-10T12:36:21Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-10T12:39:14Z"
+        },
+        {
+          "at": "2026-11-10T14:07:33.501Z",
+          "status": "deployed",
+          "by": "archetype-unique"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/media-centre-press-releases-2026-h1-and-q2-2026-results-html.json",
+      "prototypePath": "stardust/prototypes/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html",
+      "migratedPath": "stardust/migrated/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "liveUrl": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results"
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-10T12:38:28Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+        "outputPath": "media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://index.html",
+        "slug": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+        "outputPath": "media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+        "slug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 17,
+    "bundledAssets": [
+      "AZ2045-ipad-450x2501.webp",
+      "AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+      "AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+      "AZ_Clinical_Innovation_RGB_Landscape-1200.jpg",
+      "AZ_Clinical_Innovation_RGB_Landscape-480.jpg",
+      "AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+      "OI-helix-hero-450x250.webp",
+      "Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+      "article.css",
+      "az-webfont.woff2",
+      "canon.css",
+      "chrome.js",
+      "favicon.ico",
+      "logo-az-white.png",
+      "logo-az.png",
+      "results.css",
+      "results.js"
+    ],
+    "pages": [
+      {
+        "slug": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+        "file": "stardust/migrated/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://index.html",
+        "assetsBundled": 13
+      },
+      {
+        "slug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+        "file": "stardust/migrated/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+        "assetsBundled": 14
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-10T12:38:28Z",
+      "rendered": [
+        "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+        "media-centre-press-releases-2026-h1-and-q2-2026-results-html"
+      ],
+      "unchanged": [],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

@@ -1,0 +1,4615 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-10T12:31:22.525Z",
+    "urls": [
+      "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "selectors": [
+      ".contentWrapper h2",
+      ".l-two-block-c0 h3",
+      ".cmp-pdfviewer__button .button",
+      ".callToAction a.button",
+      ".rich-text.l-margin",
+      ".tags",
+      ".az-container",
+      ".therapy-grid",
+      ".fin-table-wrapper",
+      ".pipeline-card p"
+    ],
+    "props": [
+      "display",
+      "position",
+      "boxSizing",
+      "width",
+      "height",
+      "maxWidth",
+      "margin",
+      "padding",
+      "gap",
+      "backgroundColor",
+      "backgroundImage",
+      "color",
+      "fontFamily",
+      "fontSize",
+      "fontWeight",
+      "lineHeight",
+      "letterSpacing",
+      "textTransform",
+      "textAlign",
+      "borderRadius",
+      "border",
+      "boxShadow",
+      "opacity",
+      "objectFit"
+    ],
+    "allMatches": true,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440,
+    360
+  ],
+  "selectors": [
+    ".contentWrapper h2",
+    ".l-two-block-c0 h3",
+    ".cmp-pdfviewer__button .button",
+    ".callToAction a.button",
+    ".rich-text.l-margin",
+    ".tags",
+    ".az-container",
+    ".therapy-grid",
+    ".fin-table-wrapper",
+    ".pipeline-card p"
+  ],
+  "root": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 6856,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 3945,
+        "overflowX": 0
+      }
+    },
+    "http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html": {
+      "360": {
+        "viewport": 360,
+        "clientWidth": 360,
+        "scrollWidth": 360,
+        "scrollHeight": 6843,
+        "overflowX": 0
+      },
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 3967,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html": {
+      "360": {
+        ".contentWrapper h2": [
+          {
+            "index": 0,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 725,
+              "w": 320,
+              "h": 161
+            },
+            "visible": true,
+            "text": "Growth momentum continues. On track to …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "160.938px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "32.1905px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 1510,
+              "w": 310,
+              "h": 26
+            },
+            "visible": true,
+            "text": "Downloads",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "310px",
+              "height": "26px",
+              "maxWidth": "none",
+              "margin": "10px 10px 10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "21px",
+              "fontWeight": "400",
+              "lineHeight": "26px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 2130,
+              "w": 320,
+              "h": 64
+            },
+            "visible": true,
+            "text": "Key performance elements for H1 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "64.375px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "32.1905px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 2762,
+              "w": 320,
+              "h": 52
+            },
+            "visible": true,
+            "text": "How did AstraZeneca perform financially?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "21px",
+              "fontWeight": "400",
+              "lineHeight": "26px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 4,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 3766,
+              "w": 320,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Which Therapy Areas drove growth?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "21px",
+              "fontWeight": "400",
+              "lineHeight": "26px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 5,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 4425,
+              "w": 320,
+              "h": 52
+            },
+            "visible": true,
+            "text": "What were the pipeline highlights?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "21px",
+              "fontWeight": "400",
+              "lineHeight": "26px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-two-block-c0 h3": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1546,
+              "w": 320,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Announcement",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1700,
+              "w": 320,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Presentation",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1854,
+              "w": 320,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Clinical trials appendix",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".cmp-pdfviewer__button .button": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1588,
+              "w": 320,
+              "h": 72
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results anno…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1742,
+              "w": 320,
+              "h": 72
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results pres…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1896,
+              "w": 320,
+              "h": 92
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results clin…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "92px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".callToAction a.button": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 20,
+              "y": 2028,
+              "w": 320,
+              "h": 72
+            },
+            "visible": true,
+            "text": "Explore our clinical trials appendix",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 2,
+            "rect": {
+              "x": 41,
+              "y": 5247,
+              "w": 278,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the full pipeline",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "277.969px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text.l-margin": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 5364,
+              "w": 320,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Matthew Bowden Company Secretary AstraZ…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "0px 0px 40px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".tags": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 6054,
+              "w": 320,
+              "h": 49
+            },
+            "visible": true,
+            "text": "tags Corporate and financial",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "49px",
+              "maxWidth": "none",
+              "margin": "15px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".az-container": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 4487,
+              "w": 320,
+              "h": 739
+            },
+            "visible": true,
+            "text": "183 projects in our pipeline 116 new mo…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "739.188px",
+              "maxWidth": "1280px",
+              "margin": "-10px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".therapy-grid": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 3888,
+              "w": 320,
+              "h": 487
+            },
+            "visible": true,
+            "text": "Oncology ▲ 15% $14.1bn 46% of revenue a…",
+            "props": {
+              "display": "grid",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "487.25px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "16px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".fin-table-wrapper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 2834,
+              "w": 320,
+              "h": 575
+            },
+            "visible": true,
+            "text": "Revenue and EPS Summary H1 2026 Q2 2026…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "574.5px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "8px",
+              "border": "1px solid rgb(226, 230, 234)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".pipeline-card p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 4603,
+              "w": 288,
+              "h": 20
+            },
+            "visible": true,
+            "text": "projects in our pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 4775,
+              "w": 288,
+              "h": 40
+            },
+            "visible": true,
+            "text": "new molecular entities (NMEs) or major …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "40px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 4967,
+              "w": 288,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs in our late-stage pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 5139,
+              "w": 288,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs under review",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".contentWrapper h2": [
+          {
+            "index": 0,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 808,
+              "w": 1240,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Growth momentum continues. On track to …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "33.9062px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "33.913px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 1228,
+              "w": 607,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Downloads",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "23px",
+              "fontWeight": "400",
+              "lineHeight": "30px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 6,
+            "rect": {
+              "x": 733,
+              "y": 1248,
+              "w": 607,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Key performance elements for H1 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "33.9062px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "33.913px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 1789,
+              "w": 1240,
+              "h": 30
+            },
+            "visible": true,
+            "text": "How did AstraZeneca perform financially?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "23px",
+              "fontWeight": "400",
+              "lineHeight": "30px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 4,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 2409,
+              "w": 1240,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Which Therapy Areas drove growth?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "23px",
+              "fontWeight": "400",
+              "lineHeight": "30px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 5,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 2691,
+              "w": 1240,
+              "h": 30
+            },
+            "visible": true,
+            "text": "What were the pipeline highlights?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "23px",
+              "fontWeight": "400",
+              "lineHeight": "30px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-two-block-c0 h3": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1268,
+              "w": 607,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Announcement",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "0.7px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1382,
+              "w": 607,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Presentation",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "0.7px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1496,
+              "w": 607,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Clinical trials appendix",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "0.7px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".cmp-pdfviewer__button .button": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1310,
+              "w": 509,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results anno…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "509.016px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1424,
+              "w": 492,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results pres…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "492.25px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1538,
+              "w": 590,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results clin…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "589.625px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".callToAction a.button": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 100,
+              "y": 1610,
+              "w": 380,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore our clinical trials appendix",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "380.375px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 2,
+            "rect": {
+              "x": 581,
+              "y": 2994,
+              "w": 278,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the full pipeline",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "277.969px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text.l-margin": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 3111,
+              "w": 1240,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Matthew Bowden Company Secretary AstraZ…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "0px 0px 60px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".tags": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 311,
+              "y": 3476,
+              "w": 818,
+              "h": 39
+            },
+            "visible": true,
+            "text": "tags Corporate and financial",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "817.859px",
+              "height": "39px",
+              "maxWidth": "none",
+              "margin": "15px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".az-container": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 2731,
+              "w": 1240,
+              "h": 243
+            },
+            "visible": true,
+            "text": "183 projects in our pipeline 116 new mo…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "243.188px",
+              "maxWidth": "1280px",
+              "margin": "-10px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".therapy-grid": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 2489,
+              "w": 1240,
+              "h": 152
+            },
+            "visible": true,
+            "text": "Oncology ▲ 15% $14.1bn 46% of revenue a…",
+            "props": {
+              "display": "grid",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "151.75px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "16px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".fin-table-wrapper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 1839,
+              "w": 1240,
+              "h": 411
+            },
+            "visible": true,
+            "text": "Revenue and EPS Summary H1 2026 Q2 2026…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "410.75px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, Times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "8px",
+              "border": "1px solid rgb(226, 230, 234)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".pipeline-card p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 116,
+              "y": 2846,
+              "w": 263,
+              "h": 20
+            },
+            "visible": true,
+            "text": "projects in our pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 4,
+            "rect": {
+              "x": 431,
+              "y": 2846,
+              "w": 263,
+              "h": 60
+            },
+            "visible": true,
+            "text": "new molecular entities (NMEs) or major …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 4,
+            "rect": {
+              "x": 746,
+              "y": 2846,
+              "w": 263,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs in our late-stage pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 4,
+            "rect": {
+              "x": 1061,
+              "y": 2846,
+              "w": 263,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs under review",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      }
+    },
+    "http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html": {
+      "360": {
+        ".contentWrapper h2": [
+          {
+            "index": 0,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 725,
+              "w": 320,
+              "h": 161
+            },
+            "visible": true,
+            "text": "Growth momentum continues. On track to …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "160.938px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "32.1905px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 1510,
+              "w": 310,
+              "h": 26
+            },
+            "visible": true,
+            "text": "Downloads",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "310px",
+              "height": "26px",
+              "maxWidth": "none",
+              "margin": "10px 10px 10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "21px",
+              "fontWeight": "400",
+              "lineHeight": "26px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 2070,
+              "w": 320,
+              "h": 64
+            },
+            "visible": true,
+            "text": "Key performance elements for H1 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "64.375px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "32.1905px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 2702,
+              "w": 320,
+              "h": 64
+            },
+            "visible": true,
+            "text": "How did AstraZeneca perform financially?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "64.375px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "32.1905px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 4,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 3718,
+              "w": 320,
+              "h": 64
+            },
+            "visible": true,
+            "text": "Which Therapy Areas drove growth?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "64.375px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "32.1905px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 5,
+            "of": 6,
+            "rect": {
+              "x": 20,
+              "y": 4390,
+              "w": 320,
+              "h": 64
+            },
+            "visible": true,
+            "text": "What were the pipeline highlights?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "64.375px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "32.1905px",
+              "letterSpacing": "0.03px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-two-block-c0 h3": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1546,
+              "w": 320,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Announcement",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1680,
+              "w": 320,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Presentation",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1814,
+              "w": 320,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Clinical trials appendix",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "1px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".cmp-pdfviewer__button .button": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1588,
+              "w": 320,
+              "h": 72
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results anno…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1722,
+              "w": 320,
+              "h": 72
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results pres…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 20,
+              "y": 1856,
+              "w": 320,
+              "h": 92
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results clin…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "92px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".callToAction a.button": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 20,
+              "y": 1968,
+              "w": 320,
+              "h": 72
+            },
+            "visible": true,
+            "text": "Explore our clinical trials appendix",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "72px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 2,
+            "rect": {
+              "x": 41,
+              "y": 5224,
+              "w": 278,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the full pipeline",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "277.969px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text.l-margin": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 5341,
+              "w": 320,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Matthew Bowden Company Secretary AstraZ…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "0px 0px 40px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", helvetica, arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".tags": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 6041,
+              "w": 320,
+              "h": 49
+            },
+            "visible": true,
+            "text": "tags Corporate and financial",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "49px",
+              "maxWidth": "none",
+              "margin": "15px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", helvetica, arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".az-container": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 4464,
+              "w": 320,
+              "h": 739
+            },
+            "visible": true,
+            "text": "183 projects in our pipeline 116 new mo…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "739.188px",
+              "maxWidth": "1280px",
+              "margin": "-10px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".therapy-grid": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 3853,
+              "w": 320,
+              "h": 487
+            },
+            "visible": true,
+            "text": "Oncology ▲ 15% $14.1bn 46% of revenue a…",
+            "props": {
+              "display": "grid",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "487.25px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "16px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".fin-table-wrapper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 20,
+              "y": 2786,
+              "w": 320,
+              "h": 575
+            },
+            "visible": true,
+            "text": "Revenue and EPS Summary H1 2026 Q2 2026…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "320px",
+              "height": "574.5px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "8px",
+              "border": "1px solid rgb(226, 230, 234)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".pipeline-card p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 4580,
+              "w": 288,
+              "h": 20
+            },
+            "visible": true,
+            "text": "projects in our pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 4752,
+              "w": 288,
+              "h": 40
+            },
+            "visible": true,
+            "text": "new molecular entities (NMEs) or major …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "40px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 4944,
+              "w": 288,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs in our late-stage pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 4,
+            "rect": {
+              "x": 36,
+              "y": 5116,
+              "w": 288,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs under review",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "288px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      },
+      "1440": {
+        ".contentWrapper h2": [
+          {
+            "index": 0,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 808,
+              "w": 1240,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Growth momentum continues. On track to …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "33.9062px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "33.913px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 1228,
+              "w": 607,
+              "h": 30
+            },
+            "visible": true,
+            "text": "Downloads",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "30px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "23px",
+              "fontWeight": "400",
+              "lineHeight": "30px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 6,
+            "rect": {
+              "x": 733,
+              "y": 1248,
+              "w": 607,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Key performance elements for H1 2026",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "33.9062px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "33.913px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 1789,
+              "w": 1240,
+              "h": 34
+            },
+            "visible": true,
+            "text": "How did AstraZeneca perform financially?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "33.9062px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "33.913px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 4,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 2413,
+              "w": 1240,
+              "h": 34
+            },
+            "visible": true,
+            "text": "Which Therapy Areas drove growth?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "33.9062px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "33.913px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 5,
+            "of": 6,
+            "rect": {
+              "x": 100,
+              "y": 2699,
+              "w": 1240,
+              "h": 34
+            },
+            "visible": true,
+            "text": "What were the pipeline highlights?",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "33.9062px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(131, 0, 81)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "26px",
+              "fontWeight": "400",
+              "lineHeight": "33.913px",
+              "letterSpacing": "0.6px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(131, 0, 81)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".l-two-block-c0 h3": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1268,
+              "w": 607,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Announcement",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "0.7px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1382,
+              "w": 607,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Presentation",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "0.7px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1496,
+              "w": 607,
+              "h": 22
+            },
+            "visible": true,
+            "text": "Clinical trials appendix",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "606.797px",
+              "height": "22px",
+              "maxWidth": "none",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "18px",
+              "fontWeight": "300",
+              "lineHeight": "22px",
+              "letterSpacing": "0.7px",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".cmp-pdfviewer__button .button": [
+          {
+            "index": 0,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1310,
+              "w": 509,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results anno…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "509.016px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1424,
+              "w": 492,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results pres…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "492.25px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 3,
+            "rect": {
+              "x": 100,
+              "y": 1538,
+              "w": 590,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the H1 and Q2 2026 results clin…",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "589.625px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".callToAction a.button": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 100,
+              "y": 1610,
+              "w": 380,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore our clinical trials appendix",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "380.375px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 2,
+            "rect": {
+              "x": 581,
+              "y": 3006,
+              "w": 278,
+              "h": 52
+            },
+            "visible": true,
+            "text": "Explore the full pipeline",
+            "props": {
+              "display": "inline-block",
+              "position": "relative",
+              "boxSizing": "border-box",
+              "width": "277.969px",
+              "height": "52px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "15px 45px 15px 15px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(60, 66, 66)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "700",
+              "lineHeight": "20px",
+              "letterSpacing": "1.4px",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "2px",
+              "border": "1px solid rgb(60, 66, 66)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".rich-text.l-margin": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 3123,
+              "w": 1240,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Matthew Bowden Company Secretary AstraZ…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "0px 0px 60px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", helvetica, arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".tags": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 311,
+              "y": 3498,
+              "w": 818,
+              "h": 39
+            },
+            "visible": true,
+            "text": "tags Corporate and financial",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "817.891px",
+              "height": "39px",
+              "maxWidth": "none",
+              "margin": "15px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "\"Helvetica Neue\", helvetica, arial, sans-serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".az-container": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 2743,
+              "w": 1240,
+              "h": 243
+            },
+            "visible": true,
+            "text": "183 projects in our pipeline 116 new mo…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "243.188px",
+              "maxWidth": "1280px",
+              "margin": "-10px 0px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "24px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".therapy-grid": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 2497,
+              "w": 1240,
+              "h": 152
+            },
+            "visible": true,
+            "text": "Oncology ▲ 15% $14.1bn 46% of revenue a…",
+            "props": {
+              "display": "grid",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "151.75px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "16px",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "start",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".fin-table-wrapper": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 1843,
+              "w": 1240,
+              "h": 411
+            },
+            "visible": true,
+            "text": "Revenue and EPS Summary H1 2026 Q2 2026…",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "1240px",
+              "height": "410.75px",
+              "maxWidth": "none",
+              "margin": "0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgb(255, 255, 255)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "lexia, times, \"Times New Roman\", serif",
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "lineHeight": "20px",
+              "letterSpacing": "normal",
+              "textTransform": "none",
+              "textAlign": "left",
+              "borderRadius": "8px",
+              "border": "1px solid rgb(226, 230, 234)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ],
+        ".pipeline-card p": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 116,
+              "y": 2858,
+              "w": 263,
+              "h": 20
+            },
+            "visible": true,
+            "text": "projects in our pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 1,
+            "of": 4,
+            "rect": {
+              "x": 431,
+              "y": 2858,
+              "w": 263,
+              "h": 60
+            },
+            "visible": true,
+            "text": "new molecular entities (NMEs) or major …",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "60px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 2,
+            "of": 4,
+            "rect": {
+              "x": 746,
+              "y": 2858,
+              "w": 263,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs in our late-stage pipeline",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          },
+          {
+            "index": 3,
+            "of": 4,
+            "rect": {
+              "x": 1061,
+              "y": 2858,
+              "w": 263,
+              "h": 20
+            },
+            "visible": true,
+            "text": "NMEs under review",
+            "props": {
+              "display": "block",
+              "position": "static",
+              "boxSizing": "border-box",
+              "width": "263px",
+              "height": "20px",
+              "maxWidth": "none",
+              "margin": "20px 0px",
+              "padding": "0px",
+              "gap": "normal",
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "backgroundImage": "none",
+              "color": "rgb(0, 0, 0)",
+              "fontFamily": "Lexia, Times, serif",
+              "fontSize": "14px",
+              "fontWeight": "300",
+              "lineHeight": "20px",
+              "letterSpacing": "0.3px",
+              "textTransform": "none",
+              "textAlign": "center",
+              "borderRadius": "0px",
+              "border": "0px none rgb(0, 0, 0)",
+              "boxShadow": "none",
+              "opacity": "1",
+              "objectFit": "fill"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "deltas": {
+    "360": {
+      ".contentWrapper h2": {
+        "status": "ok",
+        "countA": 6,
+        "countB": 6,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": -60,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": -60,
+              "dw": 0,
+              "dh": 12
+            },
+            "props": {
+              "height": [
+                "52px",
+                "64.375px"
+              ],
+              "color": [
+                "rgb(60, 66, 66)",
+                "rgb(131, 0, 81)"
+              ],
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ],
+              "fontSize": [
+                "21px",
+                "26px"
+              ],
+              "lineHeight": [
+                "26px",
+                "32.1905px"
+              ],
+              "border": [
+                "0px none rgb(60, 66, 66)",
+                "0px none rgb(131, 0, 81)"
+              ]
+            }
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 0,
+              "dy": -48,
+              "dw": 0,
+              "dh": 12
+            },
+            "props": {
+              "height": [
+                "52px",
+                "64.375px"
+              ],
+              "color": [
+                "rgb(60, 66, 66)",
+                "rgb(131, 0, 81)"
+              ],
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ],
+              "fontSize": [
+                "21px",
+                "26px"
+              ],
+              "lineHeight": [
+                "26px",
+                "32.1905px"
+              ],
+              "border": [
+                "0px none rgb(60, 66, 66)",
+                "0px none rgb(131, 0, 81)"
+              ]
+            }
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 0,
+              "dy": -35,
+              "dw": 0,
+              "dh": 12
+            },
+            "props": {
+              "height": [
+                "52px",
+                "64.375px"
+              ],
+              "color": [
+                "rgb(60, 66, 66)",
+                "rgb(131, 0, 81)"
+              ],
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ],
+              "fontSize": [
+                "21px",
+                "26px"
+              ],
+              "lineHeight": [
+                "26px",
+                "32.1905px"
+              ],
+              "border": [
+                "0px none rgb(60, 66, 66)",
+                "0px none rgb(131, 0, 81)"
+              ]
+            }
+          }
+        ]
+      },
+      ".l-two-block-c0 h3": {
+        "status": "ok",
+        "countA": 3,
+        "countB": 3,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": -20,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": -40,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".cmp-pdfviewer__button .button": {
+        "status": "ok",
+        "countA": 3,
+        "countB": 3,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": -20,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": -40,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".callToAction a.button": {
+        "status": "ok",
+        "countA": 2,
+        "countB": 2,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -60,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": -23,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".rich-text.l-margin": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -23,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                "\"Helvetica Neue\", helvetica, arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".tags": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -13,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                "\"Helvetica Neue\", helvetica, arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".az-container": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -23,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".therapy-grid": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -35,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".fin-table-wrapper": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -48,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".pipeline-card p": {
+        "status": "ok",
+        "countA": 4,
+        "countB": 4,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": -23,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": -23,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": -23,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": -23,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    },
+    "1440": {
+      ".contentWrapper h2": {
+        "status": "ok",
+        "countA": 6,
+        "countB": 6,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 4
+            },
+            "props": {
+              "height": [
+                "30px",
+                "33.9062px"
+              ],
+              "color": [
+                "rgb(60, 66, 66)",
+                "rgb(131, 0, 81)"
+              ],
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ],
+              "fontSize": [
+                "23px",
+                "26px"
+              ],
+              "lineHeight": [
+                "30px",
+                "33.913px"
+              ],
+              "border": [
+                "0px none rgb(60, 66, 66)",
+                "0px none rgb(131, 0, 81)"
+              ]
+            }
+          },
+          {
+            "index": 4,
+            "rect": {
+              "dx": 0,
+              "dy": 4,
+              "dw": 0,
+              "dh": 4
+            },
+            "props": {
+              "height": [
+                "30px",
+                "33.9062px"
+              ],
+              "color": [
+                "rgb(60, 66, 66)",
+                "rgb(131, 0, 81)"
+              ],
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ],
+              "fontSize": [
+                "23px",
+                "26px"
+              ],
+              "lineHeight": [
+                "30px",
+                "33.913px"
+              ],
+              "border": [
+                "0px none rgb(60, 66, 66)",
+                "0px none rgb(131, 0, 81)"
+              ]
+            }
+          },
+          {
+            "index": 5,
+            "rect": {
+              "dx": 0,
+              "dy": 8,
+              "dw": 0,
+              "dh": 4
+            },
+            "props": {
+              "height": [
+                "30px",
+                "33.9062px"
+              ],
+              "color": [
+                "rgb(60, 66, 66)",
+                "rgb(131, 0, 81)"
+              ],
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ],
+              "fontSize": [
+                "23px",
+                "26px"
+              ],
+              "lineHeight": [
+                "30px",
+                "33.913px"
+              ],
+              "border": [
+                "0px none rgb(60, 66, 66)",
+                "0px none rgb(131, 0, 81)"
+              ]
+            }
+          }
+        ]
+      },
+      ".l-two-block-c0 h3": {
+        "status": "ok",
+        "countA": 3,
+        "countB": 3,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".cmp-pdfviewer__button .button": {
+        "status": "ok",
+        "countA": 3,
+        "countB": 3,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".callToAction a.button": {
+        "status": "ok",
+        "countA": 2,
+        "countB": 2,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 0,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 12,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".rich-text.l-margin": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 12,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                "\"Helvetica Neue\", helvetica, arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".tags": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 22,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "width": [
+                "817.859px",
+                "817.891px"
+              ],
+              "fontFamily": [
+                "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+                "\"Helvetica Neue\", helvetica, arial, sans-serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".az-container": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 12,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      },
+      ".therapy-grid": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 8,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".fin-table-wrapper": {
+        "status": "ok",
+        "countA": 1,
+        "countB": 1,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 4,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {
+              "fontFamily": [
+                "lexia, Times, \"Times New Roman\", serif",
+                "lexia, times, \"Times New Roman\", serif"
+              ]
+            }
+          }
+        ]
+      },
+      ".pipeline-card p": {
+        "status": "ok",
+        "countA": 4,
+        "countB": 4,
+        "pairs": [
+          {
+            "index": 0,
+            "rect": {
+              "dx": 0,
+              "dy": 12,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 1,
+            "rect": {
+              "dx": 0,
+              "dy": 12,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 2,
+            "rect": {
+              "dx": 0,
+              "dy": 12,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          },
+          {
+            "index": 3,
+            "rect": {
+              "dx": 0,
+              "dy": 12,
+              "dw": 0,
+              "dh": 0
+            },
+            "props": {}
+          }
+        ]
+      }
+    }
+  },
+  "rootDeltas": {
+    "360": {
+      "scrollWidth": 0,
+      "scrollHeight": -13
+    },
+    "1440": {
+      "scrollWidth": 0,
+      "scrollHeight": 22
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-10T12:42:59.036Z",
+    "stardustVersion": "0.0.0"
+  },
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.astrazeneca.com/",
+    "da": {
+      "org": "aemcoder",
+      "site": "919093c1",
+      "ref": "main"
+    },
+    "liveHost": "main--919093c1--aemcoder.aem.live"
+  },
+  "scope": {
+    "pages": 2,
+    "discovered": 2,
+    "capped": false,
+    "pageCap": null
+  },
+  "lastRun": {
+    "at": "2026-11-10T16:16:51.596Z",
+    "pages": {
+      "total": 2,
+      "verified": 2,
+      "deployed": 0,
+      "pending": 0,
+      "contentPending": 0,
+      "stale": 0,
+      "failed": 0
+    },
+    "blocks": {
+      "total": 11,
+      "converted": 11,
+      "pending": 0
+    },
+    "verifyFailures": 0
+  }
+}

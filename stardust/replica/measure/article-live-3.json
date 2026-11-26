@@ -1,0 +1,495 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/measure.mjs",
+    "writtenAt": "2026-11-10T12:12:28.538Z",
+    "urls": [
+      "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ],
+    "widths": [
+      1440
+    ],
+    "selectors": [
+      ".l-three-block-c2 .rich-text h3",
+      ".l-three-block-c2 .rich-text ol",
+      ".l-three-block-c2 .rich-text li",
+      ".l-three-block-c2 hr",
+      ".l-three-block-c2 .text",
+      ".l-three-block-c2 .spacer",
+      ".date__date-region"
+    ],
+    "props": [
+      "height",
+      "margin",
+      "padding",
+      "fontSize",
+      "lineHeight",
+      "listStyleType"
+    ],
+    "allMatches": true,
+    "failed": [],
+    "warnings": []
+  },
+  "widths": [
+    1440
+  ],
+  "selectors": [
+    ".l-three-block-c2 .rich-text h3",
+    ".l-three-block-c2 .rich-text ol",
+    ".l-three-block-c2 .rich-text li",
+    ".l-three-block-c2 hr",
+    ".l-three-block-c2 .text",
+    ".l-three-block-c2 .spacer",
+    ".date__date-region"
+  ],
+  "root": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://": {
+      "1440": {
+        "viewport": 1440,
+        "clientWidth": 1440,
+        "scrollWidth": 1440,
+        "scrollHeight": 3385,
+        "overflowX": 0
+      }
+    }
+  },
+  "pages": {
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://": {
+      "1440": {
+        ".l-three-block-c2 .rich-text h3": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 311,
+              "y": 521,
+              "w": 818,
+              "h": 66
+            },
+            "visible": true,
+            "text": "Recommendation based on KALOS and LOGOS…",
+            "props": {
+              "height": "66px",
+              "margin": "10px 0px",
+              "padding": "0px",
+              "fontSize": "18px",
+              "lineHeight": "22px",
+              "listStyleType": "disc"
+            }
+          },
+          {
+            "index": 1,
+            "of": 2,
+            "rect": {
+              "x": 311,
+              "y": 627,
+              "w": 818,
+              "h": 44
+            },
+            "visible": true,
+            "text": "Approval would add second indication fo…",
+            "props": {
+              "height": "44px",
+              "margin": "40px 0px 10px",
+              "padding": "0px",
+              "fontSize": "18px",
+              "lineHeight": "22px",
+              "listStyleType": "disc"
+            }
+          }
+        ],
+        ".l-three-block-c2 .rich-text ol": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 311,
+              "y": 2411,
+              "w": 818,
+              "h": 460
+            },
+            "visible": true,
+            "text": "Papi A, Wise R, Jackson D et al. Budeso…",
+            "props": {
+              "height": "460px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          }
+        ],
+        ".l-three-block-c2 .rich-text li": [
+          {
+            "index": 0,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2411,
+              "w": 818,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Papi A, Wise R, Jackson D et al. Budeso…",
+            "props": {
+              "height": "60px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 1,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2481,
+              "w": 818,
+              "h": 40
+            },
+            "visible": true,
+            "text": "International Respiratory Coalition. As…",
+            "props": {
+              "height": "40px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 2,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2531,
+              "w": 818,
+              "h": 20
+            },
+            "visible": true,
+            "text": "Fernandes AG, et al. Risk factors for d…",
+            "props": {
+              "height": "20px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 3,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2561,
+              "w": 818,
+              "h": 40
+            },
+            "visible": true,
+            "text": "Davis J, et al. Burden of asthma among …",
+            "props": {
+              "height": "40px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 4,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2611,
+              "w": 818,
+              "h": 40
+            },
+            "visible": true,
+            "text": "Buhl R, et al. One-year follow up of as…",
+            "props": {
+              "height": "40px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 5,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2661,
+              "w": 818,
+              "h": 40
+            },
+            "visible": true,
+            "text": "World Health Organization. Asthma. [Onl…",
+            "props": {
+              "height": "40px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 6,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2711,
+              "w": 818,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Clinicaltrials.gov. Study to Assess PT0…",
+            "props": {
+              "height": "60px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 7,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2781,
+              "w": 818,
+              "h": 60
+            },
+            "visible": true,
+            "text": "Clinicaltrials.gov. Study to Assess PT0…",
+            "props": {
+              "height": "60px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          },
+          {
+            "index": 8,
+            "of": 9,
+            "rect": {
+              "x": 311,
+              "y": 2851,
+              "w": 818,
+              "h": 20
+            },
+            "visible": true,
+            "text": "AstraZeneca. Data On File. REF-325003.",
+            "props": {
+              "height": "20px",
+              "margin": "0px 0px 10px",
+              "padding": "0px",
+              "fontSize": "14px",
+              "lineHeight": "20px",
+              "listStyleType": "decimal"
+            }
+          }
+        ],
+        ".l-three-block-c2 hr": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 311,
+              "y": 2351,
+              "w": 818,
+              "h": 20
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "0px",
+              "margin": "0px",
+              "padding": "10px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          },
+          {
+            "index": 1,
+            "of": 2,
+            "rect": {
+              "x": 311,
+              "y": 2881,
+              "w": 818,
+              "h": 20
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "0px",
+              "margin": "0px",
+              "padding": "10px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          }
+        ],
+        ".l-three-block-c2 .text": [
+          {
+            "index": 0,
+            "of": 4,
+            "rect": {
+              "x": 311,
+              "y": 521,
+              "w": 818,
+              "h": 150
+            },
+            "visible": true,
+            "text": "Recommendation based on KALOS and LOGOS…",
+            "props": {
+              "height": "150px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          },
+          {
+            "index": 1,
+            "of": 4,
+            "rect": {
+              "x": 311,
+              "y": 681,
+              "w": 818,
+              "h": 1660
+            },
+            "visible": true,
+            "text": "AstraZeneca’s fixed-dose triple-combina…",
+            "props": {
+              "height": "1660px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          },
+          {
+            "index": 2,
+            "of": 4,
+            "rect": {
+              "x": 311,
+              "y": 2381,
+              "w": 818,
+              "h": 490
+            },
+            "visible": true,
+            "text": "References Papi A, Wise R, Jackson D et…",
+            "props": {
+              "height": "490px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          },
+          {
+            "index": 3,
+            "of": 4,
+            "rect": {
+              "x": 311,
+              "y": 2901,
+              "w": 818,
+              "h": 0
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "0px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          }
+        ],
+        ".l-three-block-c2 .spacer": [
+          {
+            "index": 0,
+            "of": 2,
+            "rect": {
+              "x": 311,
+              "y": 2351,
+              "w": 818,
+              "h": 20
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "20px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          },
+          {
+            "index": 1,
+            "of": 2,
+            "rect": {
+              "x": 311,
+              "y": 2881,
+              "w": 818,
+              "h": 20
+            },
+            "visible": true,
+            "text": "",
+            "props": {
+              "height": "20px",
+              "margin": "0px",
+              "padding": "0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          }
+        ],
+        ".date__date-region": [
+          {
+            "index": 0,
+            "of": 1,
+            "rect": {
+              "x": 100,
+              "y": 410,
+              "w": 131,
+              "h": 40
+            },
+            "visible": true,
+            "text": "PUBLISHED 24 July 2026",
+            "props": {
+              "height": "40px",
+              "margin": "0px",
+              "padding": "0px 16px 0px 0px",
+              "fontSize": "16px",
+              "lineHeight": "20px",
+              "listStyleType": "disc"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

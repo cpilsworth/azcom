@@ -1,0 +1,722 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-11-10T12:40:14.482Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+   "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+  ]
+ },
+ "pages": {
+  "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://": {
+   "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+   "status": 200,
+   "host": "www.astrazeneca.com",
+   "title": "Trixeo recommended for approval in the EU by CHMP for the maintenance treatment of asthma",
+   "forms": [
+    {
+     "name": "navigation__search-form",
+     "action": "https://www.astrazeneca.com/search_results.s.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:q"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": true,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Cancel",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+     "marker": "js-modal-disagree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Continue",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+     "marker": "js-modal-agree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "I disagree",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+     "marker": "js-modal-disagree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "I agree",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+     "marker": "js-modal-agree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 470,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 470,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 470,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 534,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 534,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 534,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Strictly Necessary Cookies",
+     "textLen": 23479,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 10,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+     "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+     "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "core_target_country",
+     "core_language",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB",
+     "cp.AWSALBCORS",
+     "cp.im_abort_securecookie_call",
+     "cp.utag_main_v_id",
+     "cp.utag_main__pn",
+     "cp.utag_main_ses_id",
+     "cp.utag_main__ss",
+     "cp.utag_main__se",
+     "cp.utag_main__sn",
+     "cp.utag_main__st",
+     "meta.description",
+     "meta.HandheldFriendly",
+     "meta.MobileOptimized",
+     "meta.viewport",
+     "meta.robots"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [
+    {
+     "cls": "container js-vis-grid",
+     "attrs": [],
+     "text": "AstraZeneca Websites Global site Search Menu Search Search S"
+    },
+    {
+     "cls": "modal-window modal-window--show js-modal-window--show",
+     "attrs": [],
+     "text": "You are now leaving AstraZeneca.com You have selected a link"
+    },
+    {
+     "cls": "modal-window modal-window--show js-modal-window--show",
+     "attrs": [],
+     "text": "Important notice for users You are about to access AstraZene"
+    }
+   ],
+   "listingCandidates": [],
+   "inlineScripts": 3,
+   "inlineFetch": false,
+   "mainText": 11378,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.astrazeneca.com": 19,
+    "code.jquery.com": 1,
+    "cdnjs.cloudflare.com": 1,
+    "rum.hlx.page": 1,
+    "tags.tiqcdn.com": 3,
+    "use.typekit.net": 7,
+    "p.typekit.net": 1,
+    "policy.cookiereports.com": 2
+   },
+   "thirdPartyHosts": [
+    "code.jquery.com",
+    "cdnjs.cloudflare.com",
+    "rum.hlx.page",
+    "tags.tiqcdn.com",
+    "use.typekit.net",
+    "p.typekit.net",
+    "policy.cookiereports.com"
+   ],
+   "scripts": [
+    "https://www.astrazeneca.com/etc/designs/common/js/lib/modernizr.min.js",
+    "https://code.jquery.com/jquery-3.5.0.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.2.0/jquery-migrate.min.js",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/global-az-com/prod/utag.sync.js",
+    "https://www.astrazeneca.com/etc/designs/common/js/lang/en_GB.min.js",
+    "https://www.astrazeneca.com/etc/designs/az/js/index.min.js",
+    "https://policy.cookiereports.com/510df253_panel-en-gb.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/global-az-com/prod/utag.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/global-az-com/202609251405&cb=1794314415335"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.astrazeneca.com",
+     "path": "/content/astraz/media-centre/press-releases/{n}/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [],
+   "textAtLoad": 10669,
+   "mainEmptyAtLoad": false
+  },
+  "/media-centre/press-releases/2026/h1-and-q2-2026-results.html": {
+   "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+   "status": 200,
+   "host": "www.astrazeneca.com",
+   "title": "H1 and Q2 2026 results",
+   "forms": [
+    {
+     "name": "navigation__search-form",
+     "action": "https://www.astrazeneca.com/search_results.s.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:q"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": true,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Cancel",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#",
+     "marker": "js-modal-disagree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "Continue",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#",
+     "marker": "js-modal-agree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "I disagree",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#",
+     "marker": "js-modal-disagree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "I agree",
+     "href": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#",
+     "marker": "js-modal-agree",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 470,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 470,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 470,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 534,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 534,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 534,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Strictly Necessary Cookies",
+     "textLen": 23479,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 10,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [],
+   "commerce": {
+    "cart": false,
+    "prices": 8
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+     "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+     "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "core_target_country",
+     "core_language",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.im_abort_securecookie_call",
+     "cp.utag_main_v_id",
+     "cp.utag_main__pn",
+     "cp.utag_main_ses_id",
+     "cp.utag_main__ss",
+     "cp.utag_main__se",
+     "cp.utag_main__sn",
+     "cp.utag_main__st",
+     "meta.description",
+     "meta.HandheldFriendly",
+     "meta.MobileOptimized",
+     "meta.viewport",
+     "meta.robots",
+     "meta.og:title",
+     "meta.og:description"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [
+    {
+     "cls": "container js-vis-grid",
+     "attrs": [],
+     "text": "AstraZeneca Websites Global site Search Menu Search Search S"
+    },
+    {
+     "cls": "cmp-pdfviewer js-cmp-pdfviewer",
+     "attrs": [
+      "data-api-error=API call to Adobe SDK resulted in error"
+     ],
+     "text": "Explore the H1 and Q2 2026 results announcement"
+    },
+    {
+     "cls": "cmp-pdfviewer js-cmp-pdfviewer",
+     "attrs": [
+      "data-api-error=API call to Adobe SDK resulted in error"
+     ],
+     "text": "Explore the H1 and Q2 2026 results presentation"
+    },
+    {
+     "cls": "cmp-pdfviewer js-cmp-pdfviewer",
+     "attrs": [
+      "data-api-error=API call to Adobe SDK resulted in error"
+     ],
+     "text": "Explore the H1 and Q2 2026 results clinical trials appendix"
+    },
+    {
+     "cls": "modal-window modal-window--show js-modal-window--show",
+     "attrs": [],
+     "text": "You are now leaving AstraZeneca.com You have selected a link"
+    },
+    {
+     "cls": "modal-window modal-window--show js-modal-window--show",
+     "attrs": [],
+     "text": "Important notice for users You are about to access AstraZene"
+    }
+   ],
+   "listingCandidates": [],
+   "inlineScripts": 3,
+   "inlineFetch": false,
+   "mainText": 5469,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.astrazeneca.com": 20,
+    "code.jquery.com": 1,
+    "cdnjs.cloudflare.com": 1,
+    "tags.tiqcdn.com": 3,
+    "rum.hlx.page": 1,
+    "use.typekit.net": 9,
+    "p.typekit.net": 1,
+    "policy.cookiereports.com": 2,
+    "documentcloud.adobe.com": 2
+   },
+   "thirdPartyHosts": [
+    "code.jquery.com",
+    "cdnjs.cloudflare.com",
+    "tags.tiqcdn.com",
+    "rum.hlx.page",
+    "use.typekit.net",
+    "p.typekit.net",
+    "policy.cookiereports.com",
+    "documentcloud.adobe.com"
+   ],
+   "scripts": [
+    "https://www.astrazeneca.com/etc/designs/common/js/lib/modernizr.min.js",
+    "https://code.jquery.com/jquery-3.5.0.min.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.2.0/jquery-migrate.min.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/global-az-com/prod/utag.sync.js",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://www.astrazeneca.com/etc/designs/common/js/lang/en_GB.min.js",
+    "https://www.astrazeneca.com/etc/designs/az/js/index.min.js",
+    "https://policy.cookiereports.com/510df253_panel-en-gb.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/global-az-com/prod/utag.js",
+    "https://documentcloud.adobe.com/view-sdk/main.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/global-az-com/202609251405&cb=1794314426310",
+    "https://documentcloud.adobe.com/view-sdk/4.43.1_3.2.16-c8fdbf77/ViewSDKInterface.js"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.astrazeneca.com",
+     "path": "/content/astraz/media-centre/press-releases/{n}/h1-and-q2-2026-results/jcr:content.darkSite.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/h1-and-q2-2026-results/jcr:content.darkSite.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [],
+   "textAtLoad": 4760,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-cms-app-settings-object-utag-data",
+   "class": "A",
+   "feature": "CMS / app settings object utag_data",
+   "hint": "settings",
+   "evidence": [
+    "campaign_source",
+    "campaign_medium",
+    "campaign_publisher",
+    "campaign_id",
+    "campaign_creative",
+    "campaign_placement",
+    "campaign_outcome",
+    "campaign_cmpid"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-container-js-vis-grid",
+   "class": "CR",
+   "feature": "client-rendered slot container js-vis-grid",
+   "hint": "client-rendered",
+   "evidence": [
+    "AstraZeneca Websites Global site Search Menu Search Search S"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-modal-window-modal-window-show-js-mo",
+   "class": "CR",
+   "feature": "client-rendered slot modal-window modal-window--show js-modal-window--show",
+   "hint": "client-rendered",
+   "evidence": [
+    "You are now leaving AstraZeneca.com You have selected a link",
+    "Important notice for users You are about to access AstraZene"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "cr-client-rendered-slot-cmp-pdfviewer-js-cmp-pdfviewer",
+   "class": "CR",
+   "feature": "client-rendered slot cmp-pdfviewer js-cmp-pdfviewer",
+   "hint": "client-rendered",
+   "evidence": [
+    "data-api-error=API call to Adobe SDK resulted in error"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "d-first-party-data-file-get-content-astraz-media-centre-pres",
+   "class": "D",
+   "feature": "first-party data file GET /content/astraz/media-centre/press-releases/{n}/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json",
+   "api": {
+    "method": "GET",
+    "path": "/content/astraz/media-centre/press-releases/{n}/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json"
+   },
+   "hint": "data",
+   "evidence": [
+    "GET /content/astraz/media-centre/press-releases/{n}/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma/jcr:content.darkSite.json → 200"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+   ]
+  },
+  {
+   "id": "d-first-party-data-file-get-content-astraz-media-centre-pres",
+   "class": "D",
+   "feature": "first-party data file GET /content/astraz/media-centre/press-releases/{n}/h1-and-q2-2026-results/jcr:content.darkSite.json",
+   "api": {
+    "method": "GET",
+    "path": "/content/astraz/media-centre/press-releases/{n}/h1-and-q2-2026-results/jcr:content.darkSite.json"
+   },
+   "hint": "data",
+   "evidence": [
+    "GET /content/astraz/media-centre/press-releases/{n}/h1-and-q2-2026-results/jcr:content.darkSite.json → 200"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-us-en-gb-en-us",
+   "class": "I18N",
+   "feature": "locale variants en-us,en-gb,en-US",
+   "hint": "locale",
+   "evidence": [
+    "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-js-modal-disagree-target-outside-dom-at-capt",
+   "class": "M",
+   "feature": "modal trigger js-modal-disagree → target outside DOM at capture",
+   "hint": "modal",
+   "evidence": [
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-js-modal-agree-target-outside-dom-at-capture",
+   "class": "M",
+   "feature": "modal trigger js-modal-agree → target outside DOM at capture",
+   "hint": "modal",
+   "evidence": [
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://#",
+    "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html#"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "s-site-search-form-search-results-s-html",
+   "class": "S",
+   "feature": "site search form → /search_results.s.html",
+   "hint": "search",
+   "evidence": [
+    "text:q"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-rum-hlx-page",
+   "class": "T",
+   "feature": "unknown third-party host rum.hlx.page",
+   "hint": "inspect",
+   "evidence": [
+    "rum.hlx.page"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "t-tag-manager-tealium",
+   "class": "T",
+   "feature": "tag manager: Tealium",
+   "role": "tag manager: Tealium",
+   "hint": "tags",
+   "evidence": [
+    "tags.tiqcdn.com"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-policy-cookiereports-com",
+   "class": "T",
+   "feature": "unknown third-party host policy.cookiereports.com",
+   "hint": "inspect",
+   "evidence": [
+    "policy.cookiereports.com"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-documentcloud-adobe-com",
+   "class": "T",
+   "feature": "unknown third-party host documentcloud.adobe.com",
+   "hint": "inspect",
+   "evidence": [
+    "documentcloud.adobe.com"
+   ],
+   "pages": [
+    "/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+   ]
+  }
+ ]
+}

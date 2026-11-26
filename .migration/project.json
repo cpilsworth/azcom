@@ -1,0 +1,10 @@
+{
+  "sites": {
+    "azcom": {
+      "previewOrg": "cpilsworth",
+      "previewSite": "azcom",
+      "contentHostUrl": "https://content.da.live/cpilsworth/azcom/"
+    }
+  },
+  "type": "da"
+}

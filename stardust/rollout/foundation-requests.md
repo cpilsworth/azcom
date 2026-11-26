@@ -1,0 +1,6 @@
+- archetype-unique | styles/styles.css @font-face lexia-fallback (local('Times New Roman'), local('Times')) has status "error" on Linux gate browsers, so gate-all flags every row FAIL (fonts) font-not-loaded:lexia-fallback although lexia itself loads — add a local() that exists on the gate host (e.g. 'Liberation Serif') or drop the face from the stack | stardust/replica/gates/all-1440/media-centre-press-releases-2026-h1-and-q2-2026-results-html/eds.capture.json fontsFailed; document.fonts on preview: lexia-fallback|error, lexia 400/700/300 loaded | unique
+- archetype-unique | blocks/header: desktop main-nav lexia 400 16px ls 1px link texts render 5-6px narrower than live (cumulative Δx up to -43px at "Partnering"), identical computed font props — kit/font-file difference to investigate | chrome-parity.mjs live vs main--919093c1--aemcoder.aem.page @1440: 9 PAIR deltas e.g. "What science can do" Δw -6 (187→181); header crop-compare still 1.96% (PASS) | unique
+
+## Applied at C-final (2026-11-10)
+- lexia-fallback: APPLIED — `local('Liberation Serif')` added to the face in styles/styles.css so it resolves on Linux hosts; roster re-gated.
+- header nav lexia widths: NOT CHANGED — identical computed font properties on both sides; the 5–6px is the served kit file, not a CSS value; header crop-compare 1.96% (PASS). Logged as a residual.

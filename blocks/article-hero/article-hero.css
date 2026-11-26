@@ -1,0 +1,164 @@
+/* article-hero — the source's press-release .hero-feature (title only) */
+.article-hero {
+  position: relative;
+  margin: 0 0 40px;
+}
+
+.article-hero .article-hero-title {
+  padding: 40px 20px;
+}
+
+.article-hero .article-hero-title :is(h1, h2) {
+  margin: 0;
+  color: var(--az-text);
+  font: italic 300 30px/36px var(--font-lexia);
+  letter-spacing: 0.9px;
+  text-align: center;
+}
+
+/* article body section (section-metadata Style: article-body) — the source's
+   .pt-article__body: date stamp across the container, rich text and tags in the
+   centred 65.96% column */
+main > .section.article-body {
+  margin: 0 0 40px;
+}
+
+main > .section.article-body > .default-content-wrapper,
+main > .section.article-body > .tags-wrapper {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 20px;
+  color: var(--az-text);
+}
+
+.article-body .default-content-wrapper h3 {
+  margin: 40px 0 10px;
+  color: var(--az-text);
+  font: 300 18px/22px var(--font-lexia);
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+/* the source's last standfirst heading ends in a blank line (<br><br>), which the
+   delivery pipeline trims — its 22px line is restored as margin */
+.article-body .default-content-wrapper h3:has(+ p) {
+  margin-bottom: 32px;
+}
+
+.article-body .default-content-wrapper h3:first-child {
+  margin-top: 10px;
+}
+
+.article-body .default-content-wrapper :is(h3 b, h3 strong) {
+  font-weight: 400;
+}
+
+.article-body .default-content-wrapper :is(p, li) {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+.article-body .default-content-wrapper :is(b, strong) {
+  font-weight: 700;
+}
+
+.article-body .default-content-wrapper a:any-link {
+  color: var(--az-link);
+  text-decoration: none;
+}
+
+.article-body .default-content-wrapper :is(b, strong) > a:any-link,
+.article-body .default-content-wrapper a:any-link > :is(b, strong) {
+  font-weight: 700;
+}
+
+/* a bold standalone link (the boilerplate's button pattern) is a plain link here */
+.article-body .default-content-wrapper p.button-wrapper {
+  margin: 10px 0;
+}
+
+.article-body .default-content-wrapper a.button:any-link {
+  display: inline;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  color: var(--az-link);
+  font: 700 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+.article-body .default-content-wrapper a.button:any-link::after {
+  content: none;
+}
+
+.article-body .default-content-wrapper a.button:hover {
+  text-decoration: none;
+}
+
+.article-body .default-content-wrapper :is(sup, sub) {
+  font-size: 10.5px;
+  line-height: 0;
+}
+
+/* the source's small spacer before the references list */
+.article-body .default-content-wrapper p:has(+ ol) {
+  margin-top: 40px;
+}
+
+.article-body .default-content-wrapper ol {
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+}
+
+.article-body .default-content-wrapper li {
+  margin: 0 0 10px;
+}
+
+.article-body .tags {
+  max-width: none;
+  margin: 45px 0 0;
+  padding: 0;
+}
+
+@media (width >= 960px) {
+  .article-hero {
+    margin-bottom: 60px;
+  }
+
+  .article-hero .article-hero-title {
+    padding: 80px 20px;
+  }
+
+  .article-hero .article-hero-title :is(h1, h2) {
+    max-width: var(--container);
+    margin: 0 auto;
+    font-size: 42px;
+    line-height: 48px;
+    letter-spacing: 1.1px;
+  }
+
+  main > .section.article-body {
+    margin-bottom: 60px;
+  }
+
+  main > .section.article-body > .default-content-wrapper,
+  main > .section.article-body > .tags-wrapper {
+    width: calc((min(100%, var(--container)) - 40px) * 0.6596);
+    padding: 0;
+  }
+
+  main > .section.article-body > .default-content-wrapper {
+    display: flow-root;
+  }
+
+  .article-body .tags {
+    margin-top: 35px;
+  }
+
+  .article-body .default-content-wrapper h3 {
+    letter-spacing: 0.7px;
+  }
+}

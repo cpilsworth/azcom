@@ -1,0 +1,795 @@
+{
+ "source": "http://localhost:8791/media-centre-press-releases-2026-h1-and-q2-2026-results-html-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "hero-feature",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "H1 and Q2 2026 results"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "az-results",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "PUBLISHED"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "27 July 2026"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Downloads",
+     "href": "#downloads"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Summary",
+     "href": "#summary"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Financials",
+     "href": "#financials"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Therapy Areas",
+     "href": "#ta"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Pipeline",
+     "href": "#pipeline"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "For investor audiences and financial/business media only"
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Growth momentum continues. On track to deliver ambition of $80 billion in Total Revenue in 2030"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "In the first half we saw strong performance and continued pipeline delivery, including six key positive Phase III programmes and eight first approvals in major markets. We continue to invest at pace in our transformative technologies, and in our commercial execution to bring our innovative medicines to patients around the globe and drive growth beyond 2030."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Pascal Soriot"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Chief Executive Officer, AstraZeneca"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Downloads"
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Announcement"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Explore the H1 and Q2 2026 results announcement"
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "Presentation"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Explore the H1 and Q2 2026 results presentation"
+    },
+    {
+     "role": "heading",
+     "order": 17,
+     "text": "Clinical trials appendix"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Explore the H1 and Q2 2026 results clinical trials appendix"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Explore our clinical trials appendix",
+     "href": "/investor-relations/clinical-trials-appendix.html"
+    },
+    {
+     "role": "heading",
+     "order": 20,
+     "text": "Key performance elements for H1 2026"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "(Growth numbers at constant exchange rates)"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Total Revenue up 6%, with double-digit growth in Oncology and Rare Disease"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Core Operating profit and Core EPS increased 11%"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Interim dividend increased 3 cents to $1.06 per share (79.5 pence, 10.32 SEK)"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "30 approvals in major regions since Q4 2025 results"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Total Revenue"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "$30.7bn"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "% Change at CER"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "▲ 6%"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "Core EPS"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "$5.21"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "▲ 11% CER"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Core Operating Profit"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "$10.5bn"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "▲ 11% CER"
+    },
+    {
+     "role": "heading",
+     "order": 38,
+     "text": "How did AstraZeneca perform financially?"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "Revenue and EPS Summary"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "H1 2026"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "Q2 2026"
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "$m"
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "% Change Actual"
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "% Change CER"
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "$m"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "% Change Actual"
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": "% Change CER"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "Product Sales"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "28,896"
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "8"
+    },
+    {
+     "role": "body",
+     "order": 51,
+     "text": "5"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "14,510"
+    },
+    {
+     "role": "body",
+     "order": 53,
+     "text": "5"
+    },
+    {
+     "role": "body",
+     "order": 54,
+     "text": "4"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": "Alliance Revenue"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "1,699"
+    },
+    {
+     "role": "body",
+     "order": 57,
+     "text": "31"
+    },
+    {
+     "role": "body",
+     "order": 58,
+     "text": "29"
+    },
+    {
+     "role": "body",
+     "order": 59,
+     "text": "874"
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": "34"
+    },
+    {
+     "role": "body",
+     "order": 61,
+     "text": "33"
+    },
+    {
+     "role": "body",
+     "order": 62,
+     "text": "Product Revenue"
+    },
+    {
+     "role": "body",
+     "order": 63,
+     "text": "30,595"
+    },
+    {
+     "role": "body",
+     "order": 64,
+     "text": "9"
+    },
+    {
+     "role": "body",
+     "order": 65,
+     "text": "6"
+    },
+    {
+     "role": "body",
+     "order": 66,
+     "text": "15,384"
+    },
+    {
+     "role": "body",
+     "order": 67,
+     "text": "6"
+    },
+    {
+     "role": "body",
+     "order": 68,
+     "text": "5"
+    },
+    {
+     "role": "body",
+     "order": 69,
+     "text": "Collaboration Revenue"
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "77"
+    },
+    {
+     "role": "body",
+     "order": 71,
+     "text": "(6)"
+    },
+    {
+     "role": "body",
+     "order": 72,
+     "text": "(9)"
+    },
+    {
+     "role": "body",
+     "order": 73,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 74,
+     "text": "n/m"
+    },
+    {
+     "role": "body",
+     "order": 75,
+     "text": "n/m"
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "Total Revenue"
+    },
+    {
+     "role": "body",
+     "order": 77,
+     "text": "30,672"
+    },
+    {
+     "role": "body",
+     "order": 78,
+     "text": "9"
+    },
+    {
+     "role": "body",
+     "order": 79,
+     "text": "6"
+    },
+    {
+     "role": "body",
+     "order": 80,
+     "text": "15,384"
+    },
+    {
+     "role": "body",
+     "order": 81,
+     "text": "6"
+    },
+    {
+     "role": "body",
+     "order": 82,
+     "text": "5"
+    },
+    {
+     "role": "body",
+     "order": 83,
+     "text": "Reported EPS ($)"
+    },
+    {
+     "role": "body",
+     "order": 84,
+     "text": "3.60"
+    },
+    {
+     "role": "body",
+     "order": 85,
+     "text": "4"
+    },
+    {
+     "role": "body",
+     "order": 86,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 87,
+     "text": "1.61"
+    },
+    {
+     "role": "body",
+     "order": 88,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 89,
+     "text": "(2)"
+    },
+    {
+     "role": "body",
+     "order": 90,
+     "text": "Core EPS ($)"
+    },
+    {
+     "role": "body",
+     "order": 91,
+     "text": "5.21"
+    },
+    {
+     "role": "body",
+     "order": 92,
+     "text": "12"
+    },
+    {
+     "role": "body",
+     "order": 93,
+     "text": "11"
+    },
+    {
+     "role": "body",
+     "order": 94,
+     "text": "2.63"
+    },
+    {
+     "role": "body",
+     "order": 95,
+     "text": "21"
+    },
+    {
+     "role": "body",
+     "order": 96,
+     "text": "18"
+    },
+    {
+     "role": "body",
+     "order": 97,
+     "text": "FY2026 GUIDANCE RECONFIRMED"
+    },
+    {
+     "role": "body",
+     "order": 98,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 99,
+     "text": "At CER, Total Revenue is expected to increase by a and Core EPS by a . The Core Tax rate is expected to be between ."
+    },
+    {
+     "role": "body",
+     "order": 100,
+     "text": "mid-to-high single-digit %"
+    },
+    {
+     "role": "body",
+     "order": 101,
+     "text": "low double-digit %"
+    },
+    {
+     "role": "body",
+     "order": 102,
+     "text": "18–22%"
+    },
+    {
+     "role": "heading",
+     "order": 103,
+     "text": "Which Therapy Areas drove growth?"
+    },
+    {
+     "role": "body",
+     "order": 104,
+     "text": "H1 2026 Total Revenue by Therapy Area. Growth at CER."
+    },
+    {
+     "role": "body",
+     "order": 105,
+     "text": "Oncology"
+    },
+    {
+     "role": "body",
+     "order": 106,
+     "text": "▲ 15%"
+    },
+    {
+     "role": "body",
+     "order": 107,
+     "text": "$14.1bn"
+    },
+    {
+     "role": "body",
+     "order": 108,
+     "text": "46% of revenue and the largest Therapy Area"
+    },
+    {
+     "role": "body",
+     "order": 109,
+     "text": "BioPharmaceuticals"
+    },
+    {
+     "role": "body",
+     "order": 110,
+     "text": "▼ 5%"
+    },
+    {
+     "role": "body",
+     "order": 111,
+     "text": "$11.2bn"
+    },
+    {
+     "role": "body",
+     "order": 112,
+     "text": "36% of revenue. Respiratory & Immunology grew +9%, CVRM (−12%), Infectious Disease (-26%)"
+    },
+    {
+     "role": "body",
+     "order": 113,
+     "text": "Rare Disease"
+    },
+    {
+     "role": "body",
+     "order": 114,
+     "text": "▲ 11%"
+    },
+    {
+     "role": "body",
+     "order": 115,
+     "text": "$4.9bn"
+    },
+    {
+     "role": "body",
+     "order": 116,
+     "text": "16% of revenue"
+    },
+    {
+     "role": "heading",
+     "order": 117,
+     "text": "What were the pipeline highlights?"
+    },
+    {
+     "role": "heading",
+     "order": 118,
+     "text": "183"
+    },
+    {
+     "role": "body",
+     "order": 119,
+     "text": "projects in our pipeline"
+    },
+    {
+     "role": "heading",
+     "order": 120,
+     "text": "116"
+    },
+    {
+     "role": "body",
+     "order": 121,
+     "text": "new molecular entities (NMEs) or major life-cycle management in Phase II or Phase III"
+    },
+    {
+     "role": "heading",
+     "order": 122,
+     "text": "21"
+    },
+    {
+     "role": "body",
+     "order": 123,
+     "text": "NMEs in our late-stage pipeline"
+    },
+    {
+     "role": "heading",
+     "order": 124,
+     "text": "4"
+    },
+    {
+     "role": "body",
+     "order": 125,
+     "text": "NMEs under review"
+    },
+    {
+     "role": "cta",
+     "order": 126,
+     "text": "Explore the full pipeline",
+     "href": "/our-therapy-areas/pipeline.html"
+    },
+    {
+     "role": "body",
+     "order": 127,
+     "text": "Matthew Bowden Company Secretary AstraZeneca PLC"
+    },
+    {
+     "role": "body",
+     "order": 128,
+     "text": "References"
+    },
+    {
+     "role": "body",
+     "order": 129,
+     "text": "1. Constant exchange rates. The differences between Actual Change and CER Change are due to foreign exchange movements between periods in 2026 vs. 2025. CER financial measures are not accounted for according to generally accepted accounting principles (GAAP) because they remove the effects of currency movements from Reported results."
+    },
+    {
+     "role": "body",
+     "order": 130,
+     "text": "2. Core financial measures are adjusted to exclude certain items. The differences between Reported and Core measures are primarily due to costs relating to the amortisation of intangibles, impairments, legal settlements and restructuring charges. A full reconciliation between Reported EPS and Core EPS is provided in Tables 10 and 11 in the Financial Performance section of ."
+    },
+    {
+     "role": "cta",
+     "order": 131,
+     "text": "this document",
+     "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf"
+    },
+    {
+     "role": "body",
+     "order": 132,
+     "text": "3. The Company is unable to provide guidance on a Reported basis because it cannot reliably forecast material elements of the Reported results, including any fair value adjustments arising on acquisition-related liabilities, intangible asset impairment charges and legal settlement provisions. Please refer to the Cautionary statements section regarding forward-looking statements at the end of ."
+    },
+    {
+     "role": "cta",
+     "order": 133,
+     "text": "this announcement",
+     "href": "/content/dam/az/PDF/2026/h1q2/H1-and-Q2-2026-results-announcement.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 134,
+     "text": "tags"
+    },
+    {
+     "role": "body",
+     "order": 135,
+     "text": "Corporate and financial"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 32,
+   "repeats": [
+    {
+     "unitSelector": "DIV.rich-text",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.rich-text",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.az-embed",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 58
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.rich-text",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.az-embed",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.rich-text",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.statcell",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

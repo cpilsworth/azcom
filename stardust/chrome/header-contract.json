@@ -1,0 +1,4826 @@
+{
+ "tool": "chrome-explore",
+ "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+ "at": "2026-11-10T11:51:12.824Z",
+ "shots": "stardust/.work/chrome/header-contract",
+ "widths": {
+  "390": {
+   "root": "#navigation",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(1)>div:nth-of-type(1)>a",
+     "href": "https://www.astrazeneca.com/",
+     "expanded": null,
+     "rect": [
+      20,
+      0,
+      108,
+      60
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Search",
+     "key": "search",
+     "role": "toggle",
+     "kind": "search",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(1)>div:nth-of-type(2)>button:nth-of-type(1)",
+     "expanded": null,
+     "rect": [
+      270,
+      0,
+      60,
+      60
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [
+         "Search"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         60,
+         390,
+         61
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 200,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.navigation__search"
+        }
+       ],
+       "shot": "390-001-Search-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [
+         "Search"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         60,
+         390,
+         61
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "max-height",
+         "ms": 200,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.navigation__search"
+        }
+       ],
+       "shot": "390-002-Search-key.png",
+       "tabReachesPanel": false
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Enter your search",
+       "key": "enter your search",
+       "role": "input",
+       "kind": "search",
+       "sel": "#Search",
+       "expanded": null,
+       "rect": [
+        1,
+        61,
+        389,
+        60
+       ],
+       "actions": {},
+       "search": {
+        "probe": "skip",
+        "typeahead": {
+         "links": 0,
+         "options": 0
+        },
+        "submit": "https://www.astrazeneca.com/search_results.s.html?q={q}"
+       }
+      },
+      {
+       "name": "Search",
+       "key": "search",
+       "role": "toggle",
+       "kind": "search",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(2)>form>button",
+       "expanded": null,
+       "rect": [
+        330,
+        61,
+        60,
+        60
+       ],
+       "actions": {
+        "click": null,
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Menu",
+     "key": "menu",
+     "role": "toggle",
+     "kind": "drawer",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(1)>div:nth-of-type(2)>button:nth-of-type(2)",
+     "expanded": null,
+     "rect": [
+      330,
+      1,
+      60,
+      60
+     ],
+     "actions": {
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "What science can do",
+          "href": "https://www.astrazeneca.com/what-science-can-do.html"
+         },
+         {
+          "text": "R&D",
+          "href": "https://www.astrazeneca.com/r-d.html"
+         },
+         {
+          "text": "Our therapy areas",
+          "href": "https://www.astrazeneca.com/our-therapy-areas.html"
+         },
+         {
+          "text": "Our company",
+          "href": "https://www.astrazeneca.com/our-company.html"
+         },
+         {
+          "text": "Careers",
+          "href": "https://careers.astrazeneca.com/"
+         },
+         {
+          "text": "Investors",
+          "href": "https://www.astrazeneca.com/investor-relations.html"
+         },
+         {
+          "text": "Media",
+          "href": "https://www.astrazeneca.com/media-centre.html"
+         },
+         {
+          "text": "Sustainability",
+          "href": "https://www.astrazeneca.com/sustainability.html"
+         },
+         {
+          "text": "Partnering",
+          "href": "https://www.astrazeneca.com/partnering.html"
+         },
+         {
+          "text": "AstraZeneca Websites",
+          "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html"
+         },
+         {
+          "text": "Global site",
+          "href": "https://www.astrazeneca.com/"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         61,
+         390,
+         580
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "390-003-Menu-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "What science can do",
+          "href": "https://www.astrazeneca.com/what-science-can-do.html"
+         },
+         {
+          "text": "R&D",
+          "href": "https://www.astrazeneca.com/r-d.html"
+         },
+         {
+          "text": "Our therapy areas",
+          "href": "https://www.astrazeneca.com/our-therapy-areas.html"
+         },
+         {
+          "text": "Our company",
+          "href": "https://www.astrazeneca.com/our-company.html"
+         },
+         {
+          "text": "Careers",
+          "href": "https://careers.astrazeneca.com/"
+         },
+         {
+          "text": "Investors",
+          "href": "https://www.astrazeneca.com/investor-relations.html"
+         },
+         {
+          "text": "Media",
+          "href": "https://www.astrazeneca.com/media-centre.html"
+         },
+         {
+          "text": "Sustainability",
+          "href": "https://www.astrazeneca.com/sustainability.html"
+         },
+         {
+          "text": "Partnering",
+          "href": "https://www.astrazeneca.com/partnering.html"
+         },
+         {
+          "text": "AstraZeneca Websites",
+          "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html"
+         },
+         {
+          "text": "Global site",
+          "href": "https://www.astrazeneca.com/"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [],
+        "options": 0,
+        "rect": [
+         0,
+         61,
+         390,
+         580
+        ]
+       },
+       "expanded": null,
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "390-004-Menu-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "What science can do",
+       "key": "what science can do",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(1)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        61,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "What science can do",
+            "href": "https://www.astrazeneca.com/what-science-can-do.html"
+           },
+           {
+            "text": "Stories of impact",
+            "href": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html?filters=impact,Feature"
+           },
+           {
+            "text": "Publications",
+            "href": "https://www.astrazeneca.com/publication.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           119,
+           390,
+           204
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-005-What-science-can-do-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "What science can do",
+            "href": "https://www.astrazeneca.com/what-science-can-do.html"
+           },
+           {
+            "text": "Stories of impact",
+            "href": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html?filters=impact,Feature"
+           },
+           {
+            "text": "Publications",
+            "href": "https://www.astrazeneca.com/publication.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           119,
+           390,
+           204
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-006-What-science-can-do-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "R&D",
+       "key": "rd",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(2)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        119,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "R&D",
+            "href": "https://www.astrazeneca.com/r-d.html"
+           },
+           {
+            "text": "Our approach",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach.html"
+           },
+           {
+            "text": "Innovation in medicines",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html"
+           },
+           {
+            "text": "Science & Technologies",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html"
+           },
+           {
+            "text": "Patient Commitment",
+            "href": "https://www.astrazeneca.com/r-d/patient-commitment.html"
+           },
+           {
+            "text": "R&D Collaborations",
+            "href": "https://www.astrazeneca.com/r-d/collaborations.html"
+           },
+           {
+            "text": "Our R&D centres",
+            "href": "https://www.astrazeneca.com/r-d/r-d-centres.html"
+           },
+           {
+            "text": "Featured website AstraZeneca Clinical Trials",
+            "href": "https://www.astrazenecaclinicaltrials.com/"
+           },
+           {
+            "text": "Featured website Open Innovation",
+            "href": "https://openinnovation.astrazeneca.com/"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           177,
+           390,
+           667
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-007-R-D-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "R&D",
+            "href": "https://www.astrazeneca.com/r-d.html"
+           },
+           {
+            "text": "Our approach",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach.html"
+           },
+           {
+            "text": "Innovation in medicines",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html"
+           },
+           {
+            "text": "Science & Technologies",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html"
+           },
+           {
+            "text": "Patient Commitment",
+            "href": "https://www.astrazeneca.com/r-d/patient-commitment.html"
+           },
+           {
+            "text": "R&D Collaborations",
+            "href": "https://www.astrazeneca.com/r-d/collaborations.html"
+           },
+           {
+            "text": "Our R&D centres",
+            "href": "https://www.astrazeneca.com/r-d/r-d-centres.html"
+           },
+           {
+            "text": "Featured website AstraZeneca Clinical Trials",
+            "href": "https://www.astrazenecaclinicaltrials.com/"
+           },
+           {
+            "text": "Featured website Open Innovation",
+            "href": "https://openinnovation.astrazeneca.com/"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           177,
+           390,
+           667
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-008-R-D-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Our therapy areas",
+       "key": "our therapy areas",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(3)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        177,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Our therapy areas",
+            "href": "https://www.astrazeneca.com/our-therapy-areas.html"
+           },
+           {
+            "text": "Oncology",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/oncology.html"
+           },
+           {
+            "text": "BioPharmaceuticals",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/biopharmaceuticals.html"
+           },
+           {
+            "text": "Cardiovascular, Renal and Metabolism",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism.html"
+           },
+           {
+            "text": "Respiratory & Immunology",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology.html"
+           },
+           {
+            "text": "Infectious Disease",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/infectious-disease.html"
+           },
+           {
+            "text": "Rare Disease",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/rare-disease.html"
+           },
+           {
+            "text": "Pipeline",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html"
+           },
+           {
+            "text": "All medicines",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/medicines.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           235,
+           390,
+           552
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-009-Our-therapy-areas-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Our therapy areas",
+            "href": "https://www.astrazeneca.com/our-therapy-areas.html"
+           },
+           {
+            "text": "Oncology",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/oncology.html"
+           },
+           {
+            "text": "BioPharmaceuticals",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/biopharmaceuticals.html"
+           },
+           {
+            "text": "Cardiovascular, Renal and Metabolism",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism.html"
+           },
+           {
+            "text": "Respiratory & Immunology",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology.html"
+           },
+           {
+            "text": "Infectious Disease",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/infectious-disease.html"
+           },
+           {
+            "text": "Rare Disease",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/rare-disease.html"
+           },
+           {
+            "text": "Pipeline",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html"
+           },
+           {
+            "text": "All medicines",
+            "href": "https://www.astrazeneca.com/our-therapy-areas/medicines.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           235,
+           390,
+           552
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-010-Our-therapy-areas-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Our company",
+       "key": "our company",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(4)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        235,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Our company",
+            "href": "https://www.astrazeneca.com/our-company.html"
+           },
+           {
+            "text": "Our history",
+            "href": "https://www.astrazeneca.com/our-company/history.html"
+           },
+           {
+            "text": "Our leadership",
+            "href": "https://www.astrazeneca.com/our-company/leadership.html"
+           },
+           {
+            "text": "Cambridge",
+            "href": "https://www.astrazeneca.com/our-company/our-locations/cambridge.html"
+           },
+           {
+            "text": "Gothenburg",
+            "href": "https://www.astrazeneca.com/our-company/our-locations/gothenburg.html"
+           },
+           {
+            "text": "Gaithersburg",
+            "href": "https://www.astrazeneca.com/our-company/our-locations/gaithersburg.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           293,
+           390,
+           378
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-011-Our-company-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Our company",
+            "href": "https://www.astrazeneca.com/our-company.html"
+           },
+           {
+            "text": "Our history",
+            "href": "https://www.astrazeneca.com/our-company/history.html"
+           },
+           {
+            "text": "Our leadership",
+            "href": "https://www.astrazeneca.com/our-company/leadership.html"
+           },
+           {
+            "text": "Cambridge",
+            "href": "https://www.astrazeneca.com/our-company/our-locations/cambridge.html"
+           },
+           {
+            "text": "Gothenburg",
+            "href": "https://www.astrazeneca.com/our-company/our-locations/gothenburg.html"
+           },
+           {
+            "text": "Gaithersburg",
+            "href": "https://www.astrazeneca.com/our-company/our-locations/gaithersburg.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           293,
+           390,
+           378
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-012-Our-company-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Careers",
+       "key": "careers",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(5)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        293,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Careers",
+            "href": "https://careers.astrazeneca.com/"
+           },
+           {
+            "text": "Great place to work",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+           },
+           {
+            "text": "Inclusion and diversity",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html"
+           },
+           {
+            "text": "Learning and development",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html"
+           },
+           {
+            "text": "Employee resource groups",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/employee-resource-groups.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           351,
+           390,
+           320
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-013-Careers-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Careers",
+            "href": "https://careers.astrazeneca.com/"
+           },
+           {
+            "text": "Great place to work",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+           },
+           {
+            "text": "Inclusion and diversity",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html"
+           },
+           {
+            "text": "Learning and development",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html"
+           },
+           {
+            "text": "Employee resource groups",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/employee-resource-groups.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           351,
+           390,
+           320
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-014-Careers-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Investors",
+       "key": "investors",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(6)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        351,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Investor Relations (Global)",
+            "href": "https://www.astrazeneca.com/investor-relations.html"
+           },
+           {
+            "text": "Investor Relations (Sweden)",
+            "href": "https://www.astrazeneca.se/aktieagare.html"
+           },
+           {
+            "text": "Resources",
+            "href": "https://www.astrazeneca.com/investor-relations/resources.html"
+           },
+           {
+            "text": "Governance",
+            "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html"
+           },
+           {
+            "text": "Shareholder information",
+            "href": "https://www.astrazeneca.com/investor-relations/shareholder-information.html"
+           },
+           {
+            "text": "Dividend policy",
+            "href": "https://www.astrazeneca.com/investor-relations/dividend-policy.html"
+           },
+           {
+            "text": "Key facts",
+            "href": "https://www.astrazeneca.com/investor-relations/key-facts.html"
+           },
+           {
+            "text": "FAQs",
+            "href": "https://www.astrazeneca.com/investor-relations/faqs.html"
+           },
+           {
+            "text": "Debt Investors",
+            "href": "https://www.astrazeneca.com/investor-relations/debt-investors.html"
+           },
+           {
+            "text": "Investor Relations contacts",
+            "href": "https://www.astrazeneca.com/investor-relations/contacts-information.html"
+           },
+           {
+            "text": "Annual Report 2025",
+            "href": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2025.html"
+           },
+           {
+            "text": "Feature 9M and Q3 2026 results",
+            "href": "https://www.astrazeneca.com/investor-relations/9m-and-q3-2026-results-event.html"
+           },
+           {
+            "text": "Feature Results and presentations",
+            "href": "https://www.astrazeneca.com/investor-relations/results-and-presentations.html"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           409,
+           390,
+           435
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-015-Investors-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Investor Relations (Global)",
+            "href": "https://www.astrazeneca.com/investor-relations.html"
+           },
+           {
+            "text": "Investor Relations (Sweden)",
+            "href": "https://www.astrazeneca.se/aktieagare.html"
+           },
+           {
+            "text": "Resources",
+            "href": "https://www.astrazeneca.com/investor-relations/resources.html"
+           },
+           {
+            "text": "Governance",
+            "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html"
+           },
+           {
+            "text": "Shareholder information",
+            "href": "https://www.astrazeneca.com/investor-relations/shareholder-information.html"
+           },
+           {
+            "text": "Dividend policy",
+            "href": "https://www.astrazeneca.com/investor-relations/dividend-policy.html"
+           },
+           {
+            "text": "Key facts",
+            "href": "https://www.astrazeneca.com/investor-relations/key-facts.html"
+           },
+           {
+            "text": "FAQs",
+            "href": "https://www.astrazeneca.com/investor-relations/faqs.html"
+           },
+           {
+            "text": "Debt Investors",
+            "href": "https://www.astrazeneca.com/investor-relations/debt-investors.html"
+           },
+           {
+            "text": "Investor Relations contacts",
+            "href": "https://www.astrazeneca.com/investor-relations/contacts-information.html"
+           },
+           {
+            "text": "Annual Report 2025",
+            "href": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2025.html"
+           },
+           {
+            "text": "Feature 9M and Q3 2026 results",
+            "href": "https://www.astrazeneca.com/investor-relations/9m-and-q3-2026-results-event.html"
+           },
+           {
+            "text": "Feature Results and presentations",
+            "href": "https://www.astrazeneca.com/investor-relations/results-and-presentations.html"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           409,
+           390,
+           435
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-016-Investors-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Media",
+       "key": "media",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(7)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        409,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Media",
+            "href": "https://www.astrazeneca.com/media-centre.html"
+           },
+           {
+            "text": "Press Releases",
+            "href": "https://www.astrazeneca.com/media-centre/press-releases.html"
+           },
+           {
+            "text": "Articles",
+            "href": "https://www.astrazeneca.com/media-centre/articles.html"
+           },
+           {
+            "text": "Image library",
+            "href": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html"
+           },
+           {
+            "text": "B-roll videos",
+            "href": "https://www.astrazeneca.com/media-centre/b-roll.html"
+           },
+           {
+            "text": "Archive",
+            "href": "https://www.astrazeneca.com/media-centre/archive.html"
+           },
+           {
+            "text": "Media contacts",
+            "href": "https://www.astrazeneca.com/media-centre/contacts.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           467,
+           390,
+           377
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-017-Media-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Media",
+            "href": "https://www.astrazeneca.com/media-centre.html"
+           },
+           {
+            "text": "Press Releases",
+            "href": "https://www.astrazeneca.com/media-centre/press-releases.html"
+           },
+           {
+            "text": "Articles",
+            "href": "https://www.astrazeneca.com/media-centre/articles.html"
+           },
+           {
+            "text": "Image library",
+            "href": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html"
+           },
+           {
+            "text": "B-roll videos",
+            "href": "https://www.astrazeneca.com/media-centre/b-roll.html"
+           },
+           {
+            "text": "Archive",
+            "href": "https://www.astrazeneca.com/media-centre/archive.html"
+           },
+           {
+            "text": "Media contacts",
+            "href": "https://www.astrazeneca.com/media-centre/contacts.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           467,
+           390,
+           377
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-018-Media-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Sustainability",
+       "key": "sustainability",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(8)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        467,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Sustainability",
+            "href": "https://www.astrazeneca.com/sustainability.html"
+           },
+           {
+            "text": "Climate change",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change.html"
+           },
+           {
+            "text": "Nature",
+            "href": "https://www.astrazeneca.com/sustainability/nature.html"
+           },
+           {
+            "text": "Health equity",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity.html"
+           },
+           {
+            "text": "Health systems resilience",
+            "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html"
+           },
+           {
+            "text": "Ethics and governance",
+            "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html"
+           },
+           {
+            "text": "Our people",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+           },
+           {
+            "text": "Our Values",
+            "href": "https://www.astrazeneca.com/our-company.html#values"
+           },
+           {
+            "text": "Partnerships and alliances",
+            "href": "https://www.astrazeneca.com/sustainability/partnerships-and-alliances.html"
+           },
+           {
+            "text": "Resources",
+            "href": "https://www.astrazeneca.com/sustainability/resources.html"
+           },
+           {
+            "text": "Feature Our Sustainability Impact",
+            "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html"
+           },
+           {
+            "text": "Feature Sustainable science",
+            "href": "https://www.astrazeneca.com/media-centre/articles/sustainable-science-lab-to-patient.html"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           525,
+           390,
+           319
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-019-Sustainability-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Sustainability",
+            "href": "https://www.astrazeneca.com/sustainability.html"
+           },
+           {
+            "text": "Climate change",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change.html"
+           },
+           {
+            "text": "Nature",
+            "href": "https://www.astrazeneca.com/sustainability/nature.html"
+           },
+           {
+            "text": "Health equity",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity.html"
+           },
+           {
+            "text": "Health systems resilience",
+            "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html"
+           },
+           {
+            "text": "Ethics and governance",
+            "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html"
+           },
+           {
+            "text": "Our people",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+           },
+           {
+            "text": "Our Values",
+            "href": "https://www.astrazeneca.com/our-company.html#values"
+           },
+           {
+            "text": "Partnerships and alliances",
+            "href": "https://www.astrazeneca.com/sustainability/partnerships-and-alliances.html"
+           },
+           {
+            "text": "Resources",
+            "href": "https://www.astrazeneca.com/sustainability/resources.html"
+           },
+           {
+            "text": "Feature Our Sustainability Impact",
+            "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html"
+           },
+           {
+            "text": "Feature Sustainable science",
+            "href": "https://www.astrazeneca.com/media-centre/articles/sustainable-science-lab-to-patient.html"
+           }
+          ],
+          "headings": [],
+          "images": 2,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           525,
+           390,
+           319
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-020-Sustainability-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Partnering",
+       "key": "partnering",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul:nth-of-type(1)>li:nth-of-type(9)>a",
+       "expanded": "false",
+       "rect": [
+        0,
+        525,
+        390,
+        58
+       ],
+       "actions": {
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Partnering",
+            "href": "https://www.astrazeneca.com/partnering.html"
+           },
+           {
+            "text": "Our business development teams",
+            "href": "https://www.astrazeneca.com/partnering/our-partnering-teams.html"
+           },
+           {
+            "text": "Our areas of partnering interest",
+            "href": "https://www.astrazeneca.com/partnering/our-areas-of-partnering-interest.html"
+           },
+           {
+            "text": "Why partner with AstraZeneca?",
+            "href": "https://www.astrazeneca.com/partnering/why-partner-with-astrazeneca.html"
+           },
+           {
+            "text": "Information for Suppliers",
+            "href": "https://www.astrazeneca.com/partnering/az-suppliers.html"
+           },
+           {
+            "text": "Supplier Sustainability Hub",
+            "href": "https://www.astrazeneca.com/partnering/supplier-sustainability-hub.html"
+           },
+           {
+            "text": "Sustainable procurement",
+            "href": "https://www.astrazeneca.com/partnering/sustainable-procurement.html"
+           },
+           {
+            "text": "A Catalyst Network",
+            "href": "https://www.astrazeneca.com/partnering/a-catalyst-network.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           583,
+           390,
+           261
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-021-Partnering-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "Partnering",
+            "href": "https://www.astrazeneca.com/partnering.html"
+           },
+           {
+            "text": "Our business development teams",
+            "href": "https://www.astrazeneca.com/partnering/our-partnering-teams.html"
+           },
+           {
+            "text": "Our areas of partnering interest",
+            "href": "https://www.astrazeneca.com/partnering/our-areas-of-partnering-interest.html"
+           },
+           {
+            "text": "Why partner with AstraZeneca?",
+            "href": "https://www.astrazeneca.com/partnering/why-partner-with-astrazeneca.html"
+           },
+           {
+            "text": "Information for Suppliers",
+            "href": "https://www.astrazeneca.com/partnering/az-suppliers.html"
+           },
+           {
+            "text": "Supplier Sustainability Hub",
+            "href": "https://www.astrazeneca.com/partnering/supplier-sustainability-hub.html"
+           },
+           {
+            "text": "Sustainable procurement",
+            "href": "https://www.astrazeneca.com/partnering/sustainable-procurement.html"
+           },
+           {
+            "text": "A Catalyst Network",
+            "href": "https://www.astrazeneca.com/partnering/a-catalyst-network.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           0,
+           583,
+           390,
+           261
+          ]
+         },
+         "expanded": "false",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "390-022-Partnering-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "static",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 1000,
+     "top": -1000,
+     "height": 61,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "up",
+     "y": 700,
+     "top": -700,
+     "height": 61,
+     "position": "static",
+     "inView": false
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 61,
+     "position": "static",
+     "inView": true
+    }
+   ],
+   "states": 22,
+   "truncated": "depth 2 at Menu > What science can do",
+   "loads": 1,
+   "requests": 20,
+   "maxRequests": 600,
+   "inputsSkipped": 0
+  },
+  "1440": {
+   "root": "#navigation",
+   "controls": [
+    {
+     "name": "",
+     "key": "",
+     "role": "link",
+     "kind": "link",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(1)>div:nth-of-type(1)>a",
+     "href": "https://www.astrazeneca.com/",
+     "expanded": null,
+     "rect": [
+      100,
+      0,
+      88,
+      44
+     ],
+     "actions": {}
+    },
+    {
+     "name": "AstraZeneca Websites",
+     "key": "astrazeneca websites",
+     "role": "link",
+     "kind": "link",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(1)>ul>li:nth-of-type(1)>a",
+     "href": "https://www.astrazeneca.com/global/en/AstraZeneca-Websites.html",
+     "expanded": null,
+     "rect": [
+      1094,
+      18,
+      116,
+      11
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Global site",
+     "key": "global site",
+     "role": "link",
+     "kind": "link",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(1)>ul>li:nth-of-type(2)>a",
+     "href": "https://www.astrazeneca.com/",
+     "expanded": null,
+     "rect": [
+      1230,
+      18,
+      70,
+      11
+     ],
+     "actions": {}
+    },
+    {
+     "name": "Search",
+     "key": "search",
+     "role": "toggle",
+     "kind": "search",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(2)>button:nth-of-type(1)",
+     "expanded": null,
+     "rect": [
+      1317,
+      0,
+      44,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [],
+        "headings": [],
+        "images": 0,
+        "inputs": [
+         "text"
+        ],
+        "buttons": [
+         "Search",
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         80,
+         0,
+         1280,
+         44
+        ]
+       },
+       "expanded": null,
+       "focus": "panel",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "right",
+         "ms": 300,
+         "delay": 0,
+         "easing": "ease-out",
+         "target": "div.navigation__search"
+        }
+       ],
+       "shot": "1440-001-Search-click.png"
+      },
+      "key": null
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": false,
+      "toggle": false
+     },
+     "children": [
+      {
+       "name": "Enter your search",
+       "key": "enter your search",
+       "role": "input",
+       "kind": "search",
+       "sel": "#Search",
+       "expanded": null,
+       "rect": [
+        125,
+        0,
+        1191,
+        44
+       ],
+       "actions": {},
+       "search": {
+        "probe": "skip",
+        "typeahead": {
+         "links": 0,
+         "options": 0
+        },
+        "submit": "https://www.astrazeneca.com/search_results.s.html?q={q}"
+       }
+      },
+      {
+       "name": "Search",
+       "key": "search",
+       "role": "toggle",
+       "kind": "search",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(2)>form>button",
+       "expanded": null,
+       "rect": [
+        1228,
+        0,
+        88,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": null,
+        "key": null
+       }
+      },
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(1)>div>div:nth-of-type(2)>button:nth-of-type(2)",
+       "expanded": null,
+       "rect": [
+        1316,
+        0,
+        44,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 3
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "What science can do",
+     "key": "what science can do",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(1)>a",
+     "expanded": "false",
+     "rect": [
+      97,
+      47,
+      187,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "What science can do",
+          "href": "https://www.astrazeneca.com/what-science-can-do.html"
+         },
+         {
+          "text": "Stories of impact",
+          "href": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html?filters=impact,Feature"
+         },
+         {
+          "text": "Publications",
+          "href": "https://www.astrazeneca.com/publication.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-002-What-science-can-do-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "What science can do",
+          "href": "https://www.astrazeneca.com/what-science-can-do.html"
+         },
+         {
+          "text": "Stories of impact",
+          "href": "https://www.astrazeneca.com/what-science-can-do/stories-of-impact.html?filters=impact,Feature"
+         },
+         {
+          "text": "Publications",
+          "href": "https://www.astrazeneca.com/publication.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-003-What-science-can-do-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(1)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 4
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "R&D",
+     "key": "rd",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>a",
+     "expanded": "false",
+     "rect": [
+      309,
+      47,
+      55,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "R&D",
+          "href": "https://www.astrazeneca.com/r-d.html"
+         },
+         {
+          "text": "Our approach",
+          "href": "https://www.astrazeneca.com/r-d/rd-approach.html"
+         },
+         {
+          "text": "Innovation in medicines",
+          "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html"
+         },
+         {
+          "text": "Science & Technologies",
+          "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html"
+         },
+         {
+          "text": "Patient Commitment",
+          "href": "https://www.astrazeneca.com/r-d/patient-commitment.html"
+         },
+         {
+          "text": "R&D Collaborations",
+          "href": "https://www.astrazeneca.com/r-d/collaborations.html"
+         },
+         {
+          "text": "Our R&D centres",
+          "href": "https://www.astrazeneca.com/r-d/r-d-centres.html"
+         },
+         {
+          "text": "Featured website AstraZeneca Clinical Trials",
+          "href": "https://www.astrazenecaclinicaltrials.com/"
+         },
+         {
+          "text": "Featured website Open Innovation",
+          "href": "https://openinnovation.astrazeneca.com/"
+         }
+        ],
+        "headings": [],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-004-R-D-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "R&D",
+          "href": "https://www.astrazeneca.com/r-d.html"
+         },
+         {
+          "text": "Our approach",
+          "href": "https://www.astrazeneca.com/r-d/rd-approach.html"
+         },
+         {
+          "text": "Innovation in medicines",
+          "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html"
+         },
+         {
+          "text": "Science & Technologies",
+          "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html"
+         },
+         {
+          "text": "Patient Commitment",
+          "href": "https://www.astrazeneca.com/r-d/patient-commitment.html"
+         },
+         {
+          "text": "R&D Collaborations",
+          "href": "https://www.astrazeneca.com/r-d/collaborations.html"
+         },
+         {
+          "text": "Our R&D centres",
+          "href": "https://www.astrazeneca.com/r-d/r-d-centres.html"
+         },
+         {
+          "text": "Featured website AstraZeneca Clinical Trials",
+          "href": "https://www.astrazenecaclinicaltrials.com/"
+         },
+         {
+          "text": "Featured website Open Innovation",
+          "href": "https://openinnovation.astrazeneca.com/"
+         }
+        ],
+        "headings": [],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-005-R-D-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "R&D",
+       "key": "rd",
+       "role": "link",
+       "kind": "link",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>a",
+       "href": "https://www.astrazeneca.com/r-d.html",
+       "expanded": null,
+       "rect": [
+        112,
+        115,
+        390,
+        44
+       ],
+       "actions": {}
+      },
+      {
+       "name": "Our approach",
+       "key": "our approach",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(1)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        161,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach/oncology-research-and-development.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach/rare-disease-strategy.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach/stem-at-astrazeneca.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-006-Our-approach-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach/oncology-research-and-development.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach/rare-disease-strategy.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/rd-approach/stem-at-astrazeneca.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-007-Our-approach-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Innovation in medicines",
+       "key": "innovation in medicines",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(2)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        205,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines/cell-therapies.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines/oligonucleotides.html.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-008-Innovation-in-medicines-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines/cell-therapies.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/innovation-in-medicines/oligonucleotides.html.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-009-Innovation-in-medicines-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Science & Technologies",
+       "key": "science technologies",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(3)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        249,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies/ai-data.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies/genomics.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies/new-approach-methodologies.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-010-Science-Technologies-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies/ai-data.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies/genomics.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/r-d/science-and-technologies/new-approach-methodologies.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-011-Science-Technologies-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Featured website AstraZeneca Clinical Trials",
+       "key": "featured website astrazeneca clinical trials",
+       "role": "link",
+       "kind": "link",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>div>div:nth-of-type(1)>div:nth-of-type(2)>a:nth-of-type(1)",
+       "href": "https://www.astrazenecaclinicaltrials.com/",
+       "expanded": null,
+       "rect": [
+        968,
+        113,
+        355,
+        254
+       ],
+       "actions": {}
+      },
+      {
+       "name": "Featured website Open Innovation",
+       "key": "featured website open innovation",
+       "role": "link",
+       "kind": "link",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>div>div:nth-of-type(1)>div:nth-of-type(2)>a:nth-of-type(2)",
+       "href": "https://openinnovation.astrazeneca.com/",
+       "expanded": null,
+       "rect": [
+        968,
+        397,
+        355,
+        254
+       ],
+       "actions": {}
+      },
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(2)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 12
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Our therapy areas",
+     "key": "our therapy areas",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(3)>a",
+     "expanded": "false",
+     "rect": [
+      389,
+      47,
+      164,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Our therapy areas",
+          "href": "https://www.astrazeneca.com/our-therapy-areas.html"
+         },
+         {
+          "text": "Oncology",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/oncology.html"
+         },
+         {
+          "text": "BioPharmaceuticals",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/biopharmaceuticals.html"
+         },
+         {
+          "text": "Cardiovascular, Renal and Metabolism",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism.html"
+         },
+         {
+          "text": "Respiratory & Immunology",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology.html"
+         },
+         {
+          "text": "Infectious Disease",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/infectious-disease.html"
+         },
+         {
+          "text": "Rare Disease",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/rare-disease.html"
+         },
+         {
+          "text": "Pipeline",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html"
+         },
+         {
+          "text": "All medicines",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/medicines.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-012-Our-therapy-areas-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Our therapy areas",
+          "href": "https://www.astrazeneca.com/our-therapy-areas.html"
+         },
+         {
+          "text": "Oncology",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/oncology.html"
+         },
+         {
+          "text": "BioPharmaceuticals",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/biopharmaceuticals.html"
+         },
+         {
+          "text": "Cardiovascular, Renal and Metabolism",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism.html"
+         },
+         {
+          "text": "Respiratory & Immunology",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology.html"
+         },
+         {
+          "text": "Infectious Disease",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/infectious-disease.html"
+         },
+         {
+          "text": "Rare Disease",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/rare-disease.html"
+         },
+         {
+          "text": "Pipeline",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html"
+         },
+         {
+          "text": "All medicines",
+          "href": "https://www.astrazeneca.com/our-therapy-areas/medicines.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-013-Our-therapy-areas-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(3)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 10
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Our company",
+     "key": "our company",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(4)>a",
+     "expanded": "false",
+     "rect": [
+      578,
+      47,
+      127,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Our company",
+          "href": "https://www.astrazeneca.com/our-company.html"
+         },
+         {
+          "text": "Our history",
+          "href": "https://www.astrazeneca.com/our-company/history.html"
+         },
+         {
+          "text": "Our leadership",
+          "href": "https://www.astrazeneca.com/our-company/leadership.html"
+         },
+         {
+          "text": "Cambridge",
+          "href": "https://www.astrazeneca.com/our-company/our-locations/cambridge.html"
+         },
+         {
+          "text": "Gothenburg",
+          "href": "https://www.astrazeneca.com/our-company/our-locations/gothenburg.html"
+         },
+         {
+          "text": "Gaithersburg",
+          "href": "https://www.astrazeneca.com/our-company/our-locations/gaithersburg.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-014-Our-company-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Our company",
+          "href": "https://www.astrazeneca.com/our-company.html"
+         },
+         {
+          "text": "Our history",
+          "href": "https://www.astrazeneca.com/our-company/history.html"
+         },
+         {
+          "text": "Our leadership",
+          "href": "https://www.astrazeneca.com/our-company/leadership.html"
+         },
+         {
+          "text": "Cambridge",
+          "href": "https://www.astrazeneca.com/our-company/our-locations/cambridge.html"
+         },
+         {
+          "text": "Gothenburg",
+          "href": "https://www.astrazeneca.com/our-company/our-locations/gothenburg.html"
+         },
+         {
+          "text": "Gaithersburg",
+          "href": "https://www.astrazeneca.com/our-company/our-locations/gaithersburg.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-015-Our-company-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(4)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 7
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Careers",
+     "key": "careers",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(5)>a",
+     "expanded": "false",
+     "rect": [
+      730,
+      47,
+      80,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Careers",
+          "href": "https://careers.astrazeneca.com/"
+         },
+         {
+          "text": "Great place to work",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+         },
+         {
+          "text": "Inclusion and diversity",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html"
+         },
+         {
+          "text": "Learning and development",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html"
+         },
+         {
+          "text": "Employee resource groups",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work/employee-resource-groups.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-016-Careers-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Careers",
+          "href": "https://careers.astrazeneca.com/"
+         },
+         {
+          "text": "Great place to work",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+         },
+         {
+          "text": "Inclusion and diversity",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html"
+         },
+         {
+          "text": "Learning and development",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html"
+         },
+         {
+          "text": "Employee resource groups",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work/employee-resource-groups.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-017-Careers-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(5)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 6
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Investors",
+     "key": "investors",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(6)>a",
+     "expanded": "false",
+     "rect": [
+      835,
+      47,
+      93,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Investor Relations (Global)",
+          "href": "https://www.astrazeneca.com/investor-relations.html"
+         },
+         {
+          "text": "Investor Relations (Sweden)",
+          "href": "https://www.astrazeneca.se/aktieagare.html"
+         },
+         {
+          "text": "Resources",
+          "href": "https://www.astrazeneca.com/investor-relations/resources.html"
+         },
+         {
+          "text": "Governance",
+          "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html"
+         },
+         {
+          "text": "Shareholder information",
+          "href": "https://www.astrazeneca.com/investor-relations/shareholder-information.html"
+         },
+         {
+          "text": "Dividend policy",
+          "href": "https://www.astrazeneca.com/investor-relations/dividend-policy.html"
+         },
+         {
+          "text": "Key facts",
+          "href": "https://www.astrazeneca.com/investor-relations/key-facts.html"
+         },
+         {
+          "text": "FAQs",
+          "href": "https://www.astrazeneca.com/investor-relations/faqs.html"
+         },
+         {
+          "text": "Debt Investors",
+          "href": "https://www.astrazeneca.com/investor-relations/debt-investors.html"
+         },
+         {
+          "text": "Investor Relations contacts",
+          "href": "https://www.astrazeneca.com/investor-relations/contacts-information.html"
+         },
+         {
+          "text": "Annual Report 2025",
+          "href": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2025.html"
+         },
+         {
+          "text": "Feature 9M and Q3 2026 results",
+          "href": "https://www.astrazeneca.com/investor-relations/9m-and-q3-2026-results-event.html"
+         },
+         {
+          "text": "Feature Results and presentations",
+          "href": "https://www.astrazeneca.com/investor-relations/results-and-presentations.html"
+         }
+        ],
+        "headings": [],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-018-Investors-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Investor Relations (Global)",
+          "href": "https://www.astrazeneca.com/investor-relations.html"
+         },
+         {
+          "text": "Investor Relations (Sweden)",
+          "href": "https://www.astrazeneca.se/aktieagare.html"
+         },
+         {
+          "text": "Resources",
+          "href": "https://www.astrazeneca.com/investor-relations/resources.html"
+         },
+         {
+          "text": "Governance",
+          "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html"
+         },
+         {
+          "text": "Shareholder information",
+          "href": "https://www.astrazeneca.com/investor-relations/shareholder-information.html"
+         },
+         {
+          "text": "Dividend policy",
+          "href": "https://www.astrazeneca.com/investor-relations/dividend-policy.html"
+         },
+         {
+          "text": "Key facts",
+          "href": "https://www.astrazeneca.com/investor-relations/key-facts.html"
+         },
+         {
+          "text": "FAQs",
+          "href": "https://www.astrazeneca.com/investor-relations/faqs.html"
+         },
+         {
+          "text": "Debt Investors",
+          "href": "https://www.astrazeneca.com/investor-relations/debt-investors.html"
+         },
+         {
+          "text": "Investor Relations contacts",
+          "href": "https://www.astrazeneca.com/investor-relations/contacts-information.html"
+         },
+         {
+          "text": "Annual Report 2025",
+          "href": "https://www.astrazeneca.com/investor-relations/annual-reports/annual-report-2025.html"
+         },
+         {
+          "text": "Feature 9M and Q3 2026 results",
+          "href": "https://www.astrazeneca.com/investor-relations/9m-and-q3-2026-results-event.html"
+         },
+         {
+          "text": "Feature Results and presentations",
+          "href": "https://www.astrazeneca.com/investor-relations/results-and-presentations.html"
+         }
+        ],
+        "headings": [],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-019-Investors-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(6)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 16
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Media",
+     "key": "media",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(7)>a",
+     "expanded": "false",
+     "rect": [
+      953,
+      47,
+      68,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Media",
+          "href": "https://www.astrazeneca.com/media-centre.html"
+         },
+         {
+          "text": "Press Releases",
+          "href": "https://www.astrazeneca.com/media-centre/press-releases.html"
+         },
+         {
+          "text": "Articles",
+          "href": "https://www.astrazeneca.com/media-centre/articles.html"
+         },
+         {
+          "text": "Image library",
+          "href": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html"
+         },
+         {
+          "text": "B-roll videos",
+          "href": "https://www.astrazeneca.com/media-centre/b-roll.html"
+         },
+         {
+          "text": "Archive",
+          "href": "https://www.astrazeneca.com/media-centre/archive.html"
+         },
+         {
+          "text": "Media contacts",
+          "href": "https://www.astrazeneca.com/media-centre/contacts.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-020-Media-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Media",
+          "href": "https://www.astrazeneca.com/media-centre.html"
+         },
+         {
+          "text": "Press Releases",
+          "href": "https://www.astrazeneca.com/media-centre/press-releases.html"
+         },
+         {
+          "text": "Articles",
+          "href": "https://www.astrazeneca.com/media-centre/articles.html"
+         },
+         {
+          "text": "Image library",
+          "href": "https://www.astrazeneca.com/media-centre/image-and-broadcast-library.html"
+         },
+         {
+          "text": "B-roll videos",
+          "href": "https://www.astrazeneca.com/media-centre/b-roll.html"
+         },
+         {
+          "text": "Archive",
+          "href": "https://www.astrazeneca.com/media-centre/archive.html"
+         },
+         {
+          "text": "Media contacts",
+          "href": "https://www.astrazeneca.com/media-centre/contacts.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-021-Media-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(7)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 8
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Sustainability",
+     "key": "sustainability",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>a",
+     "expanded": "false",
+     "rect": [
+      1046,
+      47,
+      133,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Sustainability",
+          "href": "https://www.astrazeneca.com/sustainability.html"
+         },
+         {
+          "text": "Climate change",
+          "href": "https://www.astrazeneca.com/sustainability/climate-change.html"
+         },
+         {
+          "text": "Nature",
+          "href": "https://www.astrazeneca.com/sustainability/nature.html"
+         },
+         {
+          "text": "Health equity",
+          "href": "https://www.astrazeneca.com/sustainability/health-equity.html"
+         },
+         {
+          "text": "Health systems resilience",
+          "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html"
+         },
+         {
+          "text": "Ethics and governance",
+          "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html"
+         },
+         {
+          "text": "Our people",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+         },
+         {
+          "text": "Our Values",
+          "href": "https://www.astrazeneca.com/our-company.html#values"
+         },
+         {
+          "text": "Partnerships and alliances",
+          "href": "https://www.astrazeneca.com/sustainability/partnerships-and-alliances.html"
+         },
+         {
+          "text": "Resources",
+          "href": "https://www.astrazeneca.com/sustainability/resources.html"
+         },
+         {
+          "text": "Feature Our Sustainability Impact",
+          "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html"
+         },
+         {
+          "text": "Feature Sustainable science",
+          "href": "https://www.astrazeneca.com/media-centre/articles/sustainable-science-lab-to-patient.html"
+         }
+        ],
+        "headings": [],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-022-Sustainability-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Sustainability",
+          "href": "https://www.astrazeneca.com/sustainability.html"
+         },
+         {
+          "text": "Climate change",
+          "href": "https://www.astrazeneca.com/sustainability/climate-change.html"
+         },
+         {
+          "text": "Nature",
+          "href": "https://www.astrazeneca.com/sustainability/nature.html"
+         },
+         {
+          "text": "Health equity",
+          "href": "https://www.astrazeneca.com/sustainability/health-equity.html"
+         },
+         {
+          "text": "Health systems resilience",
+          "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html"
+         },
+         {
+          "text": "Ethics and governance",
+          "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html"
+         },
+         {
+          "text": "Our people",
+          "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+         },
+         {
+          "text": "Our Values",
+          "href": "https://www.astrazeneca.com/our-company.html#values"
+         },
+         {
+          "text": "Partnerships and alliances",
+          "href": "https://www.astrazeneca.com/sustainability/partnerships-and-alliances.html"
+         },
+         {
+          "text": "Resources",
+          "href": "https://www.astrazeneca.com/sustainability/resources.html"
+         },
+         {
+          "text": "Feature Our Sustainability Impact",
+          "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html"
+         },
+         {
+          "text": "Feature Sustainable science",
+          "href": "https://www.astrazeneca.com/media-centre/articles/sustainable-science-lab-to-patient.html"
+         }
+        ],
+        "headings": [],
+        "images": 2,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-023-Sustainability-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Sustainability",
+       "key": "sustainability",
+       "role": "link",
+       "kind": "link",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>a",
+       "href": "https://www.astrazeneca.com/sustainability.html",
+       "expanded": null,
+       "rect": [
+        112,
+        115,
+        390,
+        44
+       ],
+       "actions": {}
+      },
+      {
+       "name": "Climate change",
+       "key": "climate change",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(1)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        161,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/renewable-energy.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/product-sustainability.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/accelerating-transition-electric-vehicles.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-024-Climate-change-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/renewable-energy.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/product-sustainability.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/accelerating-transition-electric-vehicles.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-025-Climate-change-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Nature",
+       "key": "nature",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(2)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        205,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature/water-stewardship.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature/pharmaceuticals-in-the-environment.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature/waste-circularity.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/az-forest.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-026-Nature-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature/water-stewardship.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature/pharmaceuticals-in-the-environment.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/nature/waste-circularity.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/climate-change/az-forest.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-027-Nature-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Health equity",
+       "key": "health equity",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(3)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        249,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity/science.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity/healthcare-delivery.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity/community-investment.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-028-Health-equity-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity/science.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity/healthcare-delivery.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-equity/community-investment.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-029-Health-equity-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Health systems resilience",
+       "key": "health systems resilience",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(4)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        293,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience/PHSSR.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-030-Health-systems-resilience-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/health-systems-resilience/PHSSR.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-031-Health-systems-resilience-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Ethics and governance",
+       "key": "ethics and governance",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(5)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        337,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/resources/sustainability-governance.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-032-Ethics-and-governance-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/ethics-compliance.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/investor-relations/corporate-governance.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/resources/sustainability-governance.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-033-Ethics-and-governance-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Our people",
+       "key": "our people",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(6)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        381,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/workforce-safety-and-health.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-034-Our-people-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/inclusion-and-diversity.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/careers/great-place-to-work/learning-development.html.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/workforce-safety-and-health.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-035-Our-people-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Resources",
+       "key": "resources",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(1)>div>ul>li:nth-of-type(9)>a",
+       "expanded": "false",
+       "rect": [
+        112,
+        513,
+        390,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/resources.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [
+          {
+           "kind": "transition",
+           "prop": "transform",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "visibility",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          },
+          {
+           "kind": "transition",
+           "prop": "opacity",
+           "ms": null,
+           "delay": null,
+           "easing": null,
+           "target": "a.navigation__primary-link"
+          }
+         ],
+         "shot": "1440-036-Resources-click.png"
+        },
+        "key": {
+         "opened": true,
+         "hidden": 0,
+         "panel": {
+          "links": [
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/resources.html"
+           },
+           {
+            "text": "",
+            "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html"
+           }
+          ],
+          "headings": [],
+          "images": 0,
+          "inputs": [],
+          "buttons": [],
+          "options": 0,
+          "rect": [
+           524,
+           93,
+           414,
+           540
+          ]
+         },
+         "expanded": "true",
+         "focus": "trigger",
+         "scrollLock": false,
+         "motion": [],
+         "shot": "1440-037-Resources-key.png",
+         "tabReachesPanel": true
+        }
+       },
+       "close": {
+        "escape": false,
+        "focusReturn": false,
+        "outside": null,
+        "toggle": true
+       }
+      },
+      {
+       "name": "Feature Our Sustainability Impact",
+       "key": "feature our sustainability impact",
+       "role": "link",
+       "kind": "link",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(2)>a:nth-of-type(1)",
+       "href": "https://www.astrazeneca.com/sustainability/resources/our-impact.html",
+       "expanded": null,
+       "rect": [
+        968,
+        113,
+        355,
+        253
+       ],
+       "actions": {}
+      },
+      {
+       "name": "Feature Sustainable science",
+       "key": "feature sustainable science",
+       "role": "link",
+       "kind": "link",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(1)>div:nth-of-type(2)>a:nth-of-type(2)",
+       "href": "https://www.astrazeneca.com/media-centre/articles/sustainable-science-lab-to-patient.html",
+       "expanded": null,
+       "rect": [
+        968,
+        396,
+        355,
+        254
+       ],
+       "actions": {}
+      },
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(8)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 15
+        },
+        "key": null
+       }
+      }
+     ]
+    },
+    {
+     "name": "Partnering",
+     "key": "partnering",
+     "role": "toggle",
+     "kind": "menu",
+     "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(9)>a",
+     "expanded": "false",
+     "rect": [
+      1204,
+      47,
+      104,
+      44
+     ],
+     "actions": {
+      "hover": null,
+      "click": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Partnering",
+          "href": "https://www.astrazeneca.com/partnering.html"
+         },
+         {
+          "text": "Our business development teams",
+          "href": "https://www.astrazeneca.com/partnering/our-partnering-teams.html"
+         },
+         {
+          "text": "Our areas of partnering interest",
+          "href": "https://www.astrazeneca.com/partnering/our-areas-of-partnering-interest.html"
+         },
+         {
+          "text": "Why partner with AstraZeneca?",
+          "href": "https://www.astrazeneca.com/partnering/why-partner-with-astrazeneca.html"
+         },
+         {
+          "text": "Information for Suppliers",
+          "href": "https://www.astrazeneca.com/partnering/az-suppliers.html"
+         },
+         {
+          "text": "Supplier Sustainability Hub",
+          "href": "https://www.astrazeneca.com/partnering/supplier-sustainability-hub.html"
+         },
+         {
+          "text": "Sustainable procurement",
+          "href": "https://www.astrazeneca.com/partnering/sustainable-procurement.html"
+         },
+         {
+          "text": "A Catalyst Network",
+          "href": "https://www.astrazeneca.com/partnering/a-catalyst-network.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [
+        {
+         "kind": "transition",
+         "prop": "transform",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "visibility",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        },
+        {
+         "kind": "transition",
+         "prop": "opacity",
+         "ms": null,
+         "delay": null,
+         "easing": null,
+         "target": "a.navigation__primary-link"
+        }
+       ],
+       "shot": "1440-038-Partnering-click.png"
+      },
+      "key": {
+       "opened": true,
+       "hidden": 0,
+       "panel": {
+        "links": [
+         {
+          "text": "Partnering",
+          "href": "https://www.astrazeneca.com/partnering.html"
+         },
+         {
+          "text": "Our business development teams",
+          "href": "https://www.astrazeneca.com/partnering/our-partnering-teams.html"
+         },
+         {
+          "text": "Our areas of partnering interest",
+          "href": "https://www.astrazeneca.com/partnering/our-areas-of-partnering-interest.html"
+         },
+         {
+          "text": "Why partner with AstraZeneca?",
+          "href": "https://www.astrazeneca.com/partnering/why-partner-with-astrazeneca.html"
+         },
+         {
+          "text": "Information for Suppliers",
+          "href": "https://www.astrazeneca.com/partnering/az-suppliers.html"
+         },
+         {
+          "text": "Supplier Sustainability Hub",
+          "href": "https://www.astrazeneca.com/partnering/supplier-sustainability-hub.html"
+         },
+         {
+          "text": "Sustainable procurement",
+          "href": "https://www.astrazeneca.com/partnering/sustainable-procurement.html"
+         },
+         {
+          "text": "A Catalyst Network",
+          "href": "https://www.astrazeneca.com/partnering/a-catalyst-network.html"
+         }
+        ],
+        "headings": [],
+        "images": 0,
+        "inputs": [],
+        "buttons": [
+         "Close"
+        ],
+        "options": 0,
+        "rect": [
+         0,
+         93,
+         1440,
+         585
+        ]
+       },
+       "expanded": "true",
+       "focus": "trigger",
+       "scrollLock": false,
+       "motion": [],
+       "shot": "1440-039-Partnering-key.png",
+       "tabReachesPanel": true
+      }
+     },
+     "close": {
+      "escape": false,
+      "focusReturn": false,
+      "outside": null,
+      "toggle": true
+     },
+     "children": [
+      {
+       "name": "Close",
+       "key": "close",
+       "role": "toggle",
+       "kind": "menu",
+       "sel": "#navigation>div:nth-of-type(2)>div:nth-of-type(2)>div>ul>li:nth-of-type(9)>div>div:nth-of-type(2)>div>button",
+       "expanded": null,
+       "rect": [
+        679,
+        634,
+        83,
+        44
+       ],
+       "actions": {
+        "hover": null,
+        "click": {
+         "opened": false,
+         "hides": 9
+        },
+        "key": null
+       }
+      }
+     ]
+    }
+   ],
+   "scroll": [
+    {
+     "at": "top",
+     "y": 0,
+     "top": 0,
+     "height": 94,
+     "position": "static",
+     "inView": true
+    },
+    {
+     "at": "down",
+     "y": 0,
+     "top": 0,
+     "height": 94,
+     "position": "static",
+     "inView": true
+    },
+    {
+     "at": "up",
+     "y": 0,
+     "top": 0,
+     "height": 94,
+     "position": "static",
+     "inView": true
+    },
+    {
+     "at": "back",
+     "y": 0,
+     "top": 0,
+     "height": 94,
+     "position": "static",
+     "inView": true
+    }
+   ],
+   "states": 39,
+   "truncated": "depth 2 at R&D > Our approach",
+   "loads": 12,
+   "requests": 240,
+   "maxRequests": 600,
+   "inputsSkipped": 0
+  }
+ },
+ "probe": "skip"
+}

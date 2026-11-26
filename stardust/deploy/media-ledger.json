@@ -1,0 +1,98 @@
+{
+  "media/chrome/AZ2045-ipad-450x2501.webp": {
+    "status": "uploaded",
+    "file": "stardust/.work/rollout/foundation/media/AZ2045-ipad-450x2501.webp",
+    "size": 37590,
+    "sha256": "f82f25149e13954ea1e88339db281c07f31ed4615d8dd9f6827debeb189ce89d",
+    "contentType": "image/webp",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/chrome/AZ2045-ipad-450x2501.webp",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T12:46:57.485Z"
+  },
+  "media/chrome/AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp": {
+    "status": "uploaded",
+    "file": "stardust/.work/rollout/foundation/media/AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+    "size": 30398,
+    "sha256": "5493d877340533361e17e3c17bb240430513ce0bdf3fc10f565df06970105a9b",
+    "contentType": "image/webp",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/chrome/AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T12:46:57.980Z"
+  },
+  "media/chrome/AZ3410-Scientist_in_DS_lab_2_900x500.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/rollout/foundation/media/AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+    "size": 116333,
+    "sha256": "adf021805f1c902250b039d24f74b0151359174c533914ede4ba8807d0335570",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/chrome/AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T12:46:58.020Z"
+  },
+  "media/chrome/AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp": {
+    "status": "uploaded",
+    "file": "stardust/.work/rollout/foundation/media/AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+    "size": 47282,
+    "sha256": "17c1ee319a6018092156868af64376654e9a1ed0ca78fd955f9b3c08bd48c4e7",
+    "contentType": "image/webp",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/chrome/AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T12:46:58.458Z"
+  },
+  "media/chrome/OI-helix-hero-450x250.webp": {
+    "status": "uploaded",
+    "file": "stardust/.work/rollout/foundation/media/OI-helix-hero-450x250.webp",
+    "size": 35384,
+    "sha256": "b93dc276c400693113a2552349b3f7fb94a341dd3d38b7949270ebafa2c7f1e0",
+    "contentType": "image/webp",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/chrome/OI-helix-hero-450x250.webp",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T12:46:58.594Z"
+  },
+  "media/chrome/Our-sustainability-impact-2026-thumbnail-900x500.jpg": {
+    "status": "uploaded",
+    "file": "stardust/.work/rollout/foundation/media/Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+    "size": 186875,
+    "sha256": "e090ab63735b93db57785988b8a2854777811ef50be3d34a95c3f6e92f2021a6",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/chrome/Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T12:46:58.923Z"
+  },
+  "media/chrome/logo-az.png": {
+    "status": "uploaded",
+    "file": "stardust/.work/rollout/foundation/media/logo-az.png",
+    "size": 2482,
+    "sha256": "7230f38d54f4129e93720c33c50045d2a80228e6619b6bbe0f4bf215527d6948",
+    "contentType": "image/png",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/chrome/logo-az.png",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T12:46:59.124Z"
+  },
+  "media/results/AZ_Clinical_Innovation_RGB_Landscape-1200.jpg": {
+    "status": "uploaded",
+    "file": "stardust/migrated/assets/AZ_Clinical_Innovation_RGB_Landscape-1200.jpg",
+    "size": 61484,
+    "sha256": "f5b6ddb59e098619a51e06508cb17ab8dce8fab707c709588cc1838cd5e56e50",
+    "contentType": "image/jpeg",
+    "source": null,
+    "contentUrl": "https://content.da.live/aemcoder/919093c1/media/results/AZ_Clinical_Innovation_RGB_Landscape-1200.jpg",
+    "httpStatus": 201,
+    "attempts": 1,
+    "ts": "2026-11-10T13:58:26.777Z"
+  }
+}

@@ -1,0 +1,126 @@
+/* quote — the source's .az-quote-box / .quote--with-marks */
+.quote {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.quote .quote-body {
+  margin: 0;
+}
+
+.quote .quote-text {
+  padding: 15px 0;
+  border: solid var(--az-rule-2);
+  border-width: 4px 0;
+  color: var(--az-footer);
+  font: 200 21px/26px var(--font-lexia);
+  letter-spacing: 0.9px;
+}
+
+.quote .quote-text p {
+  margin: 10px 0;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+}
+
+.quote .quote-text p::before,
+.quote .quote-text p::after {
+  display: inline-block;
+  height: 30px;
+  vertical-align: middle;
+  color: #8a8e8e;
+  font: normal 400 39px/1 az-webfont, sans-serif;
+}
+
+.quote .quote-text p::before {
+  content: '\e93e';
+  margin: -14px 10px 0 0;
+}
+
+.quote .quote-text p::after {
+  content: '\e93d';
+  margin: -23px 0 0 -2px;
+  font-size: 50px;
+}
+
+.quote .quote-footer {
+  margin: 20px 0;
+}
+
+.quote .quote-author {
+  color: var(--az-footer);
+  font: 200 16px/20px var(--font-lexia);
+  letter-spacing: 1px;
+}
+
+.quote .quote-author-title {
+  color: rgb(99 104 104);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+.quote .quote-footer p {
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+}
+
+/* the section's default content above the quote: disclaimer line + accent headline */
+.quote-container .default-content-wrapper {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 40px 20px 20px;
+}
+
+.quote-container .default-content-wrapper p {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+.quote-container .default-content-wrapper :is(b, strong) {
+  font-weight: 700;
+}
+
+.quote-container .default-content-wrapper h2 {
+  margin: 40px 0 10px;
+  color: var(--az-mulberry);
+  font: 400 26px/1.2381 var(--font-lexia);
+  letter-spacing: 0.03px;
+}
+
+@media (width >= 600px) {
+  .quote .quote-text {
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 1.05px;
+  }
+
+  .quote .quote-text p::before {
+    margin: -22px 15px 0 0;
+  }
+
+  .quote .quote-text p::after {
+    margin: -23px 0 0 2px;
+  }
+
+  .quote-container .default-content-wrapper {
+    padding-top: 60px;
+  }
+
+  .quote-container .default-content-wrapper h2 {
+    line-height: 1.3044;
+  }
+}
+
+@media (width >= 960px) {
+  .quote .quote-author {
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 1.12px;
+  }
+}

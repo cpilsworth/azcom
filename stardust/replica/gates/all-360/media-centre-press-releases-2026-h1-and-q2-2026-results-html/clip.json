@@ -1,0 +1,47 @@
+{
+ "url": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results",
+ "at": "2026-11-10T14:35:58.625Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 1,
+  "offPage": 35,
+  "textNodes": 252,
+  "controls": 114,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.fin-table-frame",
+   "path": "thead > tr > th > p",
+   "text": "% change cer",
+   "cutMin": 34,
+   "cutMax": 34
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 1,
+   "offPage": 32,
+   "textNodes": 251,
+   "controls": 116,
+   "total": 0
+  }
+ }
+}

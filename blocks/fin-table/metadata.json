@@ -1,0 +1,17 @@
+{
+  "variantName": "fin-table",
+  "baseBlock": "table",
+  "canonicalModel": "collection",
+  "description": "Financial results data table with a two-tier mulberry header, right-aligned figures and zebra rows in a rounded scrollable frame",
+  "visualCharacteristics": {
+    "purpose": "Financial results data table with a two-tier mulberry header, right-aligned figures and zebra rows in a rounded scrollable frame",
+    "appearance": "Mulberry header, zebra striping, right-aligned numbers, horizontal scroll on small screens"
+  },
+  "contentPattern": {
+    "structure": "one row per table row; first row and following rows with an empty first cell are header rows; non-empty header cell followed by empty cells spans them; bold totals with strong"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Financial tables in results releases",
+  "reuseGuidance": "Reuse for any genuine data table"
+}

@@ -1,0 +1,164 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps:// (live side from cache stardust/replica/gates/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--360/chrome-live.json, probed 2026-11-10T12:11:31.106Z — delete the file to re-probe)
+  build: http://localhost:8791/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--proposed.html
+
+■ header: 117 delta(s) — 91 paired of 93/126 texts, 7/7 icons
+  (live has no <header>: auto-detected div.nav.mainnav — pass --region header=<liveSel>|<buildSel> to override)
+  REGION STYLE backgroundColor rgba(0, 0, 0, 0) → rgb(255, 255, 255)
+  REGION STYLE position static → relative (fixed/sticky chrome must stay fixed/sticky — seam symmetry)
+  PAIR         "What science can do"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Stories of impact"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (177→170); Δh -7px (58→51)
+  PAIR         "Publications"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (235→221); Δh -7px (58→51)
+  PAIR         "R&D"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Our approach"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (235→228); Δh -7px (58→51)
+  PAIR         "Innovation in medicines"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (293→279); Δh -7px (58→51)
+  PAIR         "Science & Technologies"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (351→330); Δh -7px (58→51)
+  PAIR         "Patient Commitment"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (409→381); Δh -7px (58→51)
+  PAIR         "R&D Collaborations"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -35px (467→432); Δh -7px (58→51)
+  PAIR         "Our R&D centres"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -42px (525→483); Δh -7px (58→51)
+  PAIR         "Featured website"  lineHeight 20px → normal; Δy -49px (603→554); <a> box 320×235 → 320×237
+  PAIR         "AstraZeneca Clinical Trials"  lineHeight 25px → normal; Δy -48px (629→581); <a> box 320×235 → 320×237
+  PAIR         "Featured website"  lineHeight 20px → normal; Δy -47px (868→821); <a> box 320×235 → 320×237
+  PAIR         "Open Innovation"  lineHeight 25px → normal; Δy -46px (894→848); <a> box 320×235 → 320×237
+  PAIR         "Our therapy areas"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Oncology"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (293→286); Δh -7px (58→51)
+  PAIR         "BioPharmaceuticals"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (351→337); Δh -7px (58→51)
+  PAIR         "Cardiovascular, Renal and Metabolism"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (409→388); Δh -7px (58→51)
+  PAIR         "Respiratory & Immunology"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (467→439); Δh -7px (58→51)
+  PAIR         "Infectious Disease"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -35px (525→490); Δh -7px (58→51)
+  PAIR         "Rare Disease"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -42px (583→541); Δh -7px (58→51)
+  PAIR         "Pipeline"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -49px (641→592); Δh -7px (58→51)
+  PAIR         "All medicines"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -56px (699→643); Δh -7px (58→51)
+  PAIR         "Our company"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Our history"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (351→344); Δh -7px (58→51)
+  PAIR         "Our leadership"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (409→395); Δh -7px (58→51)
+  PAIR         "Cambridge"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (467→446); Δh -7px (58→51)
+  PAIR         "Gothenburg"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (525→497); Δh -7px (58→51)
+  PAIR         "Gaithersburg"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -35px (583→548); Δh -7px (58→51)
+  PAIR         "Careers"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Great place to work"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (409→402); Δh -7px (58→51)
+  PAIR         "Inclusion and diversity"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (467→453); Δh -7px (58→51)
+  PAIR         "Learning and development"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (525→504); Δh -7px (58→51)
+  PAIR         "Employee resource groups"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (583→555); Δh -7px (58→51)
+  PAIR         "Investor Relations (Global)"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Investor Relations (Sweden)"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (467→460); Δh -7px (58→51)
+  PAIR         "Resources"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (525→511); Δh -7px (58→51)
+  PAIR         "Governance"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (583→562); Δh -7px (58→51)
+  PAIR         "Shareholder information"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (641→613); Δh -7px (58→51)
+  PAIR         "Dividend policy"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -35px (699→664); Δh -7px (58→51)
+  PAIR         "Key facts"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -42px (757→715); Δh -7px (58→51)
+  PAIR         "FAQs"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -49px (815→766); Δh -7px (58→51)
+  PAIR         "Debt Investors"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -56px (873→817); Δh -7px (58→51)
+  PAIR         "Investor Relations contacts"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -63px (931→868); Δh -7px (58→51)
+  PAIR         "Annual Report 2025"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -70px (989→919); Δh -7px (58→51)
+  PAIR         "Feature"  lineHeight 20px → normal; Δy -77px (1067→990); <a> box 320×235 → 320×237
+  PAIR         "9M and Q3 2026 results"  lineHeight 25px → normal; Δy -76px (1093→1017); <a> box 320×235 → 320×237
+  PAIR         "Feature"  lineHeight 20px → normal; Δy -75px (1332→1257); <a> box 320×235 → 320×237
+  PAIR         "Results and presentations"  lineHeight 25px → normal; Δy -74px (1358→1284); <a> box 320×235 → 320×237
+  PAIR         "Media"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Press Releases"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (525→518); Δh -7px (58→51)
+  PAIR         "Articles"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (583→569); Δh -7px (58→51)
+  PAIR         "Image library"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (641→620); Δh -7px (58→51)
+  PAIR         "B-roll videos"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (699→671); Δh -7px (58→51)
+  PAIR         "Archive"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -35px (757→722); Δh -7px (58→51)
+  PAIR         "Media contacts"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -42px (815→773); Δh -7px (58→51)
+  PAIR         "Sustainability"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Climate change"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (583→576); Δh -7px (58→51)
+  PAIR         "Nature"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (641→627); Δh -7px (58→51)
+  PAIR         "Health equity"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (699→678); Δh -7px (58→51)
+  PAIR         "Health systems resilience"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (757→729); Δh -7px (58→51)
+  PAIR         "Ethics and governance"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -35px (815→780); Δh -7px (58→51)
+  PAIR         "Our people"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -42px (873→831); Δh -7px (58→51)
+  PAIR         "Our Values"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -49px (931→882); Δh -7px (58→51)
+  PAIR         "Partnerships and alliances"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -56px (989→933); Δh -7px (58→51)
+  PAIR         "Resources"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -63px (1047→984); Δh -7px (58→51)
+  PAIR         "Feature"  lineHeight 20px → normal; Δy -70px (1125→1055); <a> box 320×234 → 320×236
+  PAIR         "Our Sustainability Impact"  tag <span> → <a>; fontSize 20px → 16px; fontWeight 400 → 300; fontStyle italic → normal; lineHeight 25px → 20px; letterSpacing normal → 0.5px; paddingTop 0px → 16px; paddingRight 0px → 40px; paddingBottom 0px → 14px; paddingLeft 0px → 36px; Δx -20px (20→0); Δy -65px (1151→1086); Δw +40px (320→360); Δh +26px (25→51); <a> box 320×234 → 360×51
+  PAIR         "Feature"  lineHeight 20px → normal; Δy -68px (1389→1321); <a> box 320×235 → 320×237
+  PAIR         "Sustainable science"  lineHeight 25px → normal; Δy -67px (1415→1348); <a> box 320×235 → 320×237
+  PAIR         "Partnering"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δh -7px (58→51)
+  PAIR         "Our business development teams"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -7px (641→634); Δh -7px (58→51)
+  PAIR         "Our areas of partnering interest"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -14px (699→685); Δh -7px (58→51)
+  PAIR         "Why partner with AstraZeneca?"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -21px (757→736); Δh -7px (58→51)
+  PAIR         "Information for Suppliers"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -28px (815→787); Δh -7px (58→51)
+  PAIR         "Supplier Sustainability Hub"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -35px (873→838); Δh -7px (58→51)
+  PAIR         "Sustainable procurement"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -42px (931→889); Δh -7px (58→51)
+  PAIR         "A Catalyst Network"  fontSize 14px → 16px; fontWeight 400 → 300; fontStyle italic → normal; paddingTop 20px → 16px; paddingRight 50px → 40px; paddingBottom 17px → 14px; paddingLeft 30px → 20px; Δy -49px (989→940); Δh -7px (58→51)
+  MISSING      "Search"  live <label> "Search" has no build element with the same text
+  MISSING      "Search"  live <span> "Search" has no build element with the same text
+  EXTRA        "Our approach to R&D"  build <a> "Our approach to R&D" has no live source
+  EXTRA        "Oncology R&D strategy"  build <a> "Oncology R&D strategy" has no live source
+  EXTRA        "Rare Disease R&D Strategy"  build <a> "Rare Disease R&D Strategy" has no live source
+  EXTRA        "STEM at AstraZeneca"  build <a> "STEM at AstraZeneca" has no live source
+  EXTRA        "Innovation in medicines overview"  build <a> "Innovation in medicines overview" has no live source
+  EXTRA        "Cell therapies"  build <a> "Cell therapies" has no live source
+  EXTRA        "Oligonucleotide therapeutics"  build <a> "Oligonucleotide therapeutics" has no live source
+  EXTRA        "Science & Technologies overview"  build <a> "Science & Technologies overview" has no live source
+  EXTRA        "AI and data"  build <a> "AI and data" has no live source
+  EXTRA        "Genomics"  build <a> "Genomics" has no live source
+  EXTRA        "New Approach Methodologies"  build <a> "New Approach Methodologies" has no live source
+  EXTRA        "Climate change overview"  build <a> "Climate change overview" has no live source
+  EXTRA        "Renewables"  build <a> "Renewables" has no live source
+  EXTRA        "Product sustainability"  build <a> "Product sustainability" has no live source
+  EXTRA        "Electric vehicles and Sustainable transp"  build <a> "Electric vehicles and Sustainable transport" has no live source
+  EXTRA        "Nature overview"  build <a> "Nature overview" has no live source
+  EXTRA        "Water stewardship"  build <a> "Water stewardship" has no live source
+  EXTRA        "Pharmaceuticals in the environment"  build <a> "Pharmaceuticals in the environment" has no live source
+  EXTRA        "Waste and circularity"  build <a> "Waste and circularity" has no live source
+  EXTRA        "AZ Forest"  build <a> "AZ Forest" has no live source
+  EXTRA        "Health equity overview"  build <a> "Health equity overview" has no live source
+  EXTRA        "Science"  build <a> "Science" has no live source
+  EXTRA        "Healthcare delivery"  build <a> "Healthcare delivery" has no live source
+  EXTRA        "Community investment"  build <a> "Community investment" has no live source
+  EXTRA        "Health systems resilience overview"  build <a> "Health systems resilience overview" has no live source
+  EXTRA        "Partnership for Health System Sustainabi"  build <a> "Partnership for Health System Sustainability and" has no live source
+  EXTRA        "Ethics and Compliance"  build <a> "Ethics and Compliance" has no live source
+  EXTRA        "Governance"  build <a> "Governance" has no live source
+  EXTRA        "Sustainability governance"  build <a> "Sustainability governance" has no live source
+  EXTRA        "Great place to work"  build <a> "Great place to work" has no live source
+  EXTRA        "Inclusion and diversity"  build <a> "Inclusion and diversity" has no live source
+  EXTRA        "Learning and development"  build <a> "Learning and development" has no live source
+  EXTRA        "Workforce safety and health"  build <a> "Workforce safety and health" has no live source
+  EXTRA        "Sustainability resources"  build <a> "Sustainability resources" has no live source
+  EXTRA        "Our Sustainability Impact"  build <span> "Our Sustainability Impact" has no live source
+
+■ footer: 37 delta(s) — 19 paired of 19/36 texts, 0/0 icons
+  REGION BOX   Δy +10px (5618→5628), Δh -15px (713→698)
+  PAIR         "AstraZeneca Websites"  Δy +10px (5642→5652)
+  PAIR         "This website is intended for people seek"  Δy +10px (5679→5689)
+  PAIR         "Veeva ID: Z4-88682 Date of next review: "  Δy +10px (5758→5768)
+  PAIR         "Resources"  Δy +10px (5805→5815)
+  PAIR         "Quick links"  Δy +10px (5864→5874)
+  PAIR         "Social Media"  lineHeight 23.4px → 20px; Δy +10px (5952→5962)
+  PAIR         "LinkedIn"  Δy +10px (5953→5963)
+  PAIR         "Instagram"  Δy +10px (5953→5963)
+  PAIR         "Facebook"  Δy +10px (5953→5963)
+  PAIR         "X"  Δy +10px (5953→5963)
+  PAIR         "YouTube"  Δy +10px (5953→5963)
+  PAIR         "Glassdoor"  Δy +10px (5953→5963)
+  PAIR         "utility links"  Δy +10px (6102→6112)
+  PAIR         "Legal notice and Terms of Use"  Δy +10px (6124→6134)
+  PAIR         "Privacy notice"  Δy +10px (6124→6134)
+  PAIR         "Site map"  Δx -157px (177→20); Δy +30px (6159→6189)
+  PAIR         "Contact us"  Δy -5px (6194→6189)
+  PAIR         "Cookie preferences"  Δy -5px (6229→6224)
+  PAIR         "© AstraZeneca 2026"  Δy -5px (6243→6238)
+  EXTRA        "All resources"  build <a> "All resources" has no live source
+  EXTRA        "Open Innovation"  build <a> "Open Innovation" has no live source
+  EXTRA        "Externally sponsored scientific research"  build <a> "Externally sponsored scientific research" has no live source
+  EXTRA        "Medical Information for HCPs"  build <a> "Medical Information for HCPs" has no live source
+  EXTRA        "US prescription assistance programmes"  build <a> "US prescription assistance programmes" has no live source
+  EXTRA        "Global clinical trials information"  build <a> "Global clinical trials information" has no live source
+  EXTRA        "Medicines"  build <a> "Medicines" has no live source
+  EXTRA        "Report a possible side effect"  build <a> "Report a possible side effect" has no live source
+  EXTRA        "Media"  build <a> "Media" has no live source
+  EXTRA        "Investor Relations"  build <a> "Investor Relations" has no live source
+  EXTRA        "Partnering"  build <a> "Partnering" has no live source
+  EXTRA        "Careers"  build <a> "Careers" has no live source
+  EXTRA        "Sustainability"  build <a> "Sustainability" has no live source
+  EXTRA        "Modern Slavery Statement"  build <a> "Modern Slavery Statement" has no live source
+  EXTRA        "AZethics – Report A Concern"  build <a> "AZethics – Report A Concern" has no live source
+  EXTRA        "Supplier information"  build <a> "Supplier information" has no live source
+  EXTRA        "Social Media Community Guidelines"  build <a> "Social Media Community Guidelines" has no live source
+
+✗ 154 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

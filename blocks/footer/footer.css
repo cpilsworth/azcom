@@ -1,20 +1,347 @@
-footer {
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-xs);
+/* footer — astrazeneca.com chrome ported from stardust/prototypes/canon.css
+   (gated: pixel + chrome parity). Classes are the prototype's BEM names kebab-cased
+   (az-footer__panel -> az-footer-panel). Source breakpoints kept: 600px (37.5em) and 960px (60em).
+   The az-webfont icon face is declared in styles/fonts.css.
+   Rule order is the canon cascade kept verbatim, hence the two order rules are off. */
+
+/* stylelint-disable no-descending-specificity, no-duplicate-selectors */
+/* stylelint-disable font-family-no-missing-generic-family-keyword -- az-webfont is an icon font */
+
+.footer .az-footer {
+  background: var(--az-footer);
+  padding: 25px 0 35px;
+  font-family: var(--font-hn);
 }
 
-footer .footer > div {
-  margin: auto;
-  max-width: 1200px;
-  padding: 40px 24px 24px;
+.footer .az-footer a {
+  text-decoration: none;
 }
 
-footer .footer p {
+.footer :where(.az-footer) ul {
+  list-style: none;
   margin: 0;
+  padding: 0;
 }
 
-@media (width >= 900px) {
-  footer .footer > div {
-    padding: 40px 32px 24px;
+.footer .az-footer-title {
+  margin: 0;
+  font: 400 21px/26px var(--font-lexia);
+  letter-spacing: .9px;
+  color: #fff;
+  position: relative;
+}
+
+.footer .az-footer-title a {
+  color: #fff;
+}
+
+.footer .az-footer-sites {
+  padding: 0 20px 10px;
+  border-bottom: 1px solid var(--az-rule-dark);
+}
+
+.footer .az-footer-colophon p {
+  margin: 10px 0;
+  font: 300 10px/13px var(--font-hn);
+  letter-spacing: .8px;
+  color: #fff;
+}
+
+.footer .az-footer-colophon hr {
+  height: 0;
+  margin: 0;
+  padding: 10px 0;
+  border: 0;
+}
+
+.footer .az-footer-panel .az-footer-title {
+  padding: 16px 50px 16px 20px;
+  border-bottom: 1px solid var(--az-rule-dark);
+  cursor: pointer;
+}
+
+.footer .az-footer-icon {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  margin-top: -7px;
+  font-size: 14px;
+}
+
+.footer .az-footer-icon::after {
+  content: '\e90e';
+  font: 14px/1 az-webfont;
+}
+
+.footer .az-footer-panel.is-open .az-footer-icon::after {
+  content: '\e911';
+}
+
+.footer .az-footer-links {
+  display: none;
+}
+
+.footer .az-footer-panel.is-open .az-footer-links {
+  display: block;
+}
+
+.footer .az-footer-links a {
+  display: block;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--az-rule-dark);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: .3px;
+  color: #fff;
+}
+
+.footer .az-footer-social {
+  padding: 30px 20px 20px;
+  overflow: hidden;
+}
+
+.footer .az-footer-social h3 {
+  font-size: 18.72px;
+  line-height: 23.4px;
+}
+
+.footer .az-footer-social li {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+.footer .az-footer-social a {
+  display: block;
+  position: relative;
+  width: 42px;
+  height: 42px;
+  border: 1px solid var(--az-rule-dark);
+  border-radius: 50%;
+  color: #f8f8f8;
+  -webkit-font-smoothing: antialiased;
+}
+
+.footer .az-footer-social a:hover {
+  border-color: #f8f8f8;
+  background: #f8f8f8;
+  color: var(--az-footer);
+}
+
+.footer .az-footer-social a::before {
+  font: 17px/1 az-webfont;
+  position: absolute;
+  top: 10px;
+  left: 12px;
+}
+
+.footer .az-footer-social .is-linkedin::before {
+  content: '\e92f';
+}
+
+.footer .az-footer-social .is-instagram::before {
+  content: '\e92c';
+  top: 11px;
+}
+
+.footer .az-footer-social .is-fb::before {
+  content: '\e91b';
+}
+
+.footer .az-footer-social .is-tw::before {
+  content: '\e94c';
+  top: 11px;
+}
+
+.footer .az-footer-social .is-youtube::before {
+  content: '\e94f';
+  top: 11px;
+}
+
+.footer .az-footer-social .is-gd::before {
+  content: '\e922';
+  top: 11px;
+}
+
+.footer .az-footer-bottom {
+  padding: 30px 20px 0;
+  overflow: hidden;
+}
+
+.footer .az-footer-logo {
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--az-rule-dark);
+}
+
+.footer .az-footer-logo span {
+  display: block;
+  width: 108px;
+  height: 27px;
+  background: url('../../icons/logo-az-white.png') center / 100% no-repeat;
+}
+
+.footer .az-footer-utility {
+  overflow: hidden;
+}
+
+.footer .az-footer-utility li {
+  float: left;
+  width: 48.94%;
+  padding-top: 15px;
+}
+
+.footer .az-footer-utility li {
+  clear: right;
+}
+
+.footer .az-footer-utility li:nth-child(even) {
+  float: right;
+}
+
+.footer .az-footer-utility a {
+  font: 400 10px/13px var(--font-hn);
+  letter-spacing: .8px;
+  color: var(--az-footer-muted);
+}
+
+.footer .az-footer-copyright {
+  clear: both;
+  margin: 0;
+  padding: 20px 0;
+  font: 300 10px/13px var(--font-hn);
+  letter-spacing: .8px;
+  color: #fff;
+}
+
+@media (600px <= width < 960px) {
+  .footer .az-footer-social a {
+    width: 58px;
+    height: 58px;
+  }
+
+  .footer .az-footer-social a::before {
+    font-size: 26px;
+    top: 14px;
+    left: 15px;
+  }
+}
+
+@media (width >= 960px) {
+  .footer .az-footer {
+    padding: 40px 0 10px;
+  }
+
+  .footer .az-footer-inner {
+    max-width: var(--container);
+    margin: 0 auto;
+  }
+
+  .footer .az-footer-top {
+    padding: 0 20px;
+    overflow: hidden;
+  }
+
+  .footer .az-footer-title {
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 1.05px;
+  }
+
+  .footer .az-footer-sites {
+    float: left;
+    width: 23.4%;
+    padding: 0;
+    border: 0;
+  }
+
+  .footer .az-footer-colophon hr {
+    padding: 20px 0;
+  }
+
+  .footer .az-footer-columns {
+    float: left;
+    width: 48.94%;
+    margin-left: 2.13%;
+  }
+
+  .footer .az-footer-panel {
+    float: left;
+    width: 48.93%;
+    padding: 0 15px;
+    border-left: 1px solid var(--az-rule-dark);
+  }
+
+  .footer .az-footer-panel + .az-footer-panel {
+    margin-left: 2.14%;
+  }
+
+  .footer .az-footer-panel .az-footer-title {
+    padding: 0;
+    border: 0;
+    cursor: auto;
+  }
+
+  .footer .az-footer-icon {
+    display: none;
+  }
+
+  .footer .az-footer-links, .footer .az-footer-panel.is-open .az-footer-links {
+    display: block;
+  }
+
+  .footer .az-footer-links li {
+    margin: 10px 0;
+  }
+
+  .footer .az-footer-links li:last-child {
+    margin-bottom: 0;
+  }
+
+  .footer .az-footer-links a {
+    padding: 0;
+    border: 0;
+    font: 400 11px/13px var(--font-hn);
+    letter-spacing: .6px;
+  }
+
+  .footer .az-footer-social {
+    float: right;
+    width: 23.4%;
+    padding: 0;
+  }
+
+  .footer .az-footer-bottom {
+    padding: 30px 20px 0;
+  }
+
+  .footer .az-footer-logo {
+    float: left;
+    width: 23.4%;
+    border: 0;
+  }
+
+  .footer .az-footer-logo span {
+    display: inline-block;
+  }
+
+  .footer .az-footer-utility {
+    float: left;
+    width: 48.94%;
+    margin-left: 2.13%;
+    padding-top: 20px;
+    overflow: visible;
+  }
+
+  .footer .az-footer-utility li, .footer .az-footer-utility li:nth-child(even) {
+    float: left;
+    width: auto;
+    padding: 0 5px 0 0;
+    margin: 0 15px 0 0;
+    line-height: 8px;
+  }
+
+  .footer .az-footer-copyright {
+    clear: none;
+    float: right;
+    width: 23.4%;
+    text-align: right;
   }
 }

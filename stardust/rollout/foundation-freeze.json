@@ -1,0 +1,30 @@
+{
+  "frozenAt": "2026-11-10T15:53:45.018Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "72569e52946be5b3a00d2cca34e58ff12036c131e90bd7d8531e7d35fc0174e2",
+    "blocks/footer/footer.js": "c4b4841adab50c434045627914f582adc09f03a29e77004d4973182f01d6da79",
+    "blocks/header/header.css": "1fc86af6e1f4e8fde690f30cc084f75577156cc7d6ad401a2a9cd32041bcd96e",
+    "blocks/header/header.js": "7884692c727404b5ccbba601d72d59e9d394bce9186745713e36d1dd6f762d23",
+    "fonts/az-webfont.woff2": "a2e17703e75947984527007147280db0edc0903947a46761420b0a0f6d7c3baa",
+    "head.html": "febf320b5244a1634f688726999064ba4b95335ec71ef14628d4806501baca65",
+    "scripts/aem.js": "786e8019b14b4c0bee9df38a3162f129c04310d9d00e7a6dd326c7e5830c84ae",
+    "scripts/consent-check.js": "ac21f825288cfc82c52a6acd9c57bbb76a2017ee1b06319d493244f32751249a",
+    "scripts/consented.js": "8a0ec7239cfab36c9bbfd8e7cde178c6c9061f68da8539879411ee9fa09b18ab",
+    "scripts/martech.js": "31830dff729ccc379ab57b1930f336761f9dce1b2fa5e7c8f1b3a6c2be4a337e",
+    "scripts/offsite-confirm.js": "03a75f559db9424dd9eaca21501ace47751e6e86e20cbf61d24b085de81fbbd3",
+    "scripts/scripts.js": "2f465f9ced8cdca8ccd09810935da18de6a23d6e917571967324eb326af2febb",
+    "styles/fonts.css": "aa055a7aec46f7796eaf4d2fbe7c029ed45fb400099d64d54f20109e4531e77e",
+    "styles/lazy-styles.css": "391d6721991eb169fa04d7c71d9b597361d76c24ab8a3d5f1dcb47457d8ca2d6",
+    "styles/link-confirmation.css": "e66db476776e6758038f3b543a53752bef0b573002b45f923ba9ad4e2e61afa4",
+    "styles/styles.css": "f5be8a501eb9d00d24ac467008e97ecea941aa79b2974debf31f9083d0a0ef26"
+  }
+}

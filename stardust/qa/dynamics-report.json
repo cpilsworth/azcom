@@ -1,0 +1,143 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-10T16:16:20.266Z",
+  "origin": "https://main--919093c1--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json",
+  "contract": "stardust/martech-contract.json"
+ },
+ "results": [
+  {
+   "feature": "header mega-menu",
+   "id": "F1",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "9 × header .az-nav-item (min 9)",
+   "thirdParty": "use.typekit.net:200×6 p.typekit.net:200×1",
+   "ms": 3486,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header drawer (mobile Menu)",
+   "id": "F2",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × header button.az-header-button-menu (min 1)",
+   "thirdParty": "use.typekit.net:200×9 p.typekit.net:200×1",
+   "ms": 3685,
+   "environmentLimit": null
+  },
+  {
+   "feature": "site search (header form)",
+   "id": "F3",
+   "class": "S",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × header form[role=search] input[name=q] (min 1)",
+   "thirdParty": "use.typekit.net:200×6 p.typekit.net:200×1",
+   "ms": 1949,
+   "environmentLimit": null
+  },
+  {
+   "feature": "leaving-site confirmation (off-site links)",
+   "id": "F4",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 1440px · heading \"You are now leaving AstraZeneca.com\" · 0 fields · Escape closes: true",
+   "thirdParty": "use.typekit.net:200×7 p.typekit.net:200×1",
+   "ms": 4137,
+   "environmentLimit": null
+  },
+  {
+   "feature": "leaving-site confirmation (off-site links)",
+   "id": "F4",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 1440px · heading \"You are now leaving AstraZeneca.com\" · 0 fields · Escape closes: true",
+   "thirdParty": "use.typekit.net:200×9 p.typekit.net:200×1",
+   "ms": 4309,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Tealium tag manager",
+   "id": "F7",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (2 gated · 1 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6363,
+   "environmentLimit": "the contract's own martech rows replay on '/', which this run redirects to the source home page (home is outside the fixed page scope), so that row measures the source site's tags, not this site"
+  },
+  {
+   "feature": "Tealium tag manager",
+   "id": "F7",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (2 gated · 1 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6347,
+   "environmentLimit": "the contract's own martech rows replay on '/', which this run redirects to the source home page (home is outside the fixed page scope), so that row measures the source site's tags, not this site"
+  },
+  {
+   "feature": "CookieReports consent panel",
+   "id": "F8",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (2 gated · 1 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6264,
+   "environmentLimit": "the contract's own martech rows replay on '/', which this run redirects to the source home page (home is outside the fixed page scope), so that row measures the source site's tags, not this site"
+  },
+  {
+   "feature": "CookieReports consent panel",
+   "id": "F8",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (2 gated · 1 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6202,
+   "environmentLimit": "the contract's own martech rows replay on '/', which this run redirects to the source home page (home is outside the fixed page scope), so that row measures the source site's tags, not this site"
+  },
+  {
+   "feature": "no uncaught exceptions",
+   "id": "pages",
+   "class": "-",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 2 page(s)",
+   "thirdParty": "",
+   "ms": 4074,
+   "environmentLimit": null
+  },
+  {
+   "feature": "martech: consent + tag routing",
+   "id": "martech",
+   "class": "T",
+   "status": "scaffolded-off",
+   "type": "martech",
+   "pass": false,
+   "detail": "tags fired without consent: policy.cookiereports.com, tags.tiqcdn.com",
+   "thirdParty": "",
+   "ms": 6390,
+   "environmentLimit": null
+  }
+ ]
+}

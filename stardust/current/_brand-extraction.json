@@ -1,0 +1,973 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:extract",
+  "writtenAt": "2026-11-10T11:41:24.707Z",
+  "sources": [
+   "stardust/current/_computed-styles.json",
+   "stardust/current/assets/css/d3937f1f-base.min.css",
+   "stardust/current/assets/harvest-manifest.json"
+  ],
+  "notes": "pages-mode run over 2 press releases; no home page captured (out of scope)"
+ },
+ "origins": [
+  {
+   "origin": "https://www.astrazeneca.com",
+   "role": "primary",
+   "pages": 2
+  }
+ ],
+ "logo": {
+  "source": "inline-svg-or-img (see assets/svgs-0.json)",
+  "note": "census logo chain found none; header logo harvested from live DOM svgs"
+ },
+ "favicon": "stardust/current/assets/favicon.ico",
+ "palette": [
+  {
+   "hex": "#3c4242",
+   "weight": 700,
+   "role": "text",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "#navigation > div:nth-of-type(2) > div:nth-of-type(2) > div > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+     "prop": "text"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#navigation > div:nth-of-type(2) > div:nth-of-type(2) > div > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#ffffff",
+   "weight": 264,
+   "role": "background",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#skip-shortcuts > li:nth-of-type(1) > a",
+     "prop": "text"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "#skip-shortcuts > li:nth-of-type(1) > a",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#d8dfde",
+   "weight": 146,
+   "role": "border",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > ul:nth-of-type(1) > li:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+     "prop": "border"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "div > ul:nth-of-type(1) > li:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+     "prop": "border"
+    }
+   ]
+  },
+  {
+   "hex": "#3c1053",
+   "weight": 56,
+   "role": "accent-purple",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "div > div > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div > p:nth-of-type(5) > a:nth-of-type(1)",
+     "prop": "link"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "div > div > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(2) > div > p:nth-of-type(5) > a:nth-of-type(1)",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#1b1b1b",
+   "weight": 8,
+   "role": "footer-surface",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div > div:nth-of-type(6) > div > div > blockquote > div > p",
+     "prop": "text"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#footer",
+     "prop": "background"
+    }
+   ]
+  },
+  {
+   "hex": "#000000",
+   "weight": 142,
+   "role": "black",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div > div:nth-of-type(9) > div:nth-of-type(2) > div:nth-of-type(6) > div > div:nth-of-type(1) > div:nth-of-type(2)",
+     "prop": "text"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div:nth-of-type(23) > section > div > div > div > div:nth-of-type(1) > h3",
+     "prop": "heading"
+    }
+   ]
+  },
+  {
+   "hex": "#ebefee",
+   "weight": 72,
+   "role": "surface",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#navigation > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+     "prop": "border"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "#navigation > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > button:nth-of-type(1)",
+     "prop": "border"
+    }
+   ]
+  },
+  {
+   "hex": "#d2d2d2",
+   "weight": 44,
+   "role": null,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#footer > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+     "prop": "link"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "#footer > div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+     "prop": "link"
+    }
+   ]
+  },
+  {
+   "hex": "#5a6b78",
+   "weight": 18,
+   "role": null,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div > div:nth-of-type(9) > div:nth-of-type(2) > div:nth-of-type(6) > div > div:nth-of-type(1) > div:nth-of-type(1)",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#d9338c",
+   "weight": 14,
+   "role": null,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > ul:nth-of-type(1) > li:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > span:nth-of-type(1)",
+     "prop": "text"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "div > ul:nth-of-type(1) > li:nth-of-type(2) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > span:nth-of-type(1)",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#830051",
+   "weight": 12,
+   "role": "primary-mulberry",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div > div > div:nth-of-type(14) > div > table > thead > tr:nth-of-type(1)",
+     "prop": "background"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div:nth-of-type(2) > div > div > div > div:nth-of-type(4) > div > h2",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#1f8a5b",
+   "weight": 8,
+   "role": null,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div > div:nth-of-type(9) > div:nth-of-type(2) > div:nth-of-type(6) > div > div:nth-of-type(3) > div:nth-of-type(3)",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#d0006f",
+   "weight": 4,
+   "role": "magenta",
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#navigation > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > form > button",
+     "prop": "button-text"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "selector": "#navigation > div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > form > button",
+     "prop": "button-text"
+    }
+   ]
+  },
+  {
+   "hex": "#2a4763",
+   "weight": 2,
+   "role": null,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div:nth-of-type(2) > div > div > div > div:nth-of-type(15) > div > div:nth-of-type(1)",
+     "prop": "border"
+    }
+   ]
+  },
+  {
+   "hex": "#636868",
+   "weight": 2,
+   "role": null,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "footer > cite > span",
+     "prop": "text"
+    }
+   ]
+  },
+  {
+   "hex": "#c0392b",
+   "weight": 2,
+   "role": null,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div > div > div > div:nth-of-type(19) > div > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2)",
+     "prop": "text"
+    }
+   ]
+  }
+ ],
+ "type": {
+  "headingFamily": "lexia",
+  "bodyFamily": "Helvetica Neue",
+  "stacks": {
+   "lexia": "lexia,Times,\"Times New Roman\",serif",
+   "helvetica": "\"Helvetica Neue\",Helvetica,Arial,sans-serif"
+  },
+  "levels": {
+   "h1": {
+    "fontSize": 42,
+    "fontWeight": "300",
+    "count": 2,
+    "score": 44.55
+   },
+   "h2": {
+    "fontSize": 26,
+    "fontWeight": "400",
+    "count": 4,
+    "score": 52
+   },
+   "h3": {
+    "fontSize": 40,
+    "fontWeight": "700",
+    "count": 8,
+    "score": 197.99
+   }
+  },
+  "sizes": [
+   {
+    "px": 42,
+    "count": 2,
+    "headings": 2,
+    "text": 0,
+    "buttons": 0
+   },
+   {
+    "px": 40,
+    "count": 8,
+    "headings": 8,
+    "text": 0,
+    "buttons": 0
+   },
+   {
+    "px": 30,
+    "count": 2,
+    "headings": 2,
+    "text": 0,
+    "buttons": 0
+   },
+   {
+    "px": 26,
+    "count": 4,
+    "headings": 4,
+    "text": 0,
+    "buttons": 0
+   },
+   {
+    "px": 23,
+    "count": 11,
+    "headings": 10,
+    "text": 1,
+    "buttons": 0
+   },
+   {
+    "px": 21,
+    "count": 11,
+    "headings": 10,
+    "text": 1,
+    "buttons": 0
+   },
+   {
+    "px": 18,
+    "count": 10,
+    "headings": 10,
+    "text": 0,
+    "buttons": 0
+   },
+   {
+    "px": 16,
+    "count": 28,
+    "headings": 0,
+    "text": 0,
+    "buttons": 28
+   },
+   {
+    "px": 14,
+    "count": 186,
+    "headings": 0,
+    "text": 42,
+    "buttons": 144
+   },
+   {
+    "px": 13.5,
+    "count": 4,
+    "headings": 0,
+    "text": 4,
+    "buttons": 0
+   }
+  ],
+  "weights": [
+   {
+    "weight": "400",
+    "count": 158,
+    "headings": 24,
+    "text": 0,
+    "buttons": 134
+   },
+   {
+    "weight": "300",
+    "count": 94,
+    "headings": 14,
+    "text": 46,
+    "buttons": 34
+   },
+   {
+    "weight": "700",
+    "count": 12,
+    "headings": 8,
+    "text": 0,
+    "buttons": 4
+   },
+   {
+    "weight": "200",
+    "count": 2,
+    "headings": 0,
+    "text": 2,
+    "buttons": 0
+   }
+  ],
+  "scaleAudit": {
+   "kind": "ad-hoc"
+  },
+  "files": [
+   {
+    "family": "lexia",
+    "delivery": "Adobe Fonts kit https://use.typekit.net/ddz3ptv.css",
+    "licensed": true,
+    "rehost": false
+   },
+   {
+    "family": "az-webfont",
+    "file": "stardust/current/assets/fonts/a22dfa9d-az-webfont.woff2",
+    "role": "icon font",
+    "licensed": "site-owned"
+   }
+  ]
+ },
+ "iconFont": {
+  "family": "az-webfont",
+  "file": "stardust/current/assets/fonts/a22dfa9d-az-webfont.woff2",
+  "glyphs": [
+   {
+    "class": "footer__social-channel footer__social-channel--instagram-link",
+    "pseudo": "::before",
+    "codepoint": "U+E92C",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "footer__social-channel footer__social-channel--linkedin-link",
+    "pseudo": "::before",
+    "codepoint": "U+E92F",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__header-button navigation__header-button--menu js-navigation__header…",
+    "pseudo": "::after",
+    "codepoint": "U+E906",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__header-button navigation__header-button--search js-navigation__head…",
+    "pseudo": "::after",
+    "codepoint": "U+E948",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__header-sticky-menu",
+    "pseudo": "::after",
+    "codepoint": "U+E906",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__link-list-close-btn",
+    "pseudo": "::after",
+    "codepoint": "U+E911",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__primary-link js-navigation__primary-link is-disabled",
+    "pseudo": "::after",
+    "codepoint": "U+E902",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__primary-link js-navigation__primary-link navigation__primary-link--…",
+    "pseudo": "::after",
+    "codepoint": "U+E902",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__secondary-link",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__secondary-link navigation__secondary-link--current-section",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__secondary-link navigation__secondary-link-child",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 4,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "footer__social-channel footer__social-channel--fb-link",
+    "pseudo": "::before",
+    "codepoint": "U+E91B",
+    "fontFamily": "az-webfont",
+    "count": 3,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "button button--primary",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html"
+    ]
+   },
+   {
+    "class": "footer__social-channel footer__social-channel--gd-link",
+    "pseudo": "::before",
+    "codepoint": "U+E922",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "footer__social-channel footer__social-channel--tw-link",
+    "pseudo": "::before",
+    "codepoint": "U+E94C",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "footer__social-channel footer__social-channel--youtube-link",
+    "pseudo": "::before",
+    "codepoint": "U+E94F",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__link-list-item-parent",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__link-list-item-parent navigation__link-list-item-parent--current-se…",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__link-list-item-parent navigation__link-list-item-parent--inner",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__region-link",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__region-link navigation__region-link--global",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__region-link--icon",
+    "pseudo": "::after",
+    "codepoint": "U+E924",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__search-action js-navigation__search-action is-valid",
+    "pseudo": "::after",
+    "codepoint": "U+E948",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__search-tray-close js-navigation__search-tray-close",
+    "pseudo": "::after",
+    "codepoint": "U+E923",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__search-tray-open js-navigation__search-tray-open",
+    "pseudo": "::after",
+    "codepoint": "U+E948",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__secondary-link js-navigation__secondary-link navigation__secondary-…",
+    "pseudo": "::after",
+    "codepoint": "U+E902",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "navigation__secondary-link js-navigation__secondary-link navigation__secondary-…",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "ui-accordion-header-icon ui-icon footer__accordion-title-chevron--down",
+    "pseudo": "::after",
+    "codepoint": "U+E90E",
+    "fontFamily": "az-webfont",
+    "count": 2,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   },
+   {
+    "class": "button button--primary js-modal-disagree",
+    "pseudo": "::after",
+    "codepoint": "U+E910",
+    "fontFamily": "az-webfont",
+    "count": 1,
+    "sources": [
+     "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://"
+    ]
+   }
+  ]
+ },
+ "motifs": {
+  "radius": {
+   "mode": "8px",
+   "areaMode": "8px",
+   "pill": "50%",
+   "values": [
+    {
+     "value": "50%",
+     "count": 24,
+     "area": 42336,
+     "sources": [
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "#footer > div > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(1) > a"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "#footer > div > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "#footer > div > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(3) > a"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+       "selector": "#footer > div > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(1) > a"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+       "selector": "#footer > div > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a"
+      }
+     ]
+    },
+    {
+     "value": "8px",
+     "count": 12,
+     "area": 1434000,
+     "sources": [
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div:nth-of-type(2) > div > div > div > div:nth-of-type(9) > div:nth-of-type(2) > div:nth-of-type(6) > div"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(14) > div"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div > div:nth-of-type(15) > div"
+      }
+     ]
+    },
+    {
+     "value": "2px",
+     "count": 10,
+     "area": 229975,
+     "sources": [
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(3) > div > div > div:nth-of-type(1) > button > span"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(5) > div > div > div:nth-of-type(1) > button > span"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(7) > div > div > div:nth-of-type(1) > button > span"
+      }
+     ]
+    },
+    {
+     "value": "6px",
+     "count": 8,
+     "area": 427520,
+     "sources": [
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div > div > div:nth-of-type(23) > section > div > div > div > div:nth-of-type(1)"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div > div > div:nth-of-type(23) > section > div > div > div > div:nth-of-type(2)"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "div > div > div:nth-of-type(23) > section > div > div > div > div:nth-of-type(3)"
+      }
+     ]
+    },
+    {
+     "value": "24px",
+     "count": 4,
+     "area": 23952,
+     "sources": [
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+       "selector": "article > section:nth-of-type(2) > div > div > div:nth-of-type(3) > div:nth-of-type(2) > ul > li"
+      },
+      {
+       "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+       "selector": "article > section:nth-of-type(2) > div > div > div:nth-of-type(3) > div:nth-of-type(2) > ul > li"
+      }
+     ]
+    }
+   ]
+  },
+  "shadows": [
+   {
+    "value": "rgba(60, 66, 66, 0.3) 0px 2px 5px 0px",
+    "count": 12,
+    "sources": [
+     {
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "selector": "#skip-shortcuts > li:nth-of-type(1) > a"
+     },
+     {
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "selector": "#skip-shortcuts > li:nth-of-type(2) > a"
+     },
+     {
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "selector": "#skip-shortcuts > li:nth-of-type(3) > a"
+     },
+     {
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+      "selector": "#skip-shortcuts > li:nth-of-type(1) > a"
+     },
+     {
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+      "selector": "#skip-shortcuts > li:nth-of-type(2) > a"
+     }
+    ]
+   },
+   {
+    "value": "rgba(216, 216, 216, 0.5) 0px 16px 23px -16px",
+    "count": 4,
+    "sources": [
+     {
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+      "selector": "#main > article > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(1)"
+     },
+     {
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma.htmlhttps://",
+      "selector": "#main > article > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(1)"
+     }
+    ]
+   }
+  ],
+  "gradients": []
+ },
+ "hover": [
+  {
+   "kind": "link",
+   "from": {
+    "color": "rgb(242, 242, 242)"
+   },
+   "to": {
+    "color": "rgb(0, 0, 0)"
+   },
+   "count": 2,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#navbar > a:nth-of-type(1)"
+    },
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "#navbar > a:nth-of-type(1)"
+    }
+   ]
+  },
+  {
+   "kind": "button",
+   "from": {
+    "borderColor": "rgb(60, 66, 66)"
+   },
+   "to": {
+    "borderColor": "rgba(60, 66, 66, 0.04)"
+   },
+   "count": 1,
+   "sources": [
+    {
+     "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+     "selector": "div:nth-of-type(2) > div > div > div > div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(8) > a"
+    }
+   ]
+  }
+ ],
+ "voice": {
+  "heroHeadline": "Trixeo recommended for approval in the EU by CHMP for the maintenance treatment of asthma",
+  "register": "brand (corporate newsroom)",
+  "heroImage": null,
+  "heroMedium": null
+ },
+ "systemComponents": [
+  {
+   "name": "site-header",
+   "selector": "#navigation",
+   "pages": 2
+  },
+  {
+   "name": "site-footer",
+   "selector": "#footer",
+   "pages": 2
+  },
+  {
+   "name": "article-date",
+   "selector": ".date",
+   "pages": 2
+  },
+  {
+   "name": "article-sidebar",
+   "selector": ".l-three-block-c2",
+   "pages": 2
+  }
+ ]
+}

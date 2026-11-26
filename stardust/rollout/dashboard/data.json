@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-11-10T16:20:51.923Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.astrazeneca.com/",
+    "liveHost": "main--919093c1--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 2,
+    "prototyped": 2,
+    "deployed": 2,
+    "optimised": 0
+  },
+  "stageExclusive": {
+    "identified": 0,
+    "prototyped": 0,
+    "deployed": 2,
+    "optimised": 0
+  },
+  "pages": [
+    {
+      "slug": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "path": "/media-centre/press-releases/2026/h1-and-q2-2026-results",
+      "stage": "deployed",
+      "templateId": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "path": "/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma",
+      "stage": "deployed",
+      "templateId": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "isTemplate": true,
+      "openFindings": 2
+    }
+  ],
+  "templates": [
+    {
+      "id": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "archetype": "media-centre-press-releases-2026-h1-and-q2-2026-results-html",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "archetype": "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    }
+  ],
+  "blocks": {
+    "total": 11,
+    "converted": 11
+  },
+  "quality": {
+    "overall": 100,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": 100,
+      "content-conversion": null,
+      "ai-search": 100,
+      "cross-page": null
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 0,
+      "P3": 0
+    },
+    "history": [
+      100
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "out-of-scope": 3
+    },
+    "byAutofix": {}
+  }
+}

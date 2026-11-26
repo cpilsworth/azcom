@@ -1,0 +1,22 @@
+{
+  "variantName": "tags",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "description": "Topic tags as centred outlined pills under a visually hidden heading",
+  "visualCharacteristics": {
+    "purpose": "Topic tags as centred outlined pills under a visually hidden heading",
+    "appearance": "Centred outlined pill tags"
+  },
+  "contentPattern": {
+    "structure": "one cell: optional heading (visually hidden), then a bulleted list with one tag per item (text or link)"
+  },
+  "options": [
+    {
+      "class": "flush",
+      "label": "Flush (no own container)"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Foot of press releases and articles",
+  "reuseGuidance": "Reuse on every press release / article; add flush when the host layout already constrains width"
+}

@@ -1,0 +1,168 @@
+{
+  "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/h1-and-q2-2026-results.html",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [
+    {
+      "sel": "#navbar a",
+      "changed": [
+        "self.color",
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(242, 242, 242)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".callToAction a.button",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".therapy-card",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgb(255, 255, 255)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "border-bottom-color",
+        "el": "div.parsys_column.l-two-block > div.parsys_column.l-two-block-c0 > div.callToAction.section > a.button.button--primary > span",
+        "y": 1186,
+        "dur": "0.2s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-disabled"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 90
+      },
+      {
+        "added": [
+          "is-disabled"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 90
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 204
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "body.js > div.container.js-vis-grid > div.nav.mainnav > nav.navigation.js-navigation.js-navigation__multilevel_Opted_base > div.navigation__header-group.navigation__header-sticky.js-navigation__header-sticky",
+        "y": 204
+      }
+    ]
+  }
+}

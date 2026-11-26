@@ -1,0 +1,256 @@
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps--1440/vdiff-iter6/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2921,
+  "textLen": 9679,
+  "images": [
+   {
+    "src": "logo-az-condensed.png",
+    "natural": "36x46",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-az-condensed-white.png",
+    "natural": "36x46",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-az.png",
+    "natural": "216x52",
+    "rendered": "88x23",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "logo-az-white.png",
+    "natural": "216x52",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+    "natural": "450x250",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "OI-helix-hero-450x250.webp",
+    "natural": "450x250",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+    "natural": "900x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2045-ipad-450x2501.webp",
+    "natural": "450x250",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+    "natural": "900x497",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+    "natural": "900x500",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Trixeo recommended for approval ",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "42px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Recommendation based on KALOS an",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Approval would add second indica",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "tags",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "18.72px",
+    "family": "Helvetica Neue",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero-feature__wrapper",
+    "width": 1280,
+    "left": 80
+   },
+   {
+    "sel": "l-constrained",
+    "width": 1280,
+    "left": 80
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 2861,
+  "textLen": 9679,
+  "images": [
+   {
+    "src": "logo-az.png",
+    "natural": "216x52",
+    "rendered": "88x23",
+    "fit": "fill",
+    "stretched": true,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2986_BioPharmaceuticals_TA-Image_Female_Final_RGB-450x250.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "OI-helix-hero-450x250.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ_DiseaseUnderstanding_RGB_Landscape-900x500.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ2045-ipad-450x2501.webp",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "Our-sustainability-impact-2026-thumbnail-900x500.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   },
+   {
+    "src": "AZ3410-Scientist_in_DS_lab_2_900x500.jpg",
+    "natural": "0x0",
+    "rendered": "0x0",
+    "fit": "fill",
+    "stretched": 0,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Trixeo recommended for approval ",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "42px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Recommendation based on KALOS an",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Approval would add second indica",
+    "color": "rgb(60, 66, 66)",
+    "fontSize": "18px",
+    "family": "Times New Roman",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "tags",
+    "color": "rgb(0, 0, 0)",
+    "fontSize": "18.72px",
+    "family": "Helvetica Neue",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "az-hero",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "az-article",
+    "width": 1280,
+    "left": 80
+   }
+  ]
+ }
+}

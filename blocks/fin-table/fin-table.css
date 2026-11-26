@@ -1,0 +1,93 @@
+/* fin-table — the source's embedded .fin-table results table */
+.fin-table {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.fin-table .fin-table-frame {
+  margin: 20px 0;
+  overflow: auto;
+  border: 1px solid #e2e6ea;
+  border-radius: 8px;
+  background: #fff;
+  font-family: var(--font-lexia);
+  line-height: 1.25;
+  text-align: left;
+}
+
+.fin-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.fin-table thead tr {
+  background: var(--az-mulberry);
+  color: #fff;
+  text-align: left;
+}
+
+.fin-table th {
+  padding: 14px 20px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.fin-table td {
+  padding: 13px 20px;
+}
+
+.fin-table :is(th, td):not(:first-child) {
+  text-align: right;
+}
+
+.fin-table th[colspan] {
+  text-align: center;
+}
+
+.fin-table tbody tr {
+  border-top: 1px solid #eef1f3;
+}
+
+.fin-table tbody tr:nth-child(even) {
+  background: #fafbfc;
+}
+
+.fin-table :is(th, td) p {
+  margin: 0;
+}
+
+/* the section's default content: the question heading above the table */
+.fin-table-container .default-content-wrapper {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 20px 20px 0;
+}
+
+.fin-table-container .default-content-wrapper h2 {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 400 21px/26px var(--font-lexia);
+  letter-spacing: 0.03px;
+}
+
+.fin-table-container .default-content-wrapper p {
+  margin: 10px 0;
+  color: var(--az-text);
+  font: 300 14px/20px var(--font-hn);
+  letter-spacing: 0.3px;
+}
+
+@media (width >= 600px) {
+  .fin-table-container .default-content-wrapper {
+    padding-top: 40px;
+  }
+
+  .fin-table-container .default-content-wrapper h2 {
+    font-size: 23px;
+    line-height: 30px;
+    letter-spacing: 0.6px;
+  }
+}

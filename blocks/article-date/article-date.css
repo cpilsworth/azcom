@@ -1,0 +1,55 @@
+/* article-date — the source's .date / .az-date stamp (results + article templates) */
+.article-date {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.article-date .article-date-box {
+  display: flow-root;
+  margin: 0 0 35px;
+  padding: 0 0 26px;
+  box-shadow: rgb(216 216 216 / 50%) 0 16px 23px -16px;
+}
+
+.article-date .article-date-region {
+  float: left;
+  padding-right: 16px;
+  border-right: 1px solid #d8dfde;
+}
+
+.article-date .article-date-title {
+  display: block;
+  padding-bottom: 5px;
+  color: var(--az-text);
+  font: 400 11px/13px var(--font-hn);
+  letter-spacing: 0.6px;
+}
+
+.article-date .article-date-date {
+  display: block;
+  color: var(--az-text);
+  font: 200 16px/20px var(--font-lexia);
+  letter-spacing: 1px;
+}
+
+.article-date .article-date-region p {
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+}
+
+/* variant: flush — no own container (the host layout already constrains it) */
+.article-date.flush {
+  max-width: none;
+  padding: 0;
+}
+
+@media (width >= 960px) {
+  .article-date .article-date-date {
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 1.12px;
+  }
+}

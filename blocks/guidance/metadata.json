@@ -1,0 +1,17 @@
+{
+  "variantName": "guidance",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "description": "Tinted call-out pairing a stacked label (e.g. FY2026 / GUIDANCE / RECONFIRMED) with the guidance statement",
+  "visualCharacteristics": {
+    "purpose": "Tinted call-out pairing a stacked label (e.g. FY2026 / GUIDANCE / RECONFIRMED) with the guidance statement",
+    "appearance": "Tinted panel, stacked uppercase label divided by a vertical rule from the statement"
+  },
+  "contentPattern": {
+    "structure": "one row: cell 1 label (line breaks, sup footnotes), cell 2 statement (key figures in strong); a single cell is statement only"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Guidance statements in results releases",
+  "reuseGuidance": "Reuse for labelled highlight call-outs"
+}
