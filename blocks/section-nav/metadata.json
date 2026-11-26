@@ -1,0 +1,17 @@
+{
+  "variantName": "section-nav",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "description": "Dark sticky strip of in-page jump links under the header",
+  "visualCharacteristics": {
+    "purpose": "Dark sticky strip of in-page jump links under the header",
+    "appearance": "Dark full-width bar, horizontal links, sticks on scroll"
+  },
+  "contentPattern": {
+    "structure": "one cell: bulleted list of links to in-page anchors (#heading-id)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Long press releases with several sections",
+  "reuseGuidance": "Reuse for any in-page anchor navigation bar"
+}

@@ -1,0 +1,17 @@
+{
+  "variantName": "stat-grid",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "description": "Two-column grid of key figures (label, figure, optional change line) in a rounded hairline-divided panel",
+  "visualCharacteristics": {
+    "purpose": "Two-column grid of key figures (label, figure, optional change line) in a rounded hairline-divided panel",
+    "appearance": "Rounded panel, 2-up grid with hairline dividers, large figures"
+  },
+  "contentPattern": {
+    "structure": "one row per figure: cell 1 label, cell 2 figure, cell 3 change line (optional)"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Key performance figures in results releases",
+  "reuseGuidance": "Reuse for any set of headline statistics"
+}

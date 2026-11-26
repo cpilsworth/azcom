@@ -1,0 +1,48 @@
+{
+  "producer": "excat-replica-adapter",
+  "source": {
+    "tool": "stardust",
+    "version": "0.37.1",
+    "flow": "replica",
+    "mode": "rollout"
+  },
+  "originUrl": "https://www.astrazeneca.com/",
+  "previewBase": "https://main--919093c1--aemcoder.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results",
+  "convertedAt": "2026-11-11T16:30:21.868Z",
+  "counts": {
+    "pages": 2,
+    "templates": 2,
+    "blockVariants": 11
+  },
+  "templateNames": {
+    "media-centre-press-releases-2026-h1-and-q2-2026-results-html": {
+      "name": "results-release",
+      "description": "Quarterly/half-year financial results press release with hero, downloads, key figures, financial tables, guidance and therapy/pipeline highlights"
+    },
+    "media-centre-press-releases-2026-trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma-htmlhttps-": {
+      "name": "press-release",
+      "description": "Standard text press release with published date, body copy and topic tags"
+    }
+  },
+  "screenshots": {
+    "capturedAt": "2026-11-11T16:30:41.027Z",
+    "pages": [
+      {
+        "slug": "www_astrazeneca_com_media-centre_press-releases_2026_h1-and-q2-2026-results_html--0ff6f7f5",
+        "captured": 10,
+        "total": 11,
+        "url": "https://aem-20261111--azcom--cpilsworth.aem.page/media-centre/press-releases/2026/h1-and-q2-2026-results"
+      },
+      {
+        "slug": "www_astrazeneca_com_media-centre_press-releases_2026_trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma_htmlhttps--ac8f6a7d",
+        "captured": 0,
+        "total": 2,
+        "url": "https://aem-20261111--azcom--cpilsworth.aem.page/media-centre/press-releases/2026/trixeo-recommended-for-approval-in-the-eu-by-chmp-for-the-maintenance-treatment-of-asthma"
+      }
+    ],
+    "variants": {
+      "total": 11,
+      "cropped": 10
+    }
+  }
+}

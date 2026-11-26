@@ -1,0 +1,17 @@
+{
+  "variantName": "results-downloads",
+  "baseBlock": "custom",
+  "canonicalModel": "collection",
+  "description": "Downloads column of a results release: heading, then one item per document (title + PDF call-to-action), then optional trailing CTAs",
+  "visualCharacteristics": {
+    "purpose": "Downloads column of a results release: heading, then one item per document (title + PDF call-to-action), then optional trailing CTAs",
+    "appearance": "Left column of a two-column section, document titles with button-style PDF triggers"
+  },
+  "contentPattern": {
+    "structure": "Downloads h2 as default content before the block; one row per document: h3 title + bold link CTA to a PDF; rows without a heading are trailing CTAs"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Financial results releases",
+  "reuseGuidance": "Reuse for any list of downloadable documents; PDF links open in a new tab"
+}

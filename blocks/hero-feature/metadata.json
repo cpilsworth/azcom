@@ -1,0 +1,17 @@
+{
+  "variantName": "hero-feature",
+  "baseBlock": "hero",
+  "canonicalModel": "standalone",
+  "description": "Full-bleed cover image with the page title (h1) over a dark scrim on desktop, below the image on mobile",
+  "visualCharacteristics": {
+    "purpose": "Full-bleed cover image with the page title (h1) over a dark scrim on desktop, below the image on mobile",
+    "appearance": "Full-bleed image, dark gradient scrim, large white title"
+  },
+  "contentPattern": {
+    "structure": "row 1 cover image (optional); row 2 page title as h1"
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Top of a results press release",
+  "reuseGuidance": "Reuse for any page-top image + title hero; use the base hero for heroes with CTAs or copy"
+}

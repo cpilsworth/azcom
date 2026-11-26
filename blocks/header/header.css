@@ -318,7 +318,7 @@
 }
 
 .header .az-nav-top::after {
-  content: '\e906';
+  content: '\e902';
   font: 6px/1 az-webfont;
   position: absolute;
   right: 22px;
@@ -663,7 +663,9 @@
     background: none;
   }
 
-  .header .az-nav-top::after {
+  .header .az-nav-top::after,
+  .header .az-nav-top[aria-expanded='true']::after {
+    content: '\e902';
     position: relative;
     right: auto;
     top: -2px;

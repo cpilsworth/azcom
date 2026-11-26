@@ -1,0 +1,22 @@
+{
+  "variantName": "article-date",
+  "baseBlock": "custom",
+  "canonicalModel": "standalone",
+  "description": "Press-release \"PUBLISHED / date\" stamp with a rule on its right and a soft shadow below",
+  "visualCharacteristics": {
+    "purpose": "Press-release \"PUBLISHED / date\" stamp with a rule on its right and a soft shadow below",
+    "appearance": "Small uppercase label over the date, horizontal rule, soft shadow"
+  },
+  "contentPattern": {
+    "structure": "one row: cell 1 label (\"PUBLISHED\"), cell 2 displayed date; or one cell with label and date paragraphs"
+  },
+  "options": [
+    {
+      "class": "flush",
+      "label": "Flush (no own container)"
+    }
+  ],
+  "memberVariantIds": [],
+  "usage": "Press releases and articles, under the hero",
+  "reuseGuidance": "Reuse on every press release / article; add flush when the host layout already constrains width"
+}
